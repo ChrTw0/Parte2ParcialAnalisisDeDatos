@@ -1,0 +1,29 @@
+/* styles.css */
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+#sidebar {
+    width: 280px;
+    min-height: 100vh; /* Asegura que la sidebar ocupe toda la altura */
+}
+
+#main-content {
+    background-color: #f8f9fa; /* Un fondo ligeramente gris para el área de contenido */
+}
+
+.table-responsive {
+    max-height: 65vh; /* Limita la altura de la tabla para permitir scroll */
+}
+
+/* Estilo para los encabezados de tabla que se pueden ordenar */
+.sortable-header {
+    cursor: pointer;
+}
+
+.sortable-header:hover {
+    background-color: #e9ecef;
+}

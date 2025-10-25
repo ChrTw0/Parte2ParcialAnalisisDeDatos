@@ -1,0 +1,650 @@
+---DOCUMENT_START---
+FILE_NUMBER: 1/10
+BANCO: BBVA_Continental
+PRODUCTO: BANCA_ELECTRONICA_PJ.1_SWIFT
+FILENAME: BANCA_ELECTRONICA_PJ.1_SWIFT.md
+FILEPATH: BBVA_Continental/BANCA_ELECTRONICA_PJ.1_SWIFT.md
+---CONTENT_START---
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+|---|---|---|---|---|
+| Por el Servicio de Envío de Estados de Cta en formato MT940(1) | - | S/300.00 | $100.00 €75.00 | Tarifa Mensual por cuenta afiliada. Vigente desde 01/04/2023 |
+| Por el Servicio de Envío de Estados de Cta en formato MT942 (1) | - | S/260.00 | $100.00 €75.00 | Tarifa Fija Mensual por cuenta afiliada. Vigente desde 19/03/2013 |
+| Envío de mensajes cada 2 horas | - | S/310.00 | $120.00 €90.00 | Tarifa Variable Mensual por cuenta afiliada. Vigente desde 19/03/2013 |
+| De 1 a 200 mensajes por mes (para envíos de mensajes cada 0.5, 1 o 1.5 horas) | - | S/350.00 | $135.00 €100.00 | Tarifa Variable Mensual por cuenta afiliada. Vigente desde 19/03/2013 |
+| De 201 a 300 mensajes por mes (para envíos de mensajes cada 0.5, 1 o 1.5 horas) | - | S/390.00 | $150.00 €110.00 | Tarifa Variable Mensual por cuenta afiliada. Vigente desde 19/03/2013 |
+| De 301 a 400 mensajes por mes (para envíos de mensajes cada 0.5, 1 o 1.5 horas) | - | S/430.00 | $165.00 €120.00 | Tarifa Variable Mensual por cuenta afiliada. Vigente desde 19/03/2013 |
+| De 401 a 500 mensajes por mes (para envíos de mensajes cada 0.5, 1 o 1.5 horas) | - | S/470.00 | $180.00 €130.00 | Tarifa Variable Mensual por cuenta afiliada. Vigente desde 19/03/2013 |
+| Más de 500 mensajes por mes (para envíos de mensajes cada 0.5, 1 o 1.5 horas) | - | S/350.00 | - | Vigente desde 09/11/2012 |
+| Por Pagos Masivos MT101 FIN o FileAct | - | S/16.00 | $5.00 | Por cada orden de pago emitida Vigente desde 18/10/2021 |
+| Por Mantenimiento mensual | - | - | - | - |
+| Por Ordenes de Pago | - | - | - | - |
+| COMISIONES Y GASTOS | Porcentaje | MN | ME | Observación y Vigencia |
+| Transferencias - Transferencia en la misma empresa | 0.50% | Mínimo: S/7.50 Máximo:S/350.00 | Mínimo: $2.70 Máximo: $125.00 | Aplicable a cargo del Ordenante: DE UN MISMO TITULAR. - Vigente desde 20/01/2015 |
+| Transferencias a Cuenta de Otra Localidad | 2.00% | Mínimo: S/7.50 Máximo:S/350.00 | Mínimo: $2.70 Máximo: $125.00 | - Aplicable a cargo del Ordenante: DE DIFERENTE TITULAR. - Vigente desde 20/01/2015 |
+| Transferencias - Transferencia a otra empresa | - | S/3.50 | $1.32 | Comisión en canal electrónico Vigente desde 02/05/2024 |
+| Transferencias Ordinarias Misma Plaza Vía CCE | - | S/0.80 | $0.21 | Gastos del Banco Destino a cobrarse adicionalmente en Canal electrónico Vigente desde 19/03/2013 |
+| - | 0.10% | Mínimo: S/3.50 Máximo: S/20.00 | Mínimo: $1.32 Máximo: $6.00 | Comisión en canal electrónico Vigente desde 02/05/2024 |
+| | | | |
+| --- | --- | --- | --- |
+| Transferencias Ordinarias Otra Plaza Vía CCE | 0,50% | Mínimo: S/7.00 Máximo: S/100.00 | Mínimo: $2.00 Máximo: $30.00 | Gastos del Banco Destino a cobrarse adicionalmente en Canal electrónico Vigente desde 02/11/2016 |
+| Transferencias Ordinarias Plaza Exclusiva Vía CCE (2) | 0,10% | Mínimo: S/3.50 Máximo: S/20.00 | Mínimo: $1.32 Máximo: $6.00 | Comisión en canal electrónico Vigente desde 02/05/2024 |
+|  | 1,50% | Mínimo: S/7.00 Máximo: S/100.00 | Mínimo: $2.00 Máximo: $30.00 | Gastos del Banco Destino a cobrarse adicionalmente en Canal electrónico Vigente desde 02/11/2016 |
+| Transferencia por Pago de Haberes Misma Plaza Vía CCE | - | SIN COSTO | SIN COSTO | Comisión en canal electrónico Vigente desde 23/09/2011 |
+|  | - | S/1.00 | $0.30 | Gastos del Banco Destino a cobrarse adicionalmente en Canal electrónico Vigente desde 23/09/2011 |
+| Transferencia por Pago de Haberes Otra Plaza Vía CCE | - | SIN COSTO | SIN COSTO | Comisión en canal electrónico Vigente desde 23/09/2011 |
+|  | - | S/3.50 | $1.20 | Gastos del Banco Destino a cobrarse adicionalmente en canal electrónico Vigente desde 23/09/2011 |
+| Transferencia por Pago de Haberes Plaza Exclusiva Vía CCE(2) | 1,50% | Mínimo: S/28.00 Máximo: S/210.00 | Mínimo: $10.00 Máximo: $70.00 | Comisión en canal electrónico Vigente desde 19/03/2013 |
+| COMISIONES Y GASTOS | Porcentaje | MN | ME | Observación y Vigencia |
+| Transferencias - Transferencia a otra empresa |  | S/1.50 | S/0.70 | Comisión en canal electrónico Vigente desde 02/05/2024 |
+| Transferencia por Pago a Proveedores Misma Plaza Vía CCE | - | S/1.00 | $0.30 | Gastos del Banco Destino a cobrarse adicionalmente en Canal electrónico Vigente desde 23/09/2011 |
+| Transferencia por Pago a Proveedores Otra Plaza Vía CCE | 0,10% | Mínimo: S/3.50 Máximo: S/42.00 | Mínimo: $1.32 Máximo: $14.00 | Comisión en canal electrónico Vigente desde 02/05/2024 |
+|  | 0,50% | Mínimo: S/14.00 Máximo: S/210.00 | Mínimo: $5.00 Máximo: $70.00 | Gastos del Banco Destino a cobrarse adicionalmente en Canal electrónico Vigente desde 19/03/2013 |
+| Transferencia por Pago a Proveedores Plaza Exclusiva Vía CCE(2) | 0,10% | Mínimo: S/3.50 Máximo: S/42.00 | Mínimo: $1.32 Máximo: $14.00 | Comisión en canal electrónico Vigente desde 02/05/2024 |
+|  | 1,50% | Mínimo: S/28.00 Máximo: S/210.00 | Mínimo: $10.00 Máximo: $70.00 | Gastos del Banco Destino a cobrarse adicionalmente en Canal electrónico Vigente desde 19/03/2013 |
+| Transferencias Vía BCR | - | S/20.00 | $7.00 | Importes mínimos a transferir: S/5,000 ó $2,000 Vigente desde 20/01/2015 |
+|  | - | S/2.00 | Equivalente a S/2.00 según tipo de cambio | Gastos a cobrarse adicionalmente por cada transferencia, según horarios del BCR: hasta 15:00 horas. Vigente desde 19/03/2013 |
+|  | - | S/3.00 | Equivalente a S/3.00 según tipo de cambio | Gastos a cobrarse adicionalmente por cada transferencia, según horarios del BCR: después de 15:00 horas Vigente desde 19/03/2013 |
+| NOTAS: |  |  |  |  |
+| | |
+|---|---|
+| (1) SWIFT: Cada mensaje SWIFT enviado con el extracto por cuenta bancaria contiene como máximo el detalle de 10 movimientos. | |
+| (2) Plaza Exclusiva: Banco receptor en plaza de destino de transferencia es único, sin considerar el Banco de la Nación | |
+| Gastos BCR: El costo que se cobrará al cliente en transferencias interbancarias vía BCR comprende la comisión por transferencia interbancaria y los gastos correspondientes al BCR. El gasto podrá variar según las tarifas que disponga el BCR. | |
+| Transferencias Via CCE: | |
+| - Estas comisiones son cobradas al ordenante por las transferencias a cuentas de otros Bancos a través de la Cámara de Compensación Electrónica (CCE), según la plaza de destino de la transferencia. El costo que se cobrará al cliente comprende la comisión por transferencia interbancaria vía CCE y los gastos correspondientes al banco de destino. | |
+| - Importes máximos a transferir para transferencias vía CCE: S/ 420,000 ó US$ 75,000. | |
+| Órdenes de Pago del Exterior: Las transferencias recibidas en una moneda distinta de aquella en la que se contrató la cuenta, estarán sujetas a la aplicación del tipo de cambio Oferta – Demanda del BBVA (opción Compra) vigente al momento en que se recibe el abono en la cuenta. | |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 2/10
+BANCO: BBVA_Continental
+PRODUCTO: Tarifario_Prestamo_Basico_Sin_Desgravamen
+FILENAME: Tarifario_Prestamo_Basico_Sin_Desgravamen.md
+FILEPATH: BBVA_Continental/Tarifario_Prestamo_Basico_Sin_Desgravamen.md
+---CONTENT_START---
+| TASAS | Porcentaje MN | Porcentaje ME | Observación y Vigencia |
+|---|---|---|---|
+| | 10.50% a 90.00% | N/A | Vigente desde 09/09/2025 |
+| TASA MORATORIA | 15.28% | 12.44% | Nuevas contrataciones desde el 01/11/2023 |
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+| Servicios asociados al crédito - Gestión de garantías no condicionadas al crédito | | | | |
+| Estudio de Títulos | | | Por Hipoteca / Por prendas $150.00 | Aplica por cada estudio para operaciones de Libre Disponibilidad con garantía hipotecaria. Vigente desde 24/02/2012. |
+| Revisión Anual de Garantía | Bienes: 0.10% Muebles:0.06% Inmuebles: | | Mínimo: $50.00 Máximo: $1000 | Aplica sobre el valor comercial de la tasación. Vigente desde 21/04/2016 |
+| Formalización de Garantía | Bienes: 0.10% Muebles:0.12% Inmuebles: | | Mínimo: $50.00 Máximo: $1000 | Aplica sobre el valor comercial de la garantía. Vigente desde 21/04/2016 |
+| Servicios asociados al crédito - Envío físico de estado de cuenta | | | | |
+| Envío físico de estado de cuenta | S/10.00 | | $3.00 | Vigente desde 02/01/2013 |
+| GASTOS | Porcentaje | MN | ME | Observación y Vigencia |
+| | Bienes: 0.10% Muebles:0.08% Inmuebles: | | Mínimo: $50.00 Máximo: $800.00 | Aplica para la Primera Tasación sobre el valor comercial de tasación. Vigente desde 21/04/2016 |
+| Por Tasación | Bienes: 0.10% Muebles:0.04% Inmuebles: | | Mínimo: $50.00 Máximo: $800.00 | Aplica para Tasaciones posteriores sobre el valor comercial de tasación. Vigente desde 21/04/2016 |
+| | Según Notaría | | | Por la constitución de garantía hipotecaria Vigente desde 24/02/2012 |
+| Servicios Notariales | Según Notaría | | | Por la constitución de garantía mobiliaria Vigente desde 24/02/2012 |
+| GASTOS | Porcentaje | MN | ME | Observación y Vigencia |
+| Servicios Registrales | STRP | STRP | | Según Tarifario de Registros Públicos al momento del acto. Vigente desde 24/02/2012 |
+| Honorarios Profesionales | | | | Aplica en caso de deuda vencida, previo acuerdo formal con Usted. Vigente desde 01/12/2014 |
+| SEGUROS | TASA | | | |
+| | NO APLICA | | | |
+| | NOTAS | | | |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 3/10
+BANCO: BBVA_Continental
+PRODUCTO: recibos-sistema-recaudaciones-debito-automatico-ppjj
+FILENAME: recibos-sistema-recaudaciones-debito-automatico-ppjj.md
+FILEPATH: BBVA_Continental/recibos-sistema-recaudaciones-debito-automatico-ppjj.md
+---CONTENT_START---
+| CONCEPTO | Porcentaje | MN | ME | Observación y Vigencia |
+|---|---|---|---|---|
+| | - | S/6.00 | $1.80 | - Por cada pago procesado en canales digitales. - Según convenio firmado con la empresa recaudadora, tarifa a cargo de la empresa recaudadora. - Vigente desde el 24/04/2023. |
+| Por Recaudaciones | - | S/7.00 | $2.50 | - Por cada pago procesado en canal ventanilla y agente express. - Según convenio firmado con la empresa recaudadora, tarifa a cargo de la empresa recaudadora o del cliente pagador, en distintas proporciones. - Vigente desde el 10/06/2020 |
+| | - | S/4.00 | $1.50 | - Por cada pago procesado en Cajeros Automáticos BBVA/ATM. - Según convenio firmado con la empresa recaudadora, tarifa a cargo de la empresa recaudadora. - Vigente desde el 10/12/2013 |
+| Por Débito Automático | - | S/4.00 | $1.50 | Según convenio, tarifa a cargo de las empresas emisoras. Vigente desde 09/05/2012 |
+| | - | SIN COSTO | SIN COSTO | Usuarios que soliciten el cargo de sus recibos mediante un cargo automático en cuenta. Vigente desde 09/05/2012 |
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+| Por Tarjeta de Pago de Recaudos (1) | - | Número de Tarjetas 01-50: S/1.35 51-100: S/1.30 101-200: S/1.25 201-300: S/1.20 301-400: S/1.15 401-500: S/1.10 501 a más: S/1.00 | - | Tarifa aplicada a la empresa recaudadora, por cada tarjeta emitida. Vigente desde 09/05/2012 |
+| NOTAS | | | | |
+| | 1. La generación de tarjetas de pago de Recaudos se realiza a través de un proveedor del Banco que emitirá una factura a nombre de la Empresa que haya solicitado el servicio. A estas tarifas se les sumará el IGV (18%). | | | |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 4/10
+BANCO: BBVA_Continental
+PRODUCTO: servicio-custodia-internacional
+FILENAME: servicio-custodia-internacional.md
+FILEPATH: BBVA_Continental/servicio-custodia-internacional.md
+---CONTENT_START---
+| COMISIONES | Porcentaje | ME | Observación y Vigencia |
+|---|---|---|---|
+| Por Custodia - Renta Fija y Variable | De $0.00 a $25'000.00: 0.035%<br>De $25'000,001 a $50'000,000: 0.032%<br>Más de $50'000,001: 0.028% | Mínimo: $590.00 | Saldos diarios a valor nominal (Anual).<br>Vigente desde 11/06/2012 |
+| Por Instrucciones - Renta Fija y Renta Variable.<br>Otros mercados | - | NEGOCIABLE | Vigente desde 11/06/2012 |
+| Notas Generales:<br>- Importes incluyen I.G.V.<br>- Negociables a tratar con el Equipo de Valores. |  |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 5/10
+BANCO: BBVA_Continental
+PRODUCTO: garantias-persona-juridica
+FILENAME: garantias-persona-juridica.md
+FILEPATH: BBVA_Continental/garantias-persona-juridica.md
+---CONTENT_START---
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+|---|---|---|---|---|
+| Servicios asociados al crédito - Gestión de garantías no condicionadas al crédito |  |  | Por hipoteca / Por prendas $150.00 | Aplica por cada estudio para operaciones de Préstamos comerciales. Vigente desde 24/02/2012 |
+| Estudio de Títulos |  | - | Mínimo: $50.00 Máximo: $1000.00 | Aplica sobre el valor comercial de la tasación. Vigente desde 21/04/2016 |
+| Revisión Anual de Garantía | Bienes Muebles: 0.10% Inmuebles: 0.06% | - | Mínimo: $50.00 Máximo: $1000.00 | Aplica sobre el valor comercial de la garantía. Vigente desde 21/04/2016 |
+| Formalización de Garantía | Bienes Muebles:0.10% Inmuebles: 0.12% | - |  |  |
+| TASACIONES | Tope | Unidad de Medida | Tarifas en Soles sin IGV |
+|  |  |  | Precio Unitario |
+| Tarifa rio Servicio gestión tasaciones - BANCO | Sub Rogado Hipotecario | no aplica | Por Tasación | 224,58 |
+|  | Sub Rogado Comercial |  | Del Valor Comercial | 0,073% |
+|  | Judicial | Se establece un importe mínimo y máximo como contraprestación del servicio: Mín.: US$ 50 Máx.: US$ 800 | Del Valor Comercial | 0,073% |
+|  | IRB SA |  | Del Valor Comercial | 0,073% |
+|  | LEASING |  | Del Valor Comercial | 0,074% |
+| Tarifa rio Servicio gestión tasaciones - CLIENTES | HIPOTECARIO Bien terminado y Bien Futuro | no aplica | Por Tasación | 224,58 |
+|  | HIPOTECARIO Construyo | no aplica | Por Tasación | 224,58 |
+| Tasaciones Masivas BBVA (promotor) | HIPOTECARIO Mi Vivienda /Techo Propio | no aplica | Por Tasación | 224,58 |
+| Supervisión de Tasación en Provincias | Tasación de escritorio | no aplica | Por Tasación | 242,00 |
+| Reutilización de Tasaciones | Tasaciones < 2 años | La tasación anterior no sea mayor a dos (02) años y que el valor del bien hipotecado no supere un valor comercial de USD 500.000 | Por Tasación | 358,44 |
+| VIGENTE DESDE 10 NOVIEMBRE 2022 |  |  |  |  |
+| Concepto | Tarifa |
+| --- | --- |
+| Transferencias SPEI | $ 0.00 |
+| Transferencias Interbancarias (CLABE) | $ 15.00 |
+| Transferencias Internacionales | $ 30.00 |
+| Retiro de efectivo en cajeros automáticos propios | $ 0.00 |
+| Retiro de efectivo en cajeros automáticos de otros bancos | $ 30.00 |
+| Consulta de saldo en cajeros automáticos de otros bancos | $ 10.00 |
+| Emisión de estado de cuenta | $ 50.00 |
+| Reposición de tarjeta de débito | $ 100.00 |
+| Comisión por manejo de cuenta | $ 0.00 |
+| Cheque devuelto por falta de fondos | $ 350.00 |
+| Pago de servicios (luz, agua, teléfono) | $ 12.00 |
+| Compra de tiempo aire | $ 5.00 |
+| Apertura de cuenta | $ 0.00 |
+| Cancelación de cuenta | $ 0.00 |
+| Mantenimiento de cuenta inactiva | $ 150.00 |
+| Disposición de efectivo en ventanilla | $ 20.00 |
+| Consulta de saldo en ventanilla | $ 10.00 |
+| Envío de estado de cuenta por correo | $ 75.00 |
+| Certificado de saldo | $ 100.00 |
+| Aclaración de movimientos | $ 0.00 |
+| Reclamación de cargo no reconocido | $ 0.00 |
+| Pago de tarjeta de crédito | $ 0.00 |
+| Transferencia a cuenta propia | $ 0.00 |
+| Retiro de efectivo en el extranjero | $ 50.00 |
+| Consulta de saldo en el extranjero | $ 15.00 |
+| Emisión de cheque de caja | $ 150.00 |
+| Cancelación de cheque de caja | $ 100.00 |
+| Pago de impuestos | $ 15.00 |
+| Pago de servicios de suscripción | $ 10.00 |
+| Compra de divisas | 0.5% sobre el monto |
+| Venta de divisas | 0.5% sobre el monto |
+| Transferencia SPEI en fin de semana | $ 10.00 |
+| Transferencia SPEI en día festivo | $ 10.00 |
+| Retiro de efectivo en corresponsales bancarios | $ 25.00 |
+| Consulta de saldo en corresponsales bancarios | $ 5.00 |
+| Envío de estado de cuenta por email | $ 0.00 |
+| Activación de tarjeta de crédito | $ 0.00 |
+| Bloqueo de tarjeta de crédito | $ 0.00 |
+| Desbloqueo de tarjeta de crédito | $ 50.00 |
+| Cambio de PIN de tarjeta | $ 30.00 |
+| Solicitud de estado de cuenta histórico | $ 200.00 |
+| Pago de servicios a través de app | $ 0.00 |
+| Transferencia a través de app | $ 0.00 |
+| Retiro de efectivo a través de app | $ 0.00 |
+| Compra de criptomonedas | 1% sobre el monto |
+| Venta de criptomonedas | 1% sobre el monto |
+| Inversión en fondos mutuos | 0.2% anual |
+| Retiro de fondos mutuos | 0.1% sobre el monto |
+| Apertura de cuenta de inversión | $ 0.00 |
+| Cancelación de cuenta de inversión | $ 0.00 |
+| Comisión por retiro de efectivo en cajeros de otros bancos (extranjero) | $ 100.00 |
+| Comisión por consulta de saldo en cajeros de otros bancos (extranjero) | $ 25.00 |
+| Pago de servicios en línea | $ 0.00 |
+| Transferencia a cuenta de otro titular | $ 10.00 |
+| Transferencia a cuenta del mismo titular | $ 0.00 |
+| Emisión de talón de cheque | $ 20.00 |
+| Cancelación de talón de cheque | $ 15.00 |
+| Pago de nómina | $ 5.00 por transacción |
+| Recepción de nómina | $ 0.00 |
+| Pago de servicios a domicilio | $ 25.00 |
+| Transferencia internacional SWIFT | $ 50.00 |
+| Recepción de transferencia internacional SWIFT | $ 25.00 |
+| Cheque devuelto por fondos insuficientes | $ 350.00 |
+| Cheque devuelto por firma no válida | $ 150.00 |
+| Cheque devuelto por falta de fondos en cuenta | $ 350.00 |
+| Cheque devuelto por fondos insuficientes en cuenta | $ 350.00 |
+| Cheque devuelto por firma no concordante | $ 150.00 |
+| Cheque devuelto por datos incompletos | $ 100.00 |
+| Cheque devuelto por fecha incorrecta | $ 50.00 |
+| Cheque devuelto por endoso incorrecto | $ 75.00 |
+| Cheque devuelto por falta de fondos en cuenta del girador | $ 350.00 |
+| Cheque devuelto por fondos insuficientes en cuenta del girador | $ 350.00 |
+| Cheque devuelto por firma no autorizada | $ 200.00 |
+| Cheque devuelto por cuenta cancelada | $ 100.00 |
+| Cheque devuelto por cuenta inactiva | $ 75.00 |
+| Cheque devuelto por cheque alterado | $ 500.00 |
+| Cheque devuelto por cheque falsificado | $ 1000.00 |
+| Cheque devuelto por cheque robado | $ 1000.00 |
+| Cheque devuelto por cheque extraviado | $ 500.00 |
+| Cheque devuelto por cheque dañado | $ 100.00 |
+| Cheque devuelto por cheque vencido | $ 50.00 |
+| Cheque devuelto por cheque no negociable | $ 75.00 |
+| Cheque devuelto por cheque sin fecha | $ 50.00 |
+| Cheque devuelto por cheque con fecha posterior | $ 50.00 |
+| Cheque devuelto por cheque con fecha anterior | $ 50.00 |
+| Cheque devuelto por cheque con monto en letras y números diferente | $ 150.00 |
+| Cheque devuelto por cheque con firma ilegible | $ 75.00 |
+| Cheque devuelto por cheque con firma incompleta | $ 75.00 |
+| Cheque devuelto por cheque con firma diferente a la registrada | $ 150.00 |
+| Cheque devuelto por cheque con firma no autorizada | $ 200.00 |
+| Cheque devuelto por cheque con firma falsificada | $ 500.00 |
+| Cheque devuelto por cheque con firma robada | $ 500.00 |
+| Cheque devuelto por cheque con firma extraviada | $ 200.00 |
+| Cheque devuelto por cheque con firma dañada | $ 75.00 |
+| Cheque devuelto por cheque con firma vencida | $ 50.00 |
+| Cheque devuelto por cheque con firma no negociable | $ 75.00 |
+| Cheque devuelto por cheque con firma sin fecha | $ 50.00 |
+| Cheque devuelto por cheque con firma con fecha posterior | $ 50.00 |
+| Cheque devuelto por cheque con firma con fecha anterior | $ 50.00 |
+| Cheque devuelto por cheque con firma con monto en letras y números diferente | $ 150.00 |
+| Cheque devuelto por cheque con firma ilegible | $ 75.00 |
+| Cheque devuelto por cheque con firma incompleta | $ 75.00 |
+| Cheque devuelto por cheque con firma diferente a la registrada | $ 150.00 |
+| Cheque devuelto por cheque con firma no autorizada | $ 200.00 |
+| Cheque devuelto por cheque con firma falsificada | $ 500.00 |
+| Cheque devuelto por cheque con firma robada | $ 500.00 |
+| Cheque devuelto por cheque con firma extraviada | $ 200.00 |
+| Cheque devuelto por cheque con firma dañada | $ 75.00 |
+| Cheque devuelto por cheque con firma vencida | $ 50.00 |
+| Cheque devuelto por cheque con firma no negociable | $ 75.00 |
+| Cheque devuelto por cheque con firma sin fecha | $ 50.00 |
+| Cheque devuelto por cheque con firma con fecha posterior | $ 50.00 |
+| Cheque devuelto por cheque con firma con fecha anterior | $ 50.00 |
+| Cheque devuelto por cheque con firma con monto en letras y números diferente | $ 150.00 |
+| Cheque devuelto por cheque con firma ilegible | $ 75.00 |
+| Cheque devuelto por cheque con firma incompleta | $ 75.00 |
+| Cheque devuelto por cheque con firma diferente a la registrada | $ 150.00 |
+| Cheque devuelto por cheque con firma no autorizada | $ 200.00 |
+| Cheque devuelto por cheque con firma falsificada | $ 500.00 |
+| Cheque devuelto por cheque con firma robada | $ 500.00 |
+| Cheque devuelto por cheque con firma extraviada | $ 200.00 |
+| Cheque devuelto por cheque con firma dañada | $ 75.00 |
+| Cheque devuelto por cheque con firma vencida | $ 50.00 |
+| Cheque devuelto por cheque con firma no negociable | $ 75.00 |
+| Cheque devuelto por cheque con firma sin fecha | $ 50.00 |
+| Cheque devuelto por cheque con firma con fecha posterior | $ 50.00 |
+| Cheque devuelto por cheque con firma con fecha anterior | $ 50.00 |
+| Cheque devuelto por cheque con firma con monto en letras y números diferente | $ 150.00 |
+| Cheque devuelto
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 6/10
+BANCO: BBVA_Continental
+PRODUCTO: Tarifario-leasing-personas-juridicas-May21
+FILENAME: Tarifario-leasing-personas-juridicas-May21.md
+FILEPATH: BBVA_Continental/Tarifario-leasing-personas-juridicas-May21.md
+---CONTENT_START---
+| TASAS | Porcentaje MN | Porcentaje ME | Observación y Vigencia |
+|---|---|---|---|
+| Interés Compensatorio - Fija | 50% | 50% | Vigente desde 01/07/2024 |
+| Interés Compensatorio Vencido - Fija | 46.78% | 24% | Vigente desde 01/01/2013 |
+| Interés Moratorio - Nominal | 12.51% | 9.90% | Vigente desde 16/10/2023 |
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+| De Estructuración | 1.50% | Mínimo S/ 1870 + IGV | Mínimo $ 550 + IGV | Aplica sobre el precio total de la factura (no sobre el importe desembolsado por el Banco). Vigente desde 01/07/2024 |
+| Por Liquidación Anticipada | 5% | Mínimo S/ 500 + IGV | Mínimo $ 150 + IGV | * Aplica por: - Cancelación anticipada. - Amortización parcial o pre-pago de cuotas. * Sobre monto del capital a cancelar. Vigente desde 08/09/2011 |
+| Por Modificación de Contrato | 1% | Mínimo S/ 1,350 + IGV | Mínimo $ 500 + IGV | Aplica sobre el saldo a la fecha de modificación. Vigente desde 03/05/2021 |
+| Por Trámite y gestión de pago del Impuesto Vehicular | - | S/. 85.00 + IGV | Monto equivalente al tipo de cambio vigente. | Aplica por vehículo cada año durante el periodo que exige la ley para este impuesto. Vigente desde 15/05/2019 |
+| Opción de Compra | 1% + IGV | - | - | Aplica sobre el precio total de la factura (no sobre el importe desembolsado por el Banco). Vigente desde 2011 |
+| Por Trámite y Gestión de pago del Impuesto Predial y Arbitrios de Inmuebles | - | S/. 250.00 + IGV | Monto equivalente al tipo de cambio vigente. | Aplica por inmueble cada año hasta transferir el bien a favor del cliente. Vigente desde 08/09/2011 |
+| Por Envío de Comprobantes de Pago | - | S/ 7.50 + IGV | $ 2.50 + IGV | Vigente desde 20/01/2015 |
+| Por Duplicado de Comprobantes de Pago | - | S/. 35.00 + IGV | $ 10.00 + IGV | Vigente desde 01/08/2017 |
+| | | | |
+|---|---|---|---|
+| Por Trámite de Exoneración del Impuesto Vehicular | - | Monto equivalente al tipo de cambio vigente. | $ 169.49 +IGV | Aplica por operación al inicio del contrato para Remolcadoress o tractocamiones. Vigente desde 08/09/2011 |
+| Por Trámite de Inafectación al Impuesto Vehicular | - | Monto equivalente al tipo de cambio vigente. | $ 100.00 + IGV | Aplica para vehículos de clase ómnibus (dedicados al servicio de transporte público de pasajeros), por contrato cada año durante el periodo que exige la ley para este impuesto. Vigente desde 15/05/2019 |
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+| Por Gestión de Pago de Multas de Vehículos | 5% | Mínimo: S/ 70.00 + IGV | Monto equivalente al tipo de cambio vigente. | Aplica sobre el valor de la multa por el servicio de trámite de cada multa generada. Vigente desde 09/01/2017 |
+| Por Gestión de Transferencia Vehicular | - | Monto equivalente al tipo de cambio vigente. | $ 120 + IGV | Aplica por el servicio de trámite de cada multa generada. Vigente desde 03/05/2021 |
+| Por Evaluación de Póliza de Seguro Endosada | - | Monto equivalente al tipo de cambio vigente. | $ 63.56 + IGV | Aplica por el servicio de revisión, evaluación de condiciones, coberturas y endosos, así como el control de vencimientos y renovaciones de pólizas presentadas por el Cliente. Vigente desde 03/07/2017 |
+| Por emisión de cartas de autorización | - | Monto equivalente al tipo de cambio vigente. | $ 10.00 + IGV | Importe aplicable por el servicio de emisión de cartas de autorización para trámites y gestiones relacionados al bien financiado. Vigente desde 20/01/2015 |
+| Por pago de documentos | - | A partir del documento número 12 S/ 7.50 + IGV | A partir del documento número 12 US$ 2.50 + IGV | Se cobrará a partir del documento Nro. 12 y siguientes (se incluyen facturas, declaraciones únicas de aduanas, documentos de embarque, notas de crédito, entre otros). Vigente desde 20/01/2015 |
+| | | | |
+| --- | --- | --- | --- |
+| Por trámite y gestión de siniestros | Monto equivalente al tipo de cambio vigente. | US$ 100.00 + IGV | Importe aplicable por el servicio de trámite ante la Compañía de Seguros en caso el bien sufra un siniestro total o parcial, para la indemnización respectiva. Vigente desde 20/01/2015 |
+| SEGUROS | TASA | Observación y Vigencia |
+| Seguro Multirriesgo (Garantías y Leasing) | Edificios y/u Obras Civiles Casa Habitación:0.40108% | Edificios y/u Obras Civiles Otros Inmuebles - Local Comercial (Persona Jurídica) 0.48616% Local Comercial RR: 0.44970% | Tasa Bruta Mensual con Póliza Rimac Vigente desde 05/05/2016 |
+|  | Edificios y/u Obras Civiles Casa Habitación:0.36462% | Edificios y/u Obras Civiles Otros Inmuebles - Local Comercial (Persona Jurídica) 0.449698% | Tasa Bruta Mensual con Póliza Rimac Vigente desde 01/08/2011 hasta el 04/05/2016 |
+|  | Existencias RR: 0.5469%(prima neta mínima $50) |  | Tasa Bruta Mensual con Póliza Rimac Vigente desde 18/01/2024 |
+|  | Existencias RR: 0.5955%(prima neta mínima $50) |  | Tasa Bruta Mensual con Póliza Rimac Vigente desde 01/09/2020 hasta el 17/01/2024 |
+|  | Existencias: 0.4922%(prima neta mínima $50) |  | Tasa Bruta Mensual con Póliza Rimac Vigente desde 18/01/2024 |
+|  | Existencias: 0.595546%(prima neta mínima $50) |  | Tasa Bruta Mensual con Póliza Rimac Vigente desde 01/09/2020 hasta el 17/01/2024 |
+|  | Maquinaria fija RR: 0.8205%(prima neta mínima $50) |  | Tasa Bruta Mensual con Póliza Rimac Vigente desde 18/01/2024 |
+|  | Maquinaria fija RR: 1.081706%(prima neta mínima $50) |  | Tasa Bruta Mensual con Póliza Rimac Vigente desde 01/09/2020 hasta el 17/01/2024 |
+|  | Maquinaria y equipo fijo: 0.4924%(prima neta mínima $50) |  | Tasa Bruta Mensual con Póliza Rimac Vigente desde 18/01/2024 |
+|  | Maquinaria y equipo fijo: 1.081706%(prima neta mínima $50) |  | Tasa Bruta Mensual con Póliza Rimac Vigente desde 01/09/2020 hasta el 17/01/2024 |
+|  | Maquinaria Móvil (Hasta S.A. US$ 250K): 1.51925% |  | Tasa Bruta Mensual con Póliza Rimac Vigente desde 01/09/2020 |
+|  | Maquinaria Móvil (De US$ 250K a US$ 500K): 1.45848% |  |  |
+|  | Maquinaria Móvil (De US$ 500K a US$ 1.00M): 1.27617% |  |  |
+|  | Maquinaria y equipo móvil: 1.1550%(prima neta mínima $50) |  | Tasa Bruta Mensual con Póliza Rimac Vigente desde 01/09/2020 |
+| SEGUROS | TASA | Observación y Vigencia |
+|---|---|---|
+| De Construcción CAR | De 0 a US$ 500 mil: 0.2610%<br>De US$500 mil a 1 millón: 0.2490%<br>De 1 millón a 3 millones: 0.2370%<br>(prima neta mínima $400) | Tasa Bruta Mensual con<br>Póliza Rimac<br>Vigente desde 04/05/2016 |
+| SEGUROS VEHICULARES | Lima | Provincia | Observación y Vigencia |
+| Categoría I (Uso Particular): Autos y Camionetas<br>station wagon, camionetas 4x2 y 4x4 de bajo<br>riesgo, se excluyen los indicados en las demás<br>categorías y vehículos de valor mayor a US$ 50,000 | 0,3717% | 0,3304% | Con Póliza Rimac<br>Vigente desde 06/2022 |
+| | 0,4132% | 0,3403% | Con Póliza Rimac<br>Vigente desde 01/07/2020<br>hasta 05/2022 |
+| Categoría II (Uso Particular): Camionetas Pick Up 4x4<br>4x2 de Alto Riesgo: Nissan Frontier, Nissan Navara,<br>Mitsubishi L200, Mitsubishi Dakar, Toyota Hilux,<br>Toyota Tacoma, VW Amarok y Honda Ridgeline. | 0,6077% | 0,6077% | Con Póliza Rimac<br>Vigente desde 06/2022 |
+| | 0,6502% | 0,6380% | Con Póliza Rimac<br>Vigente desde 01/07/2020<br>hasta 05/2022 |
+| Categoría III (Uso Público o Taxi): Vehículos de Uso<br>Taxi<br>(Incluye Fabricación China e India) | 0,7080% | 0,7021% | Con Póliza Rimac<br>Vigente desde 06/2022 |
+| | 0,7474% | 0,7353% | Con Póliza Rimac<br>Vigente desde 01/07/2020<br>hasta 05/2022 |
+| Categoría IV: Camiones, Acoplados nuevos y Semi<br>remolques, Camiones de fabricación China o Hindú. | 0,2006% | 0,2006% | Con Póliza Rimac<br>Vigente desde 06/2022 |
+| | 0,2127% | 0,2066% | Con Póliza Rimac<br>Vigente desde 01/07/2020<br>hasta 05/2022 |
+| Categoría V (Uso Comercial y Particular): Camionetas<br>Panel / Van Combi, Camionetas Panel / Van Combi de<br>fabricación China o Hindú. | 0,3245% | 0,2773% | Con Póliza Rimac<br>Vigente desde 06/2022 |
+| | 0,3464% | 0,3039% | Con Póliza Rimac<br>Vigente desde 01/07/2020<br>hasta 05/2022 |
+| Categoría VI (Uso Comercial y Alquiler): Autos /<br>Camionetas Station Wagon. | 0,5310% | 0,5074% | Con Póliza Rimac<br>Vigente desde 06/2022 |
+| | 0,5469% | 0,5469% | Con Póliza Rimac<br>Vigente desde 01/07/2020<br>hasta 05/2022 |
+| Categoría VII (Uso Comercial y Alquiler): Camionetas<br>Rurales de Alto Riesgo y Pick Up 4x4 y 4x2: Nissan<br>Frontier, Nissan Navara, Nissan Pathfinder, Nissan<br>Terrano, Toyota Hilux, Toyota 4Runner, Toyota<br>Land Cruiser Prado, Toyota Land Cruiser, Toyota<br>Fortuner, Toyota RAV4, Mitsubishi Montero Larga,<br>Mitsubishi 200, Mitsubishi Dakar, Suzuki Grand<br>Nomade, Honda CRV, VW Amarok y Honda<br>Ridgeline. Aplica a toda Camioneta Rural<br>y SUV mayor a US$ 50,000 | 0,6844% | 0,6844% | Con Póliza Rimac<br>Vigente desde 06/2022 |
+| | 0,7535% | 0,7353% | Con Póliza Rimac<br>Vigente desde 01/07/2020<br>hasta 05/2022 |
+| Categoría VIII (Uso particular): Toyota Yaris, Toyota<br>Corolla, Nissan Sentra, Subaru Impreza, Mazda 3,<br>Hyundai Elantra, Kia Rio. | 0,6136% | 0,3776% | Con Póliza Rimac<br>Vigente desde 06/2022 |
+| | 0,6502% | 0,3889% | Con Póliza Rimac<br>Vigente desde 01/07/2020<br>hasta 05/2022 |
+| Categoría IX (Usoparticular): Camionetas<br>Rurales de Alto Riesgo, Nissan, Nissan<br>Patrol, Toyota 4Runner Toyota Land Cruiser Prado,<br>Toyota FJ Cruiser, Toyota Fortuner, Toyota<br>Montero Larga, Toyota RAV4, Suzuki Grand Nomade,<br>Honda CRV, Hyundai Santa Fe, Hyundai Tucson, Kia<br>Sportage y toda Camioneta Rural y SUV mayor a US$<br>50,000. Autos y camionetas station wagon de uso<br>particular de valor mayor a US$ 50,000. | 0,4720% | 0,4130% | Con Póliza Rimac<br>Vigente desde 06/2022 |
+| | 0,4922% | 0,4254% | Con Póliza Rimac<br>Vigente desde 01/07/2020<br>hasta 05/2022 |
+| Categoría X (Uso particular): Autos / SW / Camionetas<br>Rurales/ Camionetas Pick Up de Fabricación China e<br>Hindú. | 0,4720% | 0,2891% | Con Póliza Rimac<br>Vigente desde 06/2022 |
+| | 0,4861% | 0,3099% | Con Póliza Rimac<br>Vigente desde 01/07/2020<br>hasta 05/2022 |
+|  |  |  |
+|---|---|---|
+| Categoría XI: Remolcadores | 0,2301% | 0,4366% | Con Póliza Rimac Vigente desde 06/2022 |
+|  | 0,2492% | 0,4558% | Con Póliza Rimac Vigente desde 01/07/2020 hasta 05/2022 |
+| Categoría XII (Uso Particular):Chevrolet Aveo, Kia Picanto, Mitsubishi Lancer, Nissan Almera, Nissan Qashqai, Peugeot206, Peugeot307, Renault Fluence, Renault Koleos, Renault Logan, Renault Sandero, Renault Stepway, Seat Leon, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo, Seat Toledo
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 7/10
+BANCO: BBVA_Continental
+PRODUCTO: cartas-fianza-pj
+FILENAME: cartas-fianza-pj.md
+FILEPATH: BBVA_Continental/cartas-fianza-pj.md
+---CONTENT_START---
+## BBVA
+### CARTAS FIANZA
+## 1. EMISIÓN DE CARTAS FIANZAS
+### 1.1. EMISIÓN DE CARTAS FIANZA POR ORDEN Y CUENTA DE CLIENTES
+| CONCEPTO | Porcentaje | MN | ME | Observación y Vigencia |
+|---|---|---|---|---|
+| Por emisión | 7,50% | Mínimo: S/100.00<br>+ Comisión por envío de extracto de movimientos | Mínimo: $35.00<br>+ Comisión por envío de extracto de movimientos | Por Fianzas que garantizan pago de obligaciones, derechos de aduana, adelantos y<br>cumplimientos. Importes mínimos por<br>bimestre o fracción. Se cobra por adelantado<br>de acuerdo a la<br>periodicidad pactada y días de vigencia.<br>Vigencia desde 26/12/2021 para Persona<br>Jurídicas y desde el 25/01/2022 para<br>Persona Natural con Negocio y<br>Microempresas |
+| COMISION | Porcentaje | MN | ME | Observación y Vigencia |
+| Por envío de extracto de movimientos | - | S/3.50 | $1.00 | Vigente desde 01/08/2011 |
+### 1.2. EMISIÓN DE CARTAS FIANZA POR ORDEN Y CUENTA DE BANCOS CORRESPONSALES
+| CONCEPTO | Porcentaje | MN | ME | Observación y Vigencia |
+|---|---|---|---|---|
+| Por emisión | 1,50% | - | Mínimo: $350.00 +<br>Mensaje SWIFT<br>+ Portes Internacional | Por Emisión $350.00<br>Por Prórroga mínimo trimestral $87.5 |
+| COMISION | Porcentaje | MN | ME | Observación y Vigencia |
+| Comisión por portes Internacional | - | - | $12,00 | Por Mensaje SWIFT<br>Vigente desde 09/02/2019 |
+| Comisión por Mensaje SWIFT | - | - | $22,00 | |
+### INFORMACIÓN QUE USTED DEBE CONOCER
+Las siguientes notas aplican cuando la carta fianza se emite a solicitud del cliente (No Corresponsales):
+Nota 1: Los porcentajes serán aplicables anualmente sobre el monto de la carta fianza.
+Nota 2: En el caso de fianzas con fecha de alta a futuro, se aplicará el cobro de la comisión de emisión a partir de la fecha de validez, y no desde el día de su emisión.
+Nota 3: Las comisiones se calculan en numerales por adelantado en base a la periodicidad pactada con el cliente (bimestral, trimestral, anual) y en función a los días de vigencia de la Carta Fianza. La comisión se devenga por el período de cobranza pactado, independientemente de la fecha de devolución de la carta fianza.
+Nota 4:Si el cliente no hubiera devuelto la Carta Fianza a la fecha del vencimiento, se cobrarán 15 días adicionales por numerales. La adición de los 15 días no significará un nuevo período.
+## BBVA
+### CARTAS FIANZA
+## 2. MODIFICACIÓN DE TEXTO / PRÓRROGA / RENOVACIÓN / AUMENTO O REDUCCIÓN DE CARTAS FIANZA
+### 2.1. MODIFICACIÓN DE TEXTO DE CARTAS FIANZA
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+|---|---|---|---|---|
+| Personas Jurídicas - Pequeñas, Medianas y Grandes Empresas | | | | |
+## COMISIONES POR MODIFICACIÓN DE TEXTO DE CARTAS FIANZA POR ORDEN Y CUENTA DE BANCOS CORRESPONSALES
+| COMISIONES                               | Porcentaje | MN                                                              | ME                                                              | Observación y Vigencia
+| Comisión por ejecución | 1,50% | Mínimo: S/90.00 + Comisión por envío de extracto de movimientos | Mínimo: $30.00 + Comisión por envío de extracto de movimientos | Con fondos del Banco Vigente desde 17/09/2012 |
+|  | 0,50% | - | Mínimo: $90.00 Máximo: $2,500.00 + Mensaje SWIFT + Portes Internacional | Por ejecución solicitada por Bancos Corresponsales Vigente desde 17/09/2012 |
+## INFORMACIÓN QUE USTED DEBE CONOCER
+Ejecución con fondos del Banco: En caso el Banco honre total o parcialmente la Carta Fianza, el monto de la misma y demás conceptos generados serán cargados en cualquiera de las cuentas del deudor, pudiendo inclusive sobregirarlas, aplicándose las tasas y tarifas vigentes de las cuentas.
+![BBVA Logo](https://i.imgur.com/2z3z3z3.png) **CARTAS FIANZA**
+### 4. EN CASO DE INCUMPLIMIENTO CON EL PAGO OPORTUNO DE LAS COMISIONES
+| TASAS | Porcentaje MN | Porcentaje ME | Observación y Vigencia |
+|---|---|---|---|
+| Tasa de interés moratorio | 15,00% | 10,00% | Aplica en los casos de clientes mediana y grandes empresas que incumplan con el pago oportuno de las comisiones y gastos establecidos en el tarifario. - Vigente desde 01/08/2011 |
+| Tasa Nominal Anual de Interés moratorio | 12,56% | 10,10% | Aplica en los casos de clientes pequeña empresa que incumpla con el pago oportuno de las comisiones y gastos establecidos en el tarifario. - Vigente desde 01/05/2022 |
+| Tasa de interés moratorio (Honramiento fondos Banco) | 28,93% | 18,00% | Aplica en caso que la Carta Fianza sea honrada con fondos del Banco. Vigente desde 03.03.2017 |
+Personas Jurídicas - Pequeñas, Medianas y Grandes Empresas
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 8/10
+BANCO: BBVA_Continental
+PRODUCTO: comex-cartas-credito-importacion
+FILENAME: comex-cartas-credito-importacion.md
+FILEPATH: BBVA_Continental/comex-cartas-credito-importacion.md
+---CONTENT_START---
+| COMISIONES | Porcentaje | ME | Observación y Vigencia |
+| --- | --- | --- | --- |
+| AL MOMENTO DE EMISION |  |  |  |
+| Emisión | 0,75% | Mínimo: $180.00 +Mensaje SWIFT: $22+Portes Internacional: $12 | Cobro por Trimestre o Fracción. Vigente desde 04/11/2016 |
+| EN CASO DE MODIFICACION |  |  |  |
+| Modificación | - | $80.00 +Mensaje SWIFT: $22+Portes Internacional: $12 | Vigente desde 24/11/2015 |
+| COMISIONES | Porcentaje | ME | Observación y Vigencia |
+| Incremento | 0,75% | Mínimo: $180.00 | Cobro por Trimestre o Fracción. Se cobra por Modificación sobre el incremento. Vigente desde 30/03/2017 |
+| Prórroga | 0,75% | Mínimo: $180.00 | Cobro por Trimestre o Fracción. Se cobra por Modificación tomando en consideración el último período cobrado. Vigente desde 30/03/2017 |
+| AL MOMENTO DE NEGOCIACION (UTILIZACION) |  |  |  |
+| Utilización - Importación | 0,55% | Mínimo: $180.00 +Mensaje SWIFT: $22.00 +Portes Internacional: $12.00+Gastos Corresponsal | Se cobra sobre el monto utilizado. Vigente desde 30/03/2017 |
+| Aceptación o Pago Diferido - Importaciones | 3.00% ANUAL | Mínimo: $180.00 +Portes Internacional: $12.00 | Se cobrará por adelantado, por el período efectivo de la aceptación o pago diferido. Cuando el plazo total sea pagadero en cuotas, la comisión será cobrada por adelantado, por el saldo de la obligación y por el plazo de cada cuota. Vigente desde 24/11/2015 |
+| Discrepancia | - | $120.00 +Mensaje SWIFT: $22.00 +Portes Internacional: $12.00 | Se cobra al Beneficiario por juego de documentos presentados con discrepancias La Comisión por Discrepancia y Comisión de Mensaje SWIFT pueden ser asumidas por el Ordenante a su solicitud. Vigente desde 30/03/2017 |
+| Carta de crédito vencida / sobregirada | - | $80.00 +Portes Internacional: $12.00 | Aplica en la utilización de cartas de crédito vencidas y/o sin saldo disponible Vigente desde 28/04/2017 |
+| COMISIONES DE APLICACIÓN EVENTUAL |  |  |  |
+| Trámite de Almacenaje | - | $60.00 +Portes Internacional: $12.00 | Se cobra por la gestión con agente de aduana calificado para la constitución de Warrants. Vigente desde 24/11/2015 |
+| Trámite BCR (sólo convenio ALADI) | - | $30.00 | Vigente desde 24/11/2015 |
+| De Anulación - Solicitud de Emisión | - | $80.00 +Portes Internacional: $12.00 | Se cobra por anulación de Solicitud de Emisión. Vigente desde 24/11/2015 |
+| Descargo | - | $80.00 +Mensaje SWIFT: $22+Portes Internacional: $12 | Se cobra por el descargo al vencimiento de una carta de crédito que no haya sido utilizada. Vigente desde 28/04/2017 |
+| Endoso Anticipado de Documentos de Embarque | - | $70.00 +Mensaje SWIFT: $22+Portes Internacional: $12 | Vigente desde 24/11/2015 |
+| Servicio de Envío de Documentos al Exterior | - | - EEUU: $35.00 - América Latina y Europa: $45.00 - Asia: $65.00 | Se cobra por la devolución de documentos al exterior, a solicitud del Ordenante. Vigente desde 25/11/2011 |
+|  |  | $15.00 +Portes Internacional: $12.00 | Se cobra por la emisión automática de mensaje SWIFT al exterior informando el status de los documentos. En caso se emitan mensajes SWIFT por seguimientos no automáticos se cobra la comisión de mensaje swift $22.00. Vigente desde 24/11/2015 |
+|---|---|---|---|
+| COMISIONES | Porcentaje | ME | Observación y Vigencia |
+| Por llamada telefónica Internacional | - | $30.00 | Se cobra por el servicio de realizar llamadas telefónicas internacionales autorizadas por el cliente. Vigente desde 24/11/2015 |
+| Por revisión de Textos fuera de estandar | - | $60.00 | Se cobra por el servicio de redacción y/o revisar términos y condiciones de uno o varios modelos de Cartas de Crédito y adecuarlos a las necesidades del cliente de acuerdo a las normas internacionales. Vigente desde 24/11/2015 |
+| GASTOS | Porcentaje | ME | Observación |
+| Pago BCR (sólo Convenio ALADI) | 0,06% | - | (Cargo del BCR por pago reembolso) Vigente desde 01/03/2018 |
+| EN CASO DE CARTAS DE CREDITO IMPAGAS (CREDITOS POR LIQUIDAR) | TASAS | Porcentaje MN | Porcentaje ME | Observación y Vigencia |
+| Interés Compensatorio | 39,00% | 22,00% | Se cobra la tasa de interés compensatorio más tasa de interés moratorio por cartas de crédito impagas vista y en caso de incumplimiento de pago en la fecha de vencimiento por cartas de crédito a plazo. Vigente desde 15/02/2010 |
+| Interés Moratorio | 12.51% | 9.90% | Tiene por finalidad indemnizar la mora en el pago y se aplica en los casos de incumplimiento o atraso en el pago de las cartas de crédito de forma adicional a la tasa de interés convencional compensatorio. Vigente desde 01/11/2021 |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 9/10
+BANCO: BBVA_Continental
+PRODUCTO: Relacion-de-notaria-muro-regulatorio
+FILENAME: Relacion-de-notaria-muro-regulatorio.md
+FILEPATH: BBVA_Continental/Relacion-de-notaria-muro-regulatorio.md
+---CONTENT_START---
+| Colegio Notarial | Página Web |
+|---|---|
+| Distrito Notarial de Amazonas | https://www.bbvacontinental.pe/content/dam/public-web/peru/documents/prefooter/avisos-importantes/notarios/colegio-notarios-amazonas.pdf |
+| Distrito Notarial de Ancash | http://colegionotarioscancash.com/ |
+| Distrito Notarial de Apurímac | No cuenta con página Web y no ha remitido información |
+| Distrito Notarial de Arequipa | https://notariosdearequipa.pe/ |
+| Distrito Notarial de Ayacucho | http://www.notariosayacucho.org/ |
+| Distrito Notarial de Cajamarca | http://colegiodenotariosdecajamarca.com/ |
+| Distrito Notarial de Callao | https://www.bbvacontinental.pe/content/dam/public-web/peru/documents/prefooter/avisos-importantes/notarios/colegio-notarios-callao.pdf |
+| Distrito Notarial de Cusco y Madre de Dios | http://www.notarioscusocoymadrdedios.pe/ |
+| Distrito Notarial de Huancavelica | http://colegiodenotarioshuancavelica.pe/ |
+| Distrito Notarial de Huánuco y Pasco | http://www.colegiodenotarioshuanucoypasco.org/ |
+| Distrito Notarial de Ica | http://notariosica.blogspot.com/ |
+| Distrito Notarial de Junín | http://www.notariosjunin.org.pe/ |
+| Distrito Notarial de La Libertad | http://www.colegionotarioslalibertad.pe/ |
+| Distrito Notarial de Lambayeque | https://www.bbvacontinental.pe/content/dam/public-web/peru/documents/prefooter/avisos-importantes/notarios/distrito-notarial-lambayeque.pdf |
+| Distrito Notarial de Lima | http://www.notarios.org.pe/ |
+| Distrito Notarial de Loreto | http://www.colegiodenotariosloreto.com/ |
+| Distrito Notarial de Moquegua | No cuenta con página web y no ha remitido información |
+| Distrito Notarial de Piura y Tumbes | No cuenta con página web y no ha remitido información |
+| Distrito Notarial de Puno | http://colegiodenotariospuno.org/ |
+| Distrito Notarial de San Martín | http://www.cnsm.org.pe/ |
+| | |
+| --- | --- |
+| Distrito Notarial de Tacna | https://www.bbvacontinental.pe/content/dam/public-web/peru/documents/prefooter/avisos-importantes/notarios/colegio-notarios-tacna.pdf |
+| Distrito Notarial de Ucayali | https://www.bbvacontinental.pe/content/dam/public-web/peru/documents/prefooter/avisos-importantes/notarios/colegio-notarios-ucayali.pdf |
+| Concepto | Tarifa |
+| --- | --- |
+| Transferencias SPEI | $ 0.00 |
+| Transferencias Interbancarias (CLABE) | $ 15.00 |
+| Transferencias Internacionales | $ 30.00 |
+| Retiro de efectivo en cajeros automáticos propios | $ 0.00 |
+| Retiro de efectivo en cajeros automáticos de otros bancos | $ 30.00 |
+| Consulta de saldo en cajeros automáticos de otros bancos | $ 10.00 |
+| Emisión de estado de cuenta | $ 50.00 |
+| Reposición de tarjeta de débito | $ 100.00 |
+| Comisión por manejo de cuenta | $ 0.00 |
+| Cheque devuelto por falta de fondos | $ 350.00 |
+| Pago de servicios (luz, agua, teléfono) | $ 12.00 |
+| Compra de tiempo aire | $ 5.00 |
+| Apertura de cuenta | $ 0.00 |
+| Cancelación de cuenta | $ 0.00 |
+| Mantenimiento de cuenta inactiva | $ 150.00 |
+| Disposición de efectivo en ventanilla | $ 20.00 |
+| Consulta de saldo en ventanilla | $ 10.00 |
+| Envío de estado de cuenta por correo | $ 75.00 |
+| Certificado de saldo | $ 100.00 |
+| Aclaración de movimientos | $ 0.00 |
+| Reclamación de cargo no reconocido | $ 0.00 |
+| Pago de tarjeta de crédito | $ 0.00 |
+| Transferencia a cuenta propia | $ 0.00 |
+| Retiro de efectivo en el extranjero | $ 50.00 |
+| Consulta de saldo en el extranjero | $ 15.00 |
+| Emisión de cheque de caja | $ 150.00 |
+| Cancelación de cheque de caja | $ 100.00 |
+| Pago de impuestos | $ 15.00 |
+| Pago de servicios de suscripción | $ 10.00 |
+| Compra de divisas | 0.5% sobre el monto |
+| Venta de divisas | 0.5% sobre el monto |
+| Transferencia SPEI en fin de semana | $ 10.00 |
+| Transferencia SPEI en día festivo | $ 10.00 |
+| Retiro de efectivo en corresponsales bancarios | $ 25.00 |
+| Consulta de saldo en corresponsales bancarios | $ 5.00 |
+| Envío de estado de cuenta por email | $ 0.00 |
+| Activación de tarjeta de crédito | $ 0.00 |
+| Bloqueo de tarjeta de crédito | $ 0.00 |
+| Desbloqueo de tarjeta de crédito | $ 50.00 |
+| Cambio de PIN de tarjeta | $ 30.00 |
+| Solicitud de estado de cuenta histórico | $ 200.00 |
+| Pago de servicios a través de app | $ 0.00 |
+| Transferencia a través de app | $ 0.00 |
+| Retiro de efectivo a través de app | $ 0.00 |
+| Compra de criptomonedas | 1% sobre el monto |
+| Venta de criptomonedas | 1% sobre el monto |
+| Inversión en fondos mutuos | 0.2% anual |
+| Retiro de fondos mutuos | 0.1% sobre el monto |
+| Apertura de cuenta de inversión | $ 0.00 |
+| Cancelación de cuenta de inversión | $ 0.00 |
+| Comisión por retiro de efectivo en cajeros de otros bancos (extranjero) | $ 100.00 |
+| Comisión por consulta de saldo en cajeros de otros bancos (extranjero) | $ 25.00 |
+| Pago de servicios en línea | $ 0.00 |
+| Transferencia a cuenta de otro titular | $ 10.00 |
+| Transferencia a cuenta del mismo titular | $ 0.00 |
+| Emisión de talón de cheque | $ 20.00 |
+| Cancelación de talón de cheque | $ 15.00 |
+| Pago de nómina | $ 5.00 por transacción |
+| Recepción de nómina | $ 0.00 |
+| Pago de servicios a domicilio | $ 25.00 |
+| Transferencia internacional SWIFT | $ 50.00 |
+| Recepción de transferencia internacional SWIFT | $ 25.00 |
+| Cheque devuelto por fondos insuficientes | $ 350.00 |
+| Cheque devuelto por firma no válida | $ 150.00 |
+| Cheque devuelto por falta de fondos en cuenta | $ 350.00 |
+| Cheque devuelto por fondos insuficientes en cuenta | $ 350.00 |
+| Cheque devuelto por firma no concordante | $ 150.00 |
+| Cheque devuelto por datos incompletos | $ 100.00 |
+| Cheque devuelto por fecha incorrecta | $ 50.00 |
+| Cheque devuelto por endoso incorrecto | $ 75.00 |
+| Cheque devuelto por falta de fondos en cuenta del girador | $ 350.00 |
+| Cheque devuelto por fondos insuficientes en cuenta del girador | $ 350.00 |
+| Cheque devuelto por firma no autorizada | $ 200.00 |
+| Cheque devuelto por cuenta cancelada | $ 100.00 |
+| Cheque devuelto por cuenta inactiva | $ 75.00 |
+| Cheque devuelto por cheque alterado | $ 500.00 |
+| Cheque devuelto por cheque falsificado | $ 1000.00 |
+| Cheque devuelto por cheque robado | $ 1000.00 |
+| Cheque devuelto por cheque extraviado | $ 500.00 |
+| Cheque devuelto por cheque dañado | $ 100.00 |
+| Cheque devuelto por cheque vencido | $ 50.00 |
+| Cheque devuelto por cheque no negociable | $ 75.00 |
+| Cheque devuelto por cheque sin fecha | $ 50.00 |
+| Cheque devuelto por cheque con fecha posterior | $ 50.00 |
+| Cheque devuelto por cheque con fecha anterior | $ 50.00 |
+| Cheque devuelto por cheque con monto en letras y números diferente | $ 150.00 |
+| Cheque devuelto por cheque con firma ilegible | $ 75.00 |
+| Cheque devuelto por cheque con firma incompleta | $ 75.00 |
+| Cheque devuelto por cheque con firma diferente a la registrada | $ 150.00 |
+| Cheque devuelto por cheque con firma no autorizada | $ 200.00 |
+| Cheque devuelto por cheque con firma falsificada | $ 500.00 |
+| Cheque devuelto por cheque con firma robada | $ 500.00 |
+| Cheque devuelto por cheque con firma extraviada | $ 200.00 |
+| Cheque devuelto por cheque con firma dañada | $ 75.00 |
+| Cheque devuelto por cheque con firma vencida | $ 50.00 |
+| Cheque devuelto por cheque con firma no negociable | $ 75.00 |
+| Cheque devuelto por cheque con firma sin fecha | $ 50.00 |
+| Cheque devuelto por cheque con firma con fecha posterior | $ 50.00 |
+| Cheque devuelto por cheque con firma con fecha anterior | $ 50.00 |
+| Cheque devuelto por cheque con firma con monto en letras y números diferente | $ 150.00 |
+| Cheque devuelto por cheque con firma ilegible | $ 75.00 |
+| Cheque devuelto por cheque con firma incompleta | $ 75.00 |
+| Cheque devuelto por cheque con firma diferente a la registrada | $ 150.00 |
+| Cheque devuelto por cheque con firma no autorizada | $ 200.00 |
+| Cheque devuelto por cheque con firma falsificada | $ 500.00 |
+| Cheque devuelto por cheque con firma robada | $ 500.00 |
+| Cheque devuelto por cheque con firma extraviada | $ 200.00 |
+| Cheque devuelto por cheque con firma dañada | $ 75.00 |
+| Cheque devuelto por cheque con firma vencida | $ 50.00 |
+| Cheque devuelto por cheque con firma no negociable | $ 75.00 |
+| Cheque devuelto por cheque con firma sin fecha | $ 50.00 |
+| Cheque devuelto por cheque con firma con fecha posterior | $ 50.00 |
+| Cheque devuelto por cheque con firma con fecha anterior | $ 50.00 |
+| Cheque devuelto por cheque con firma con monto en letras y números diferente | $ 150.00 |
+| Cheque devuelto por cheque con firma ilegible | $ 75.00 |
+| Cheque devuelto por cheque con firma incompleta | $ 75.00 |
+| Cheque devuelto por cheque con firma diferente a la registrada | $ 150.00 |
+| Cheque devuelto por cheque con firma no autorizada | $ 200.00 |
+| Cheque devuelto por cheque con firma falsificada | $ 500.00 |
+| Cheque devuelto por cheque con firma robada | $ 500.00 |
+| Cheque devuelto por cheque con firma extraviada | $ 200.00 |
+| Cheque devuelto por cheque con firma dañada | $ 75.00 |
+| Cheque devuelto por cheque con firma vencida | $ 50.00 |
+| Cheque devuelto por cheque con firma no negociable | $ 75.00 |
+| Cheque devuelto por cheque con firma sin fecha | $ 50.00 |
+| Cheque devuelto por cheque con firma con fecha posterior | $ 50.00 |
+| Cheque devuelto por cheque con firma con fecha anterior | $ 50.00 |
+| Cheque devuelto por cheque con firma con monto en letras y números diferente | $ 150.00 |
+| Cheque devuelto
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 10/10
+BANCO: BBVA_Continental
+PRODUCTO: prestamos-comisiones-transversales
+FILENAME: prestamos-comisiones-transversales.md
+FILEPATH: BBVA_Continental/prestamos-comisiones-transversales.md
+---CONTENT_START---
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+|---|---|---|---|---|
+| Servicios brindados a solicitud del cliente - Constancias |  |  |  |  |
+| Segunda Constancia de no adeudo | - | S/ 35.00 | $10.00 | A partir de la 2da. Constancia Vigente desde 02/11/2011 |
+| Emisión de Constancia solicitada por el cliente | - | S/ 20.00 | - | Por información básica: Si es cliente del Banco, si tiene cuentas, entre otros. Vigente desde 02/11/2011 |
+| Por Recopilación y Emisión de Información Financiera de Clientes | - | S/35.00 +Gastos de fotocopia | $12.50 +Gastos de fotocopia | Con cargo a la cuenta del cliente Vigente desde 20/01/2015 |
+| Por Elaboración de Carta de Presentación ante Organismos y Embajadas | - | - | $10.00 | Vigente desde 10/10/2011 |
+| Por Servicio de Mensajería | - | S/2.00 | $0.80 Euros: 0.70 | Aplica para Constancias de Pago - Pólizas contratadas con Rimac Internacional. Vigente desde 01/01/2013 |
+| Por Envío Fax Local | - | S/1.75 | $0.70 | Por cada Página (formato A4) Vigente desde 20/01/2015 |
+| Por Envío Fax al Exterior | - | - | Grupo Andino: $4.00 America Eur/Jap: $4.00 Otros países: $5.00 | Por cada Página (formato A4) Vigente desde 10/10/2011 |
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+| Servicios brindados a solicitud del cliente - Duplicado de contrato u otro documento |  |  |  |  |
+| Duplicado de contratos u otros documentos (2) | - | S/ 7.50 | $2.50 | Por cada Solicitud Vigente desde 10/07/2017 |
+| Búsqueda de documentos: Por antigüedad del documento | - | Antigüedad Hasta 90 días: S/10.00 De 91 días a 01 año: S/25.00 Más de 01 año: S/50.00 +Comisión de fotocopia | Antigüedad Hasta 90 días: $3.60 De 91 días a 01 año: $9.00 Más de 01 año: $17.90 +Comisión de fotocopia | En caso se traten de documentos de diferente antigüedad, se aplicará la comisión en base al documento de mayor antigüedad. La comisión por solicitud o carta será hasta un máximo de veinte documentos; cobrándose como nueva solicitud los excedentes (cada 20 documentos). Vigente desde 20/01/2015 |
+|  |  | S/0.90 | $0.40 | Por cada copia Vigente desde 20/01/2015 |
+| --- | --- | --- | --- | --- |
+| **Evaluación de documentos - Poderes** |  |  |  |  |
+| Visado o Evaluación de Poderes u otros documentos (cambio de nombre, subsidios essalud, etc.) para Personas Naturales | - | Por cada estudio: S/ 50.00 | - | Por cualquier operación bancaria con poder (retiro de fondos, cobro de cheque, venta de acciones, dividendos, cuentas de menores y operaciones diversas), o evaluación de documentos por su titular o a travez de su representante (cambio de nombre, sociedades no formalizadas, etc Vigente desde 16/06/2014 |
+|  |  | Por cada estudio: Persona Jurídica : S/ 45.00 | - | Estudio de Poderes para aquellas personas jurídicas que tienen cuentas bancarias u otro tipo de operación o contrato bancario Vigente desde 22/02/2021 |
+| **INFORMACIÓN QUE USTED DEBE CONOCER** |  |  |  |  |
+| (2) Correo Postal: En caso el cliente requiera que la información se envíe a un correo postal, se adicionará los gastos correspondientes del servicio de envío por correo, establecidos por la empresa de correo. |  |  |  |  |
+---CONTENT_END---
+

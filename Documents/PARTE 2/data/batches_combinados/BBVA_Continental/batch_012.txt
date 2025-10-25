@@ -1,0 +1,589 @@
+---DOCUMENT_START---
+FILE_NUMBER: 1/10
+BANCO: BBVA_Continental
+PRODUCTO: tarifario-cuenta-activa
+FILENAME: tarifario-cuenta-activa.md
+FILEPATH: BBVA_Continental/tarifario-cuenta-activa.md
+---CONTENT_START---
+| TASAS | Porcentaje MN | Porcentaje ME | Observación y Vigencia |
+|---|---|---|---|
+| Cuenta Activa BBVA | 0.00% | 0.00% | Vigente desde 05/08/2023 |
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+| Operaciones en Cuenta - Conversión de moneda |  | - | - | Aplica para todas las tarjetas de débito. Por servicio de cambio de moneda por las transacciones (compra y disposición de efectivo), hechas en el extranjero en moneda diferente al dólar americano - Vigente desde 12/05/2016 |
+| Conversión de Moneda. | 3.00% | - | - | Vigente desde 12/05/2016 |
+| Operaciones en Cuenta - Operaciones en otra localidad |  | Ventanilla y Agente Express: SIN COSTO | Ventanilla: SIN COSTO Express: No Aplica | Vigente desde 01/02/2018 |
+| Retiro de dinero realizado en una localidad distinta donde se contrató la Cuenta | - | Cajero Automático BBVA: SIN COSTO | Cajero Automático BBVA: SIN COSTO | Vigente desde 12/05/2016 |
+| Depósitos desde otra localidad | - | SIN COSTO | Express: No aplica | Vigente desde 12/05/2016 |
+| Uso de canales - Uso de canales complementarios |  |  |  |  |
+| Por Consulta de Saldos y Movimientos |  | Agente Express: S/.2.00 Cajero Automático: SIN COSTO | Agente Express:No Aplica Cajero Automático: SIN COSTO | Vigente desde 05/08/2023 |
+| Retiros de dinero o Transferencias entre Cuentas |  | 2 SIN COSTO S/3.00 A partir de la 3era operación | Agente Express | Misma y otra Plaza. Si recibe su sueldo en esta cuenta los retiros son libres. Vigente desde 05/08/2023 |
+| Uso de Cajero Automático (Otros Bancos) | - | SIN COSTO | SIN COSTO | Mismo y otra Plaza. Vigente desde 05/08/2023 |
+| Depósito de dinero | - | SIN COSTO | Agente Express: No Aplica | Agente Express y Cajero depósito BBVA. Misma plaza y otra plaza. Vigente desde 05/08/2023 |
+| Uso de canales - Operación en ventanilla |  |  |  |  |
+| Retiros de dinero o Transferencias entre Cuentas | - | S/10.00 | $3.30 | Desde la primera operación Misma y otra Plaza. Vigente desde 05/08/2023 |
+| Por Consulta de Saldos y Movimientos | - | S/10.00 | $3.30 | Desde la primera consulta Vigente desde 05/08/2023 |
+| Depósito de dinero | - | S/10.00 A partir de la 2da operación | $3.30 A partir de la 2da operación | Vigente desde 05/08/2023 |
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+| Uso de canales - Uso de módulo electrónico |  |  |  |  |
+| Consultas de Saldos y Movimientos: Banca por Internet, Banca por Teléfono y Banca Móvil | - | SIN COSTO | SIN COSTO | Vigente desde 12/05/2016 |
+| Servicios Asociados a la Cuenta - Mantenimiento de cuenta |  |  |  |  |
+| Mantenimiento de Cuenta mensual | - | SIN COSTO | SIN COSTO | Vigente desde 05/08/2023 |
+| Servicios Asociados a la Cuenta - Envío físico de estado de cuenta |  |  |  |  |
+| Envío físico de estado de cuenta | - | S/10.00 | $3.30 | Se envía de manera mensual a solicitud de Usted. Vigente desde 30/11/2022 |
+| Entrega de tarjeta de débito o dispositivo a solicitud - Reposición de tarjeta de débito o dispositivo |  |  |  |  |
+| Reposición de tarjeta | - | S/25.00 | $9.00 | Aplica para todas las tarjetas de débito. En caso de reposición, la nueva de tarjeta tendrá la misma fecha de vencimiento que la tarjeta anterior. Vigente desde 30/11/2022 |
+| | | | |
+|---|---|---|---|
+| Entrega de tarjeta de débito o dispositivo a solicitud - Tarjeta o dispositivo adicional y/u opcional | | | |
+| Cambio de Tarjeta con Diseño. | - | S/25.00 | $9.00 | En los casos en que Usted desee una nueva tarjeta con diseño especial, se aplicará esta comisión. No aplica para tarjeta de débito Empresarial. Vigente desde 30/11/2022 |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 2/10
+BANCO: BBVA_Continental
+PRODUCTO: emision-cheques-personalizados-ppjj
+FILENAME: emision-cheques-personalizados-ppjj.md
+FILEPATH: BBVA_Continental/emision-cheques-personalizados-ppjj.md
+---CONTENT_START---
+| COMISIONES | Medidas | Observación y Vigencia |
+|---|---|---|
+| Cargos asociados a cheques u órdenes de pago - Emisión de talonario de cheques / órdenes de pago |  |  |
+|  | Solo con logo del BBVA Banco Continental. A. S/ 1,155.00 B. S/ 1,000.00 C. S/ 950.00 | Para ME se aplicará el tipo de cambio del día. Vigente desde 01/10/2018 |
+|  | Con logo de la empresa - 01 COLOR. A. S/ 1,560.00 B. S/ 1,405.00 C. S/ 1,355.00 | Para ME se aplicará el tipo de cambio del día. Vigente desde 01/10/2018 |
+|  | Con logo de la empresa - 02 COLORES. A. S/ 1,640.00 B. S/ 1,485.00 C. S/ 1,435.00 | Para ME se aplicará el tipo de cambio del día. Vigente desde 01/10/2018 |
+|  | Con logo de la empresa - 03 COLORES. A. S/ 1,720.00 B. S/ 1,565.00 C. S/ 1,515.00 | Para ME se aplicará el tipo de cambio del día. Vigente desde 01/10/2018 |
+|  | Con logo de la empresa - 04 COLORES. A. S/ 1,765.00 B. S/ 1,610.00 C. S/ 1,560.00 | Para ME se aplicará el tipo de cambio del día. Vigente desde 01/10/2018 |
+|  | Con logo de la empresa - 05 COLORES. A. S/ 1,860.00 B. S/ 1,705.00 C. S/ 1,655.00 | Para ME se aplicará el tipo de cambio del día. Vigente desde 01/10/2018 |
+|  | Con logo de la empresa - 06 COLORES. A. S/ 1,965.00 B. S/ 1,810.00 C. S/ 1,760.00 | Para ME se aplicará el tipo de cambio del día. Vigente desde 01/10/2018 |
+|  | Con logo de la empresa - 07 COLORES. A. S/ 2,060.00 B. S/ 1,905.00 C. S/ 1,855.00 | Para ME se aplicará el tipo de cambio del día. Vigente desde 01/10/2018 |
+|  | Con logo de la empresa - 08 COLORES. A. S/ 2,150.00 B. S/ 1,995.00 C. S/ 1,945.00 | Para ME se aplicará el tipo de cambio del día. Vigente desde 01/10/2018 |
+|  | Copias Adicionales (por millar). A. S/ 705.00 B. S/ 620.00 C. S/ 565.00 | Las copias adicionales se elaboran en papel autocopiativo. En caso se solicite la emisión de copias en un tipo de papel distinto, la tarifa estará sujeta a modificaciones. Para ME se aplicará el tipo de cambio del día. Vigente desde 01/10/2018 |
+|  | Por Emisión de CHEQUES PERSONALIZADOS por millar | Medidas en Pulgadas A. 13 - 12 - 11 B. 8 - 7 C. 6 - 5 - 4 - 3 - 2 |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 3/10
+BANCO: BBVA_Continental
+PRODUCTO: tarjeta-credito-persona-juridica
+FILENAME: tarjeta-credito-persona-juridica.md
+FILEPATH: BBVA_Continental/tarjeta-credito-persona-juridica.md
+---CONTENT_START---
+| TASAS | Porcentaje MN | Porcentaje ME | Observación y Vigencia |
+|---|---|---|---|
+| Tasa de interés compensatoria fija para compras | 12.00% - 35.00% | 12.00% - 35.00% | Vigente desde 01/05/2013 |
+| Tasa de interés compensatoria fija para disposiciones de efectivo | 12.00% - 35.00% | 12.00% - 35.00% | Vigente desde 01/05/2013 |
+| Tasa de interés compensatoria fija para subrogación de deuda | 12.00% - 35.00% | 12.00% - 35.00% | Vigente desde 01/05/2013 |
+| INTERÉS MORATORIO | MN | ME | Observación y Vigencia |
+| Tasa Nominal Anual de interés moratorio | 12.51% | 9.90% | El interés moratorio tiene por finalidad indemnizar la mora en el pago del crédito. En caso no cancele su pago mínimo (equivalente al pago total del mes), se le cobrará el interés moratorio. El cálculo se realizará aplicando la Tasa Nominal Anual de Interés Moratorio en función de los días de atraso, a partir del día siguiente del último día de pago de su tarjeta. Vigencia desde el 29/03/2022 |
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+|---|---|---|---|---|
+| Membresía - Membresía Anual |  |  |  |  |
+| Membresía Anual | - | S/80.00 | $25.00 | Cobro efectuado por tarjeta y se cobra desde el primer año de la vigencia de la tarjeta. Vigente desde 01/03/2013 al 05/08/2021 |
+| Servicios asociados a la tarjeta de crédito - Evaluación de Póliza de Seguro Endosada |  |  |  |  |
+| Evaluación de Póliza de Seguro Endosada | - | - | - | Vigente desde 19/03/2021 |
+| Servicios asociados a la tarjeta de crédito - Envío físico de estado de cuenta |  |  |  |  |
+| Envío físico de estado de cuenta | - | S/9.00 | $3.00 | Cobro efectuado por contrato de manera mensual. Vigente desde 21/01/2015 |
+| Uso de canales - Uso de canales complementarios |  |  |  |  |
+| Uso de cajeros automáticos de otros Bancos. | - | S/20.00 | $7.20 | Aplica cuando se usa la tarjeta para efectos de retirar dinero en efectivo en cajeros automáticos (ATM) de otros bancos nacionales o extranjeros. Vigente desde 21/01/2015 |
+| Entrega de tarjeta o dispositivo a solicitud - Reposición de tarjeta de crédito o dispositivo |  |  |  |  |
+| Reposición de tarjeta de crédito | - | S/20.00 | $7.20 | Efectuado a la reposición del plástico por pérdida o robo. Vigente desde 21/01/2015 |
+| GASTOS | Porcentaje | MN | ME | Observación y Vigencia |
+| --- | --- | --- | --- | --- |
+| Honorarios Judiciales | Refinanciamiento, transacción judicial o extrajudicial: 3% | - | - | Gasto aplica para deudas con o sin garantía. Vigente desde 01/02/2015 |
+| Honorarios Judiciales | Cancelación deuda total con garantía 0-45 días:13% 46-90 días:10% 91-180 días:7% 181 a más:5% | - | - | Gasto aplica cuando la deuda que se encuentra garantizada, pasa a cobranza judicial. Aplica sobre la deuda impaga, en función a los días transcurridos de la deuda en judicial. No aplica para PPNN, Naturales con Negocio y Microempresas. Vigente desde 01/02/2015 |
+| Honorarios Judiciales | Cancelación deuda total sin garantía 0-90 días:15% 91 a más:12% | - | - | Gasto aplica cuando la deuda no está garantizada y pasa a cobranza judicial. Aplica sobre la deuda impaga, en función a los días transcurridos de la deuda en judicial. No aplica para PPNN, Naturales con Negocio y Microempresas. Vigente desde 01/02/2015 |
+| SEGUROS | Porcentaje | MN | ME | Observación y Vigencia |
+| Seguro de Desgravamen | 0,0583% | - | - | El Seguro de Desgravamen es brindado por Rímac Seguros y Reaseguros. Los riesgos cubiertos son: 1. Fallecimiento del Asegurado; 2. Invalidez total y permanente por accidente; 3. Invalidez total y permanente por enfermedad; Suma asegurada máxima hasta S/300,000 o US$ 87,000 por Asegurado. La información sobre coberturas, exclusiones y condiciones podrá encontrarla en la página web del Banco y en el Certificado de Seguro. En caso de siniestro, comunicarse con la central de emergencias Aló Rímac al 411-1111 o con el Banco para brindarle la información necesaria. Número de póliza en soles: 6485410 Número de póliza en dólares: 6485411 Vigente desde 16/10/2014 |
+| TASAS | Porcentaje MN | Porcentaje ME | Observación y Vigencia |
+|---|---|---|---|
+| Tasa de interés compensatoria TEA fija para compras (1) | 12.00% - 70.00% | 12.00% - 70.00% | Vigente desde 09/09/2025 |
+| Tasa de interés compensatoria TEA fija para disposiciones de efectivo (1) | 12.00% - 70.00% | 12.00% - 70.00% | Vigente desde 09/09/2025 |
+| Tasa de interés compensatoria TEA fija para subrogación de deuda (2) | 12.00% - 70.00% | 12.00% - 70.00% | Vigente desde 09/09/2025 |
+| TCEA para compras, disposición de efectivo y subrogación de deuda (3) | 31.35% - 94.27% |  | Vigente desde 09/09/2025 |
+| INTERES MORATORIO |  |  |  |
+| Tasa Nominal Anual de interés moratorio (4) | 12.51% | 9.90% | Vigente desde 09/09/2025 |
+| COMISIONES | MN | ME | Observación y Vigencia |
+| Servicios asociados a la Tarjeta de Crédito - Envío físico de estado de cuenta |  |  | El envío físico de Estado de Cuenta se hace a solicitud de Ud. El envío es mensual. El envío de Estado de Cuenta Electrónico es gratuito Vigente desde 09/09/2025 |
+| Envío físico de Estado de Cuenta |  | S/9.00 |  |
+| Uso de canales - Uso de canales complementarios |  |  |  |
+| Uso de cajero automático de otros bancos |  | S/20.00 | La comisión que se cobra por cada uso de cajeros automáticos (ATM) de otros bancos nacionales o extranjeros, se cobra por operación de disposición de efectivo. Vigente desde 09/09/2025 |
+| Entrega de tarjetas adicionales a solicitud - Reposición de tarjeta de crédito |  |  |  |
+| Reposición de tarjeta (5) |  | S/20.00 | Vigente desde 09/09/2025 |
+| GASTOS | Porcentaje | MN | ME | Observación y Vigencia |
+| Honorarios Profesionales (6) | - |  | Aplica a Persona Natural con Negocio y Microempresas |
+| Servicios notariales (7) | Refinanciamiento, transacción (8) | Según tarifario de Notaría | Vigente desde 09/09/2025 |
+| Honorarios Judiciales | Cancelación total con garantía (9) |  | No aplica a Persona Natural con Negocio y Microempresas Vigente desde 09/09/2025 |
+|  | 0-45 días: 10% |  |  |
+|  | 46-90 días: 8% |  |  |
+|  | 91-180 días: 6% |  |  |
+|  | 181 a más: 3% |  |  |
+|  | Cancelación total sin garantía (10) |  |  |
+|  | 0-90 días: 10% |  |  |
+|  | 91 a más: 9% |  |  |
+| NOTAS |  |  |  |
+| 1. La Tasa de interés compensatoria Efectiva Anual (TEA) se determina en función al cumplimiento de los requisitos exigidos por el Banco y la evaluación crediticia del cliente. Luego de la evaluación crediticia respectiva, el Banco podrá decidir otorgar o no la Tarjeta de Crédito que Usted solicita. El monto de la Línea de Crédito, efectivamente aprobado y la TEA Compensatoria fija le serán comunicados al momento de la entrega de la Tarjeta de Crédito Capital de Trabajo Básica y según lo establecido en el contrato. |  |  |  |
+| 2. La Tasa de interés que se aplica a la subrogación será aquella que este vigente para los consumos y/o disposiciones de efectivo que realice. Incluye TEA, comisiones y gastos de 12 cuotas, considerando para su cálculo el cargo mensual de la comisión por envío físico de estado de cuenta. Asumiendo que la tarjeta no presenta deuda anterior y que no se realizará ningún otro consumo. |  |  |  |
+| 3. TCEA: Es la Tasa de Costo Efectivo Anual que permite calcular el monto que deberá pagar por la disposición de efectivo que realice. Incluye TEA, comisiones y gastos (Base 360 días). La TCEA es calculada en base a la TEA correspondiente por un consumo de S/ 1.000 o US$ 300 en 12 cuotas, considerando para su cálculo el cargo mensual de la comisión por envío físico de estado de cuenta. Asumiendo que la tarjeta no presenta deuda anterior y que no se realizará ningún otro consumo. |  |  |  |
+| 4. El interés moratorio tiene por finalidad indemnizar la mora en el pago del crédito. En caso no cancele su pago mínimo, se le cobrará el interés moratorio. El cálculo se realizará aplicando la Tasa Nominal Anual de Interés Moratorio en función de los días de atraso, a partir del día siguiente del último día de pago de su tarjeta. |  |  |  |
+| 5. Aplica en caso de pérdida, extravío, deterioro, robo, hurto o sustracción o uso no autorizado de la tarjeta, códigos secretos y/o claves o información de esta, o dispositivos electrónicos desde donde pueda ingresar para realizar operaciones con su tarjeta. La emisión de la nueva tarjeta, en la misma fecha de vencimiento que la tarjeta anterior y su comisión por reposición de tarjeta. La nueva tarjeta tendrá la misma fecha de vencimiento que la tarjeta anterior y su contrato vigente será aplicable a la nueva tarjeta. |  |  |  |
+| 6. Aplica en caso de deuda vencida, previo acuerdo formal con Usted. |  |  |  |
+| 7. Por servicios notariales según tarifario de notaría, en caso de que cuente con una Tarjeta de crédito garantizada, siempre que Usted constituya una garantía a favor del banco. Deben ser pagados por Usted. |  |  |  |
+| 8. Este gasto aplica para deudas con o sin garantía. |  |  |  |
+| 9. Este gasto aplica cuando la deuda está garantizada y pasa a cobranza judicial. Aplica sobre la deuda impaga, en función a los días transcurridos de la deuda en judicial. |  |  |  |
+| 10. Este gasto aplica cuando la deuda no está garantizada y pasa a cobranza judicial. Aplica sobre la deuda impaga, en función a los días transcurridos de la deuda en judicial. |  |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 4/10
+BANCO: BBVA_Continental
+PRODUCTO: comex-garantia-prendaria
+FILENAME: comex-garantia-prendaria.md
+FILEPATH: BBVA_Continental/comex-garantia-prendaria.md
+---CONTENT_START---
+| COMISIONES | Porcentaje | ME | Observación y Vigencia |
+|---|---|---|---|
+| Por Registro de Mercadería en Prenda Mercantil a nuestro favor bajo Warrants o Certificados de Depósito | - | $10.00 | - Por cada operación. - Tratándose de harina de Pescado. - Incluye prenda figurada. - Vigente desde 12/07/2010 |
+|  | - | $7.00 | - Por cada operación. - Otro tipo de Mercadería. - Incluye prenda figurada. - Vigente desde 12/07/2010 |
+| Por Protesto de Warrants | - | S/50.00 o $15.00 +Gasto Notarial | Aplica por cada documento protestado - Vigente desde 12/07/2010 |
+| Por Liberaciones de Mercadería en Prenda Mercantil a nuestro favor bajo Warrants o Certificados de Depósito | - | $15.00 | - Por cada operación. - Tratándose de harina de Pescado. - Incluye prenda figurada. - Vigente desde 12/07/2010 |
+|  | - | $7.00 | - Por cada operación. - Otro tipo de Mercadería. - Vigente desde 12/07/2010 |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 5/10
+BANCO: BBVA_Continental
+PRODUCTO: Contiahorro-PJ
+FILENAME: Contiahorro-PJ.md
+FILEPATH: BBVA_Continental/Contiahorro-PJ.md
+---CONTENT_START---
+| TASAS | Porcentaje MN | Porcentaje ME | Observación y Vigencia |
+|---|---|---|---|
+| Contiahorro Persona Jurídica | Mayor a S/ 5,000: 0.03%. | Mayor a $ 5,000: 0.03% Mayor a € 5,000: 0.00% | Franquicia: S/ 5,000, $ 5,000 ó €5,000. Vigente desde 10/08/2020 |
+|  | Cualquier importe: 0.00% | Cualquier importe en dólares: 0.00% Cualquier importe en euros: 0.00% | Vigente a partir del 15/03/2021 |
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+| Operaciones en Cuenta - Conversión de moneda |  | - | - | Aplica para todas las tarjetas de débito. Por servicio de cambio de moneda por las transacciones (compra y disposición de efectivo), hechas en el extranjero en moneda diferente al dólar americano - Vigente desde 07/03/2012 |
+| Conversión de Moneda. | 3,00% | - | - |  |
+| Operaciones en Cuenta - Operaciones en otra localidad |  |  | Dólares Mínimo: $2.70 Máximo: $125.00 Euros Mínimo: €2.00 Máximo: €350.00 | - Por cajero automático, ventanilla y Agente Express - Euros solo por ventanilla. - Vigente desde 20/01/2015 - Desde el 19/03/2021 esta comisión no aplica para los segmentos Persona Natural con Negocio y Microempresa. |
+| Retiro de dinero realizado en una localidad distinta donde se contrató la Cuenta | 0,50% | Mínimo: S/7.50 Máximo:S/350.00 |  | - Aplicable al beneficiario del depósito - Vigente desde 20/01/2015 |
+| Depósitos desde otra localidad: Ventanilla y Agente Express | 0,50% | Soles Mínimo: S/ 6.50 Máximo:S/ 50.00 | Dólares Mínimo: $ 2.50 Máximo: $ 18.00 Euros Mínimo: €1.20 Máximo: €85.00 |  |
+| Uso de canales - Uso de canales complementarios |  |  |  |  |
+| Por Consulta de Saldos y Movimientos | - | Agente Express S/1.00 | No Aplica | Se cobra a partir de la 1ra consulta Vigente desde 20/01/2015 |
+| Depósitos en efectivo, Retiros de Dinero y Transferencia entre Cuentas |  | OPERACIONES SIN COSTO |  |  |
+|  |  | Hasta S/300 | No Aplica | Depende del saldo medio de mensual de la cuenta |
+|  |  | Mayor a S/300 a S/3,500 | No Aplica | Agentes express solo operaciones en soles - Vigente desde 20/01/2015 |
+|  |  | Más de S/3,500 | No Aplica | Esta comisión es independiente de la comisión por Depósitos en efectivo en cuentas en euros |
+|  |  | LUEGO DE REALIZADAS LAS OPERACIONES SIN COSTO |  |  |
+|  |  | Primeras 20 operaciones | S/ 2.00 | No Aplica |  |
+|  | Cajero automático |  |  |
+| --- | --- | --- | --- |
+| A partir de la operación 21 | S/ 3.00 | No Aplica | Aplica para todas las tarjetas de débito Vigente desde 20/01/2015 |
+|  | S/2.00 | $0.80 | Aplica para todas las tarjetas de débito Vigente desde 20/01/2015 |
+| Uso de cajero automático (Otros Bancos) | S/20.00 | $7.20 |  |
+| Uso de canales - Operación en ventanilla |  |  |  |
+| Por Depósitos en efectivo en cuentas en euros (1) | 2.50% Sobre importe del exceso | - | - | Se cobrará esta comisión sobre el exceso de €3,000 acumulados en el mes. Esta comisión es independiente de la comisión por exceso de operaciones libres al mes. No se cobra a Personas Naturales con Negocio y Microempresarios. Vigente desde 02/11/2011 |
+| Por Consulta de Saldos y Movimientos | - | S/3.00 | $1.10 ó €0.70 | Se cobra a partir de la 1ra consulta Vigente desde 20/01/2015 |
+| Depósitos en efectivo, Retiros de Dinero y Transferencia entre Cuentas | OPERACIONES SIN COSTO |  |  |  |
+|  | 1 operación | Hasta S/300 | Hasta $75 ó €75 |  |
+|  | 3 operaciones | Mayor a S/300 a S/3,500 | Mayor a $75 a $1,000 ó Mayor a €75 a €1,000 | Depende del saldo medio de mensual de la cuenta Vigente desde 20/01/2015 Esta comisión es independiente de la comisión por Depósitos en efectivo en cuentas en euros |
+|  | 9 operaciones | Más de S/3,500 | Más de $1,000 ó €1,000 |  |
+|  | LUEGO DE REALIZADAS LAS OPERACIONES SIN COSTO |  |  |  |
+|  | Primeras 20 operaciones | S/ 2.00 | $ 0.80 ó €0.70 |  |
+|  | A partir de la operación 21 | S/ 3.00 | $1.10 ó €0.90 |  |
+| Uso de canales - Uso de módulo electrónico |  |  |  |  |
+| Consultas de Saldos y Movimientos: Banca por Internet, Banca por Teléfono y Saldo Express | - | SIN COSTO | SIN COSTO | Vigente desde 01/08/2012 |
+| Servicios Asociados a la Cuenta - Mantenimiento de cuenta |  |  |  |  |
+| Mantenimiento de Cuenta mensual | - | S/15.00 | $ 5.40 ó €5.00 | Vigente desde 20/01/2015 |
+| Servicios Asociados a la Cuenta - Envío físico de estado de cuenta |  |  |  |  |
+| Envío físico de estado de cuenta | - | S/3.50 | $1.30 ó €1.00 | Se envía de manera mensual a solicitud de Usted. Vigente desde 20/01/2015 |
+| Entrega de tarjeta de débito o dispositivo a solicitud - Reposición de tarjeta de débito o dispositivo |  |  |  |  |
+| Reposición de tarjeta | - | S/20.00 | $7.20 | Aplica para todas las tarjetas de débito Vigente desde 20/01/2015 |
+| Otras comisiones |  |  |  |  |
+| Envío electrónico de estado de cuenta | - | S/. 0,50 | $0.20 ó €0.15 | No se cobra a Personas Naturales y Microempresas. Vigente desde 20/01/2015 |
+| NOTAS: |
+|---|
+| Contiahorro Euros: Esta cuenta no está asociada a ninguna tarjeta de débito. |
+| (1) Los primeros €3,000 depositados en efectivo durante el mes calendario, están exonerados de la comisión por Depósitos en efectivo en cuentas en euros. Cualquier deposito adicional estará afecto a esta comisión. Ejemplo: |
+| - El primer día del mes se deposita €2,000, esta operación no está afecta a la comisión |
+| - A mitad de mes se deposita €2,000 más, esta operación solo se afecta con la comisión a €1,000. |
+| Debido a que: €2,000 (depósito 1) + €2,000 (depósito 2) = €4,000 (exonerados) ≤ €3,000 (importe afecto a comisión) |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 6/10
+BANCO: BBVA_Continental
+PRODUCTO: servicio-fax
+FILENAME: servicio-fax.md
+FILEPATH: BBVA_Continental/servicio-fax.md
+---CONTENT_START---
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+|---|---|---|---|---|
+| Por Envío de Movimientos en Ctas. Ctes. y ahorros | - | S/40.00 | $12.00 | Tarifa mensual por cada cuenta MN y ME Vigente desde 20/09/2010 |
+| Personas Naturales, Naturales con Negocio y Microempresas |  |  |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 7/10
+BANCO: BBVA_Continental
+PRODUCTO: Comisiones-Adquirencia-por-Giro-de-Negocio-2025
+FILENAME: Comisiones-Adquirencia-por-Giro-de-Negocio-2025.md
+FILEPATH: BBVA_Continental/Comisiones-Adquirencia-por-Giro-de-Negocio-2025.md
+---CONTENT_START---
+| ITEM | Número de Giro | Familia | Giro de Negocio | Tasa pizarra Tarjeta débito Nacional | Tasa pizarra Tarjeta crédito Nacional | Porcentaje Tarjeta Extranjero o Foránea |
+|---|---|---|---|---|---|---|
+| 1 | 5541 | Grifos | Grifos y estaciones de servicio | 1.50% | 1.50% | 3.99% |
+| 2 | 5542 | Grifos | Surtidores de combustible automatizados | 3.29% | 3.29% | 3.99% |
+| 3 | 5411 | Venta de alimentos y lácteos | Tiendas de comestibles y supermercados | 3.29% | 3.29% | 3.99% |
+| 4 | 5422 | Venta de alimentos y lácteos | Proveedor de carne congelada | 3.29% | 3.29% | 3.99% |
+| 5 | 5451 | Venta de alimentos y lácteos | Tiendas de productos lácteos | 3.29% | 3.29% | 3.99% |
+| 6 | 5462 | Panaderías | Panaderías | 3.29% | 3.29% | 3.99% |
+| 7 | 5499 | Tiendas de conveniencia | Tiendas de conveniencia | 3.29% | 3.29% | 3.99% |
+| 8 | 4814 | Telecomunicaciones | Servicios de telecomunicaciones, incluidas llamadas locales y de larga distancia, llamadas co | 3.29% | 3.29% | 3.99% |
+| 9 | 4899 | Entretenimiento | Cable, satélite y otros servicios de televisión/radio/transmisión de pago | 3.29% | 3.29% | 3.99% |
+| 10 | 6300 | Aseguradoras | Aseguradoras. Ventas, suscripción y primas de seguros | 3.29% | 3.29% | 3.99% |
+| 11 | 8220 | Educación | Institutos educativos, universidades, escuelas profesionales | 3.29% | 3.29% | 3.99% |
+| 12 | 8241 | Educación | Escuelas de Negocios y Secretariado | 3.29% | 3.29% | 3.99% |
+| 13 | 8244 | Educación | Escuelas de Negocios y Secretariado | 3.29% | 3.29% | 3.99% |
+| 14 | 8249 | Educación | Escuelas vocacionales y de oficios | 3.29% | 3.29% | 3.99% |
+| 15 | 8299 | Educación | Escuelas y servicios educativos (no clasificados en otros lugares) | 3.29% | 3.29% | 3.99% |
+| 16 | 8398 | Organización | Organizaciones religiosas | 3.29% | 3.29% | 3.99% |
+| 17 | 8661 | Organización | Organizaciones sociales de beneficencia | 3.29% | 3.29% | 3.99% |
+| 18 | 9211 | Gobierno | Oficios judiciales, incluida la pensión alimenticia y la manutención de los hijos | 3.29% | 3.29% | 3.99% |
+| 19 | 9222 | Gobierno | Pagos de fianzas | 3.29% | 3.29% | 3.99% |
+| 20 | 9223 | Otros | Otros | 3.29% | 3.29% | 3.99% |
+| 21 | 9399 | Gobierno | Servicios gubernamentales (no clasificados en otros lugares) | 3.29% | 3.29% | 3.99% |
+| 22 | 780 | Otros | Servicios de jardinería y horticultura | 3.29% | 3.29% | 3.99% |
+| 23 | 1711 | Contratistas | Contratistas de calefacción, plomería y aire acondicionado | 3.29% | 3.29% | 3.99% |
+| 24 | 1731 | Contratistas | Contratistas eléctricos | 3.29% | 3.29% | 3.99% |
+| 25 | 1740 | Contratistas | Contratista de albañilería, trabajos en piedra, colocación de azulejos, enlucido y aislamiento | 3.29% | 3.29% | 3.99% |
+| 26 | 1750 | Contratistas | Contratistas de carpintería | 3.29% | 3.29% | 3.99% |
+| 27 | 1761 | Contratistas | Contratistas de trabajos de techado, revestimientos y chapa metálica | 3.29% | 3.29% | 3.99% |
+| 28 | 1771 | Contratistas | Contratistas Constructoras | 3.29% | 3.29% | 3.99% |
+| 29 | 1799 | Contratistas | Contratistas de oficios especiales (no clasificados en otros lugares) | 3.29% | 3.29% | 3.99% |
+| 30 | 4011 | Transporte | Ferrocarriles | 3.29% | 3.29% | 3.99% |
+| 31 | 4121 | Transporte | Taxis y limusinas | 3.29% | 3.29% | 3.99% |
+| 32 | 4789 | Transporte | Servicios de transporte (no clasificados en otros lugares) | 3.29% | 3.29% | 3.99% |
+| 33 | 5198 | Otros | Pinturas y barnices | 3.29% | 3.29% | 3.99% |
+| 34 | 5200 | Ventas minorista (retail) | Almacén de suministros para el hogar | 3.29% | 3.29% | 3.99% |
+| 35 | 5231 | Ventas minorista (retail) | Tiendas de vidrio, pintura y papel tapiz | 3.29% | 3.29% | 3.99% |
+| 36 | 5261 | Ventas minorista (retail) | Viveros y tiendas de artículos para jardinería y césped | 3.29% | 3.29% | 3.99% |
+| 37 | 5271 | Ventas minorista (retail) | Distribuidores de casas móviles (rodantes) | 3.29% | 3.29% | 3.99% |
+| 38 | 5713 | Mejoramiento para el hogar | Tiendas de revestimientos para pisos, alfombras y tapetes | 3.29% | 3.29% | 3.99% |
+| 39 | 5714 | Mejoramiento para el hogar | Tiendas de cortinas, revestimientos para ventanas y tapicería | 3.29% | 3.29% | 3.99% |
+| 40 | 5718 | Mejoramiento para el hogar | Tiendas de Chimeneas, Mamparas para Chimeneas y Accesorios | 3.29% | 3.29% | 3.99% |
+| 41 | 5719 | Mejoramiento para el hogar | Tiendas especializadas en artículos varios para el hogar | 3.29% | 3.29% | 3.99% |
+| 42 | 5722 | Mejoramiento para el hogar | Tiendas de electrodomésticos | 3.29% | 3.29% | 3.99% |
+| 43 | 5950 | Mejoramiento para el hogar | Tiendas de cristalería y cristalería | 3.29% | 3.29% | 3.99% |
+| 44 | 5976 | Servicios médicos / Salud | Artículos ortopédicos – Dispositivos protésicos | 3.29% | 3.29% | 3.99% |
+| 45 | 5994 | Ventas minorista (retail) | Comerciantes de periódicos y puestos de periódicos | 3.29% | 3.29% | 3.99% |
+| 46 | 5996 | Mejoramiento para el hogar | Tiendas - Venta y Servicio | 3.29% | 3.29% | 3.99% |
+| 47 | 7211 | comercios minorista | Lavanderías – Familiar y Comercial | 3.29% | 3.29% | 3.99% |
+| 48 | 7216 | Ventas minorista (retail) | Tintorerías | 3.29% | 3.29% | 3.99% |
+| 49 | 7217 | Servicios varios / profesión | Limpieza de alfombras y tapicería | 3.29% | 3.29% | 3.99% |
+| 50 | 7338 | Servicios varios / profesión | Servicios rápidos de copia, reproducción y diseño de planos | 3.29% | 3.29% | 3.99% |
+| 51 | 7342 | Servicios varios / profesión | Servicios de exterminio y desinfección | 3.29% | 3.29% | 3.99% |
+| 52 | 7349 | Servicios varios / profesión | Servicios de limpieza, mantenimiento y conserjería | 3.29% | 3.29% | 3.99% |
+| 53 | 7394 | Servicios varios / profesión | Alquiler y arrendamiento de equipos, herramientas, muebles y electrodomésticos | 3.29% | 3.29% | 3.99% |
+| 54 | 7531 | Automotriz / Concesionario | Talleres de reparación de carrocerías de automóviles | 3.29% | 3.29% | 3.99% |
+| 55 | 7534 | Automotriz / Concesionario | Talleres de reparación y recauchutado de neumáticos | 3.29% | 3.29% | 3.99% |
+| 56 | 7542 | Automotriz / Concesionario | Talleres de reparación de autos | 3.29% | 3.29% | 3.99% |
+| 57 | 7549 | Automotriz / Concesionario | Talleres de reparación de remolque | 3.29% | 3.29% | 3.99% |
+| 58 | 7623 | Taller de reparación | Talleres de reparación de aire acondicionado y refrigeración | 3.29% | 3.29% | 3.99% |
+| 59 | 7629 | Taller de reparación | Muebles – Retapizado, reparación y pequeños electrodomésticos | 3.29% | 3.29% | 3.99% |
+| 60 | 7641 | Taller de reparación | Servicios de soldadura | 3.29% | 3.29% | 3.99% |
+| 61 | 7692 | Taller de reparación | Talleres de reparación varios y servicios relacionados | 3.29% | 3.29% | 3.99% |
+| 62 | 7699 | Taller de reparación | Talleres de baile, estudios y escuelas | 3.29% | 3.29% | 3.99% |
+| 63 | 7911 | Entretenimiento | Salas de cine | 3.29% | 3.29% | 3.99% |
+| 64 | 8011 | Servicios médicos / Salud | Médicos y Especialistas (no clasificados en otros lugares) | 3.29% | 3.29% | 3.99% |
+| 65 | 8021 | Servicios médicos / Salud | Dentistas y Ortodoncistas | 3.29% | 3.29% | 3.99% |
+| 66 | 8031 | Servicios médicos / Salud | Osteópatas | 3.29% | 3.29% | 3.99% |
+| 67 | 8041 | Servicios médicos / Salud | Quiroprácticos | 3.29% | 3.29% | 3.99% |
+| 68 | 8042 | Servicios médicos / Salud | Optometristas y Oftalmólogos | 3.29% | 3.29% | 3.99% |
+| 69 | 8049 | Servicios médicos / Salud | Enfermería, atención médica domiciliaria y centros de cuidado personal | 3.29% | 3.29% | 3.99% |
+| 70 | 8050 | Servicios médicos / Salud | Hospitales y clínicas | 3.29% | 3.29% | 3.99% |
+| 71 | 8062 | Servicios médicos / Salud | Laboratorios médicos y dentales | 3.29% | 3.29% | 3.99% |
+| 72 | 8071 | Servicios médicos / Salud | Servicios médicos y profesionales de la salud | 3.29% | 3.29% | 3.99% |
+| 73 | 8099 | Servicios médicos / Salud | Contratistas generales: residenciales y comerciales | 3.29% | 3.29% | 3.99% |
+| 74 | 1520 | Contratistas | Contratistas generales: residenciales y comerciales | 3.29% | 3.29% | 3.99% |
+| 75 | 5051 | Otros | Centros y oficinas de servicios de metales | 3.29% | 3.29% | 3.99% |
+| 76 | 8734 | Otros | Laboratorios de prueba (no médicos) | 3.29% | 3.29% | 3.99% |
+|  |  |  | 3.29% | 3.29% | 3.99% |
+|---|---|---|---|---|---|
+| 77 | 5072 | Refacciones y ferretería | Equipos y Suministros | 3.29% | 3.29% | 3.99% |
+| 78 | 5074 | Refacciones y ferretería | Equipos y suministros de plomería y calefacción | 3.29% | 3.29% | 3.99% |
+| 79 | 2741 | Servicios varios / profesional | Servicios varios de edición e impresión | 3.29% | 3.29% | 3.99% |
+| 80 | 2791 | Servicios varios / profesional | Composición tipográfica, confección de placas y servicios relacionados | 3.29% | 3.29% | 3.99% |
+| 81 | 2842 | Servicios varios / profesional | Reparaciones especiales para limpieza, pulido y desinfección | 3.29% | 3.29% | 3.99% |
+| 82 | 7361 | Servicios varios / profesional | Agencias de empleo y servicios de ayuda temporal | 3.29% | 3.29% | 3.99% |
+| 83 | 7372 | Servicios varios / profesional | Servicios de programación informática, procesamiento de datos y diseño de sistemas integra | 3.29% | 3.29% | 3.99% |
+| 84 | 7375 | Servicios varios / profesional | Servicios de recuperación de información | 3.29% | 3.29% | 3.99% |
+| 85 | 7379 | Servicios varios / profesional | Mantenimiento, reparación y servicios informáticos (no clasificados en otros lugares) | 3.29% | 3.29% | 3.99% |
+| 86 | 7395 | Servicios varios / profesional | Laboratorios de fotoacabado y revelado de fotografías | 3.29% | 3.29% | 3.99% |
+| 87 | 7399 | Servicios varios / profesional | Servicios Empresariales | 3.29% | 3.29% | 3.99% |
+| 88 | 5021 | Venta al por mayor | Mobiliario de oficina y empresarial | 3.29% | 3.29% | 3.99% |
+| 89 | 5137 | Venta de ropa, calzado y ac | Informes y ropa comercial para hombres, mujeres y niños | 3.29% | 3.29% | 3.99% |
+| 90 | 5139 | Venta de ropa, calzado y ac | Calzado al por mayor | 3.29% | 3.29% | 3.99% |
+| 91 | 5039 | Venta al por mayor | Materiales para la construcción | 3.29% | 3.29% | 3.99% |
+| 92 | 5046 | Venta al por mayor | Maquinaria, equipos - Comercial | 3.29% | 3.29% | 3.99% |
+| 93 | 5085 | Venta al por mayor | Suministros industriales | 3.29% | 3.29% | 3.99% |
+| 94 | 5511 | Automotriz / Concesionario | Accesorios de automóviles y camiones (nuevos y usados): ventas, servicios, reparacione | 3.29% | 3.29% | 3.99% |
+| 95 | 5533 | Automotriz / Concesionario | Venta de autopartes y accesorios automotrices | 3.29% | 3.29% | 3.99% |
+| 96 | 7311 | Servicios Financieros | Servicios de publicidad | 3.29% | 3.29% | 3.99% |
+| 97 | 5099 | Venta al por mayor | Bienes duraderos (no clasificados en otra parte) | 3.29% | 3.29% | 3.99% |
+| 98 | 5300 | Venta al por mayor | Tiendas al por mayor | 3.29% | 3.29% | 3.99% |
+| 99 | 5065 | Ventas minorista (retail) | Papelería, Material de Oficina, Papel de Impresión y Escritura | 3.29% | 3.29% | 3.99% |
+| 100 | 5111 | Ventas minorista (retail) | Mercancías en piezas, artículos de mercería y otros productos secos | 3.29% | 3.29% | 3.99% |
+| 101 | 5131 | Ventas minorista (retail) | Productos químicos y afines (no clasificados en otra parte) | 3.29% | 3.29% | 3.99% |
+| 102 | 5169 | Ventas minorista (retail) | Venta de electrodomésticos y equipos eléctricos | 3.29% | 3.29% | 3.99% |
+| 103 | 7538 | Automotriz / Concesionario | Talleres de servicio automotriz (no concesionarios) | 3.29% | 3.29% | 3.99% |
+| 104 | 5199 | Ventas minorista (retail) | Bienes no duraderos (no clasificados en otra parte) | 3.29% | 3.29% | 3.99% |
+| 105 | 4111 | Transporte | Transporte de pasajeros local (urbano) y suburbano, incluidos los transbordadores | 3.29% | 3.29% | 3.99% |
+| 106 | 8211 | Educación | Escuelas primarias y secundarias y Jardín | 3.29% | 3.29% | 3.99% |
+| 107 | 9311 | Gobierno | Pago de impuestos | 3.29% | 3.29% | 3.99% |
+| 108 | 4784 | Peaje | Peajes y Tarifas de puente | 3.29% | 3.29% | 3.99% |
+| 109 | 6012 | Servicios Financieros | Instituciones financieras | 3.29% | 3.29% | 3.99% |
+| 110 | 7523 | Estacionamientos | Estacionamientos, parquímetros y garajes | 3.29% | 3.29% | 3.99% |
+| 111 | 4900 | Gobierno | Utilizarios - Eléctrica, Gas, Agua y Sanitaria | 1.40% | 1.40% | 3.99% |
+| 112 | 4411 | Entretenimiento | Líneas de barcos de vapor y cruceros | 3.29% | 3.29% | 3.99% |
+| 113 | 4457 | Entretenimiento | Alquiler y arrendamiento de embarcaciones | 3.29% | 3.29% | 3.99% |
+| 114 | 4511 | Transporte | Aerolíneas y transportistas aéreos (no clasificados en otros lugares) | 3.29% | 3.29% | 3.99% |
+| 115 | 4582 | Transporte | Aeropuertos, campos de vuelo y terminales aeroportuarias | 3.29% | 3.29% | 3.99% |
+| 116 | 4722 | Agencias de Viajes | Agencias de viajes y operadores turísticos | 3.29% | 3.29% | 3.99% |
+| 117 | 5309 | Ventas minorista (retail) | Tiendas libres de impuestos | 3.29% | 3.29% | 3.99% |
+| 118 | 5561 | Ventas minorista (retail) | Distribuidores de remolques para uso general, recreativos y de autocaravanas | 3.29% | 3.29% | 3.99% |
+| 119 | 5561 | Ventas minorista (retail) | Distribuidores de barcos | 3.29% | 3.29% | 3.99% |
+| 120 | 7011 | Hoteles | Tiempo compartido (casa de vacaciones) | 3.29% | 3.29% | 3.99% |
+| 121 | 7012 | Hoteles | Campamentos deportivos y recreativos | 3.29% | 3.29% | 3.99% |
+| 122 | 7032 | Entretenimiento | Parques de caravanas y campamentos | 3.29% | 3.29% | 3.99% |
+| 123 | 7033 | Otros | Alquiler de caravanas y campamentos | 3.29% | 3.29% | 3.99% |
+| 124 | 7512 | Automotriz / Concesionario | Licencia de alquiler de automóviles | 3.29% | 3.29% | 3.99% |
+| 125 | 7513 | Otros | Alquiler de camiones y remolques utilitarios | 3.29% | 3.29% | 3.99% |
+| 126 | 7519 | Entretenimiento | Alquiler de autocaravanas y vehículos recreativos | 3.29% | 3.29% | 3.99% |
+| 127 | 7841 | Entretenimiento | Alquiler de DVD y cintas de video | 3.29% | 3.29% | 3.99% |
+| 128 | 7922 | Entretenimiento | Producciones de teatro y agencias de venta de entradas | 3.29% | 3.29% | 3.99% |
+| 129 | 7929 | Otros | BILLARES, ORQUESTAS, GRUPOS, DIVERSIONES - NO CLASIFICADOS | 3.29% | 3.29% | 3.99% |
+| 130 | 7932 | Entretenimiento | SALONES | 3.29% | 3.29% | 3.99% |
+| 131 | 7933 | Entretenimiento | BOLICHES | 3.29% | 3.29% | 3.99% |
+| 132 | 7941 | Entretenimiento | Clubes deportivos profesionales, estadios, campos de atletismo y promotores deportivos | 3.29% | 3.29% | 3.99% |
+| 133 | 7991 | Otros | Atracciones turísticas y exposiciones | 3.29% | 3.29% | 3.99% |
+| 134 | 7992 | Entretenimiento | Campos de golf públicos | 3.29% | 3.29% | 3.99% |
+| 135 | 7994 | Entretenimiento | Salas de juegos/establecimientos de videojuegos | 3.29% | 3.29% | 3.99% |
+| 136 | 7996 | Entretenimiento | Parques de atracciones, circos, carnavales y adivinos | 3.29% | 3.29% | 3.99% |
+| 137 | 7997 | Entretenimiento | Clubes de membresía (deportivos, recreativos, atléticos), clubes de campo y campos de golf | 3.29% | 3.29% | 3.99% |
+| 138 | 7998 | Entretenimiento | ACUARIOS, ESPECTACULOS MARINOS | 3.29% | 3.29% | 3.99% |
+| 139 | 7999 | Entretenimiento | Servicios de recreación (no clasificados en otros lugares) | 3.29% | 3.29% | 3.99% |
+| 140 | 742 | Servicios médicos / Salud | Servicios veterinarios | 3.29% | 3.29% | 3.99% |
+| 141 | 763 | Ventas minorista (retail) | Cooperativas agrícolas | 3.29% | 3.29% | 3.99% |
+| 142 | 4112 | Transporte | Ferrocarril de pasajero | 3.29% | 3.29% | 3.99% |
+| 143 | 4119 | Servicios médicos / Salud | Servicios de Ambulancia | 3.29% | 3.29% | 3.99% |
+| 144 | 4131 | Transporte | Línea de buses | 3.29% | 3.29% | 3.99% |
+| 145 | 4214 | Transporte | Servicios de carga y camiones: locales y de larga distancia, empresas de mudanzas y al | 3.29% | 3.29% | 3.99% |
+| 146 | 4215 | Mensajería | Servicios de mensajería aérea y terrestre y transportistas | 3.29% | 3.29% | 3.99% |
+| 147 | 4225 | Almacén | Almacenamiento y depósito público: productos agrícolas, productos refrigerados, artículos | 3.29% | 3.29% | 3.99% |
+| 148 | 4468 | Logística | Maquinarias, servicios marítimos y suministros | 3.29% | 3.29% | 3.99% |
+| 149 | 4812 | Ventas minorista (retail) | Venta de equipos de telecomunicaciones y telefonía | 3.29% | 3.29% | 3.99% |
+| 150 | 4816 | Telecomunicaciones | Redes informáticas/servicios de información | 3.29% | 3.29% | 3.99% |
+| 151 | 4821 | Telecomunicaciones | Servicio de telégrafos | 3.29% | 3.29% | 3.99% |
+| 152 | 4829 | Servicios Financieros | Transferencias monetarias | 3.29% | 3.29% | 3.99% |
+| 153 | 5013 | Automotriz / Concesionario | Suministros y repuestos nuevos para vehículos de motor | 3.29% | 3.29% | 3.99% |
+| 154 | 5044 | Ventas minorista (retail) | Equipos y suministros para fotografía, fotocopias y microfilmación | 3.29% | 3.29% | 3.99% |
+| 155 | 5045 | Ventas minorista (retail) | Computadoras y equipos periféricos y software | 3.29% | 3.29% | 3.99% |
+| 156 | 5047 | Ventas minorista (retail) | Equipos y suministros médicos, dentales, oftálmicos y hospitalarios | 3.29% | 3.29% | 3.99% |
+| 157 | 5094 | Ventas minorista (retail) | Piedras y metales preciosos, relojes y joyas | 3.29% | 3.29% | 3.99% |
+| 158 | 5122 | Farmacias | Medicamentos, medicamentos patentados y artículos varios de farmacia | 3.29% | 3.29% | 3.99% |
+| 159 | 5172 | Venta de combustibles | Petróleo y productos derivados | 3.29% | 3.29% | 3.99% |
+| 160 | 5192 | Ventas minorista (retail) | Libros, periódicos y revistas | 3.29% | 3.29% | 3.99% |
+| 161 | 5193 | Ventas minorista (retail) | Suministros para floristas, viveros y flores | 3.29% | 3.29% | 3.99% |
+| 162 | 5211 | Ventas minorista (retail) | Tiendas de madera y materiales de construcción | 3.29% | 3.29% | 3.99% |
+| 163 | 5251 | Refacciones y ferretería | Ferreterías minorista | 3.29% | 3.29% | 3.99% |
+|  |  |  |  |
+|---|---|---|---|
+| 164 | 5262 | Ventas minorista (retail) | Marketplaces | 3.29% | 3.29% | 3.99% |
+| 165 | 5310 | Supermercados | Tiendas de descuento | 3.29% | 3.29% | 3.99% |
+| 166 | 5311 | Supermercados | Tiendas por departamento | 3.29% | 3.29% | 3.99% |
+| 167 | 5311 | Supermercados | Tiendas de Variedades | 3.29% | 3.29% | 3.99% |
+| 168 | 5399 | Ventas minorista (retail) | Mercancía general miscelánea | 3.29% | 3.29% | 3.99% |
+| 169 | 5441 | Ventas minorista (retail) | Tiendas de dulces, frutos secos y confitería | 3.29% | 3.29% | 3.99% |
+| 170 | 5521 | Automotriz / Concesionario | Concesionarios de automóviles y camiones (solo usados) Ventas, servicios, reparaciones, rep | 3.29% | 3.29% | 3.99% |
+| 171 | 5532 | Automotriz / Concesionario | Concesionario de vehículos eléctricos | 3.29% | 3.29% | 3.99% |
+| 172 | 5552 | Automotriz / Concesionario | Concesionarios de motocicletas | 3.29% | 3.29% | 3.99% |
+| 173 | 5571 | Automotriz / Concesionario | Concesionarios de casas rodantes | 3.29% | 3.29% | 3.99% |
+| 174 | 5592 | Automotriz / Concesionario | Concesionarios de auto de nieves | 3.29% | 3.29% | 3.99% |
+| 175 | 5598 | Automotriz / Concesionario | Distribuidores de diversos productos automotrices, aeronáuticos y de maquinaria agrícola (r | 3.29% | 3.29% | 3.99% |
+| 176 | 5599 | Automotriz / Concesionario | Distribuidores de diversos productos automotrices, aeronáuticos y de maquinaria agrícola (r | 3.29% | 3.29% | 3.99% |
+| 177 | 5611 | Venta de ropa, calzado y ac | Tiendas de ropa y accesorios para hombres y niños | 3.29% | 3.29% | 3.99% |
+| 178 | 5621 | Venta de ropa, calzado y ac | Tiendas especializadas y de accesorios para mujeres | 3.29% | 3.29% | 3.99% |
+| 179 | 5631 | Venta de ropa, calzado y ac | Tienda de ropa familiar | 3.29% | 3.29% | 3.99% |
+| 180 | 5641 | Venta de ropa, calzado y ac | Tienda de ropa deportiva y de equitación | 3.29% | 3.29% | 3.99% |
+| 181 | 5651 | Venta de ropa, calzado y ac | Tienda de zapatos | 3.29% | 3.29% | 3.99% |
+| 182 | 5655 | Venta de ropa, calzado y ac | Tienda de pieles finas | 3.29% | 3.29% | 3.99% |
+| 183 | 5661 | Venta de ropa, calzado y ac | Tiendas de ropa para hombres y mujeres | 3.29% | 3.29% | 3.99% |
+| 184 | 5681 | Venta de ropa, calzado y ac | Tiendas de pelucas y peluquines | 3.29% | 3.29% | 3.99% |
+| 185 | 5691 | Venta de ropa, calzado y ac | Tiendas de ropa y accesorios varios | 3.29% | 3.29% | 3.99% |
+| 186 | 5697 | Venta de ropa, calzado y ac | Tiendas de muebles, artículos para el hogar y equipos, excepto electrodomésticos | 3.29% | 3.29% | 3.99% |
+| 187 | 5698 | Venta de ropa, calzado y ac | Tiendas de electrónica | 3.29% | 3.29% | 3.99% |
+| 188 | 5699 | Venta de ropa, calzado y ac | Tiendas de música: instrumentos musicales, pianos y partituras | 3.29% | 3.29% | 3.99% |
+| 189 | 5712 | Ventas minorista (retail) | Tiendas de software informático | 3.29% | 3.29% | 3.99% |
+| 190 | 5732 | Ventas minorista (retail) | Tiendas de discos | 3.29% | 3.29% | 3.99% |
+| 191 | 5733 | Ventas minorista (retail) | Catering | 3.29% | 3.29% | 3.99% |
+| 192 | 5734 | Ventas minorista (retail) | Restaurantes / Bares | 3.29% | 3.29% | 3.99% |
+| 193 | 5735 | Ventas minorista (retail) | Restaurantes / Bares | Lugares para comer y restaurantes | 3.29% | 3.29% | 3.99% |
+| 194 | 5811 | Restaurantes / Bares | Bares, salones de cócteles y discotecas | 3.29% | 3.29% | 3.99% |
+| 195 | 5812 | Restaurantes / Bares | Restaurantes de Comida rápida | 3.29% | 3.29% | 3.99% |
+| 196 | 5813 | Otros | Productos digitales: libros, películas, obras de arte/imágenes digitales, música | 3.29% | 3.29% | 3.99% |
+| 197 | 5814 | Otros | Productos digitales: aplicaciones (excluidos los juegos) | 3.29% | 3.29% | 3.99% |
+| 198 | 5815 | Otros | Productos digitales: gran comerciante de productos digitales | 3.29% | 3.29% | 3.99% |
+| 199 | 5816 | Otros | Farmacias y Droguerías | 3.29% | 3.29% | 3.99% |
+| 200 | 5817 | Otros | Venta de paquetes: cerveza, vino y licores | 3.29% | 3.29% | 3.99% |
+| 201 | 5818 | Otros | Mercancía usada y tiendas de segunda mano | 3.29% | 3.29% | 3.99% |
+| 202 | 5912 | Farmacias | Tiendas de antigüedades: servicios de venta, reparación y restauración | 3.29% | 3.29% | 3.99% |
+| 203 | 5921 | Ventas minorista (retail) | Tiendas de empeño | 3.29% | 3.29% | 3.99% |
+| 204 | 5931 | Ventas minorista (retail) | Tiendas de saldo | 3.29% | 3.29% | 3.99% |
+| 205 | 5932 | Ventas minorista (retail) | Reproducciones antiguas | 3.29% | 3.29% | 3.99% |
+| 206 | 5933 | Ventas minorista (retail) | Tiendas de bicicletas – Ventas y servicios | 3.29% | 3.29% | 3.99% |
+| 207 | 5935 | Ventas minorista (retail) | Tiendas de artículos deportivos | 3.29% | 3.29% | 3.99% |
+| 208 | 5937 | Ventas minorista (retail) | Papelerías, Tiendas de Material de Oficina y Escolar | 3.29% | 3.29% | 3.99% |
+| 209 | 5940 | Automotriz / Concesionario | Tiendas de relojes, joyerías y platerías | 3.29% | 3.29% | 3.99% |
+| 210 | 5941 | Ventas minorista (retail) | Tiendas de relojes, joyerías y platerías | 3.29% | 3.29% | 3.99% |
+| 211 | 5942 | Ventas minorista (retail) | Tiendas de cámaras y suministros fotográficos | 3.29% | 3.29% | 3.99% |
+| 212 | 5943 | Ventas minorista (retail) | Tiendas de regalos, tarjetas, novedades y souvenirs | 3.29% | 3.29% | 3.99% |
+| 213 | 5944 | Ventas minorista (retail) | Tiendas de maletas y artículos de cuero | 3.29% | 3.29% | 3.99% |
+| 214 | 5945 | Ventas minorista (retail) | Tiendas de costura, labores, tejidos y artículos varios | 3.29% | 3.29% | 3.99% |
+| 215 | 5946 | Ventas minorista (retail) | Marketing directo: servicios de organización de viajes | 3.29% | 3.29% | 3.99% |
+| 216 | 5947 | Ventas minorista (retail) | Tiendas puerta a puerta | 3.29% | 3.29% | 3.99% |
+| 217 | 5948 | Ventas minorista (retail) | Marketing directo: combinación de catálogo y comercio minorista | 3.29% | 3.29% | 3.99% |
+| 218 | 5949 | Ventas minorista (retail) | Marketing directo: otros comercializadores directos (no clasificados en otros lugares) | 3.29% | 3.29% | 3.99% |
+| 219 | 5962 | Ventas minorista (retail) | Tiendas de suministros para artistas y artesanías | 3.29% | 3.29% | 3.99% |
+| 220 | 5963 | Ventas minorista (retail) | Comerciantes de arte y galerías | 3.29% | 3.29% | 3.99% |
+| 221 | 5965 | Ventas minorista (retail) | Tiendas de sellos y monedas | 3.29% | 3.29% | 3.99% |
+| 222 | 5969 | Ventas minorista (retail) | Tienda de artículos religiosos | 3.29% | 3.29% | 3.99% |
+| 223 | 5970 | Ventas minorista (retail) | Tienda de venta, servicio y suministro de audífonos | 3.29% | 3.29% | 3.99% |
+| 224 | 5971 | Ventas minorista (retail) | Tienda de cosméticos | 3.29% | 3.29% | 3.99% |
+| 225 | 5972 | Ventas minorista (retail) | Tiendas de máquinas de escribir: venta, alquiler y servicio | 3.29% | 3.29% | 3.99% |
+| 226 | 5973 | Ventas minorista (retail) | Distribuidores de combustible: fueloil, madera, carbón y petróleo licuado | 3.29% | 3.29% | 3.99% |
+| 227 | 5975 | Ventas minorista (retail) | FLORERIAS | 3.29% | 3.29% | 3.99% |
+| 228 | 5977 | Ventas minorista (retail) | TIENDAS DE MASCOTAS, ALIMENTOS Y SUMINISTROS PARA MASCOTAS | 3.29% | 3.29% | 3.99% |
+| 229 | 5978 | Ventas minorista (retail) | TIENDAS DE MASCOTAS, ALIMENTOS Y SUMINISTROS PARA MASCOTAS | 3.29% | 3.29% | 3.99% |
+| 230 | 5983 | Ventas minorista (retail) | TIENDAS DE MASCOTAS, ALIMENTOS Y SUMINISTROS PARA MASCOTAS | 3.29% | 3.29% | 3.99% |
+| 231 | 5992 | Ventas minorista (retail) | Tiendas minoristas de artículos varios y especializados | 3.29% | 3.29% | 3.99% |
+| 232 | 5993 | Ventas minorista (retail) | TIENDAS DE TOLDO, (VENTA DE TIENDAS DE CAMPAÑA), | 3.29% | 3.29% | 3.99% |
+| 233 | 5995 | Ventas minorista (retail) | VENTA DE TOLDO, (VENTA DE TIENDAS DE CAMPAÑA), | 3.29% | 3.29% | 3.99% |
+| 234 | 5997 | Ventas minorista (retail) | Tiendas minoristas de artículos varios y especializados | 3.29% | 3.29% | 3.99% |
+| 235 | 5998 | Ventas minorista (retail) | BANCOS - DISPOSICIONES DE EFECTIVO EN VENTANILLA,(INSTITUCIONES FINANCIERAS - DISPO | 3.29% | 3.29% | 3.99% |
+| 236 | 5999 | Ventas minorista (retail) | BANCOS - DISPOSICIONES AUTOMATICAS DE EFECTIVO, (AUTOFINANCIAMIENTOS - DISPOSIC | 3.29% | 3.29% | 3.99% |
+| 237 | 6011 | Servicios Financieros | Instituciones no financieras: moneda extranjera, moneda no fiduciaria, giros postales | 3.29% | 3.29% | 3.99% |
+| 238 | 6211 | Servicios Financieros | AGENTES - TRANSACCIONES DE BOLSA | 3.29% | 3.29% | 3.99% |
+| 239 | 6513 | Contratistas | Inmobiliarias (venta de departamentos) | 3.29% | 3.29% | 3.99% |
+| 240 | 6532 | Servicios Financieros | TRANSACCION DE PAGO INSTITUCION FINANCIERA CLIENTE | 3.29% | 3.29% | 3.99% |
+| 241 | 6536 | Servicios Financieros | MONEYSEND INTRACQOUNTRY | 3.29% | 3.29% | 3.99% |
+| 242 | 6537 | Servicios Financieros | MONEYSEND INTRACQOUNTRY | 3.29% | 3.29% | 3.99% |
+| 243 | 6538 | Servicios Financieros | CUASI EFECTIVO â€" INSTITUCIÃ“N FINANCIERA DEL CLIENTE | 3.29% | 3.29% | 3.99% |
+| 244 | 6540 | Servicios Financieros | MONEYSEND FUNDING | 3.29% | 3.29% | 3.99% |
+| 245 | 7210 | Servicios varios / profesiona | SERVICIOS - LAVANDERIA,(SERVICIO - LIMPIEZA Y LAVANDERIA) | 3.29% | 3.29% | 3.99% |
+| 246 | 7221 | Ventas minorista (retail) | ESTUDIOS FOTOGRAFICOS | 3.29% | 3.29% | 3.99% |
+| 247 | 7230 | Salones de belleza | Salones de belleza y peluquerías | 3.29% | 3.29% | 3.99% |
+| 248 | 7251 | Ventas minorista (retail) | LIMPIEZA DE SOMBREROS, (REPARACION DE CALZADO Y BOLEROS), | 3.29% | 3.29% | 3.99% |
+|  |  |  |  |  |
+|---|---|---|---|---|
+| 251 | 7261 | Servicios varios / profesion | Servicios Funerarios y Crematorios | 3.29% | 3.99% |
+| 252 | 7276 | Servicios varios / profesion | ASESORES FINANCIEROS - PREPARACION DE DECLARACION DE IMPUESTOS | 3.29% | 3.29% | 3.99% |
+| 253 | 7277 | Servicios varios / profesion | ASESOR - FINANCIERO, (CONSEJEROS Y ASESORES PERSONALESPRESTAMOS, MATRIMONIAL, | 3.29% | 3.29% | 3.99% |
+| 254 | 7278 | Servicios varios / profesion | ASESORES - EMPRESARIALES, (ASESORES) | 3.29% | 3.29% | 3.99% |
+| 255 | 7296 | Servicios varios / profesion | RENTA - UNIFORMES, (RENTA - DISFRACES), (RENTA - SMOKINGS), (RENTA - ROPA, DISFRACES) | 3.29% | 3.29% | 3.99% |
+| 256 | 7297 | Servicios varios / profesion | RENTA - EQUIPOS | 3.29% | 3.29% | 3.99% |
+| 257 | 7298 | Salones de belleza | Spas de salud y belleza | 3.29% | 3.29% | 3.99% |
+| 258 | 7299 | Otros | RENTA - DEPARTAMENTOS, EDIFICIO DE DEPARTAMENTOS, (OTROS SERVICIOS PERSONALES | 3.29% | 3.29% | 3.99% |
+| 259 | 7321 | Otros | SERVICIOS - PUBLICITARIOS | 3.29% | 3.29% | 3.99% |
+| 260 | 7333 | Servicios varios / profesion | Fotografía comercial, arte y gráficos | 3.29% | 3.29% | 3.99% |
+| 261 | 7339 | Otros | SERVICIOS SECRETARIALES Y ESTENOGRAFICOS | 3.29% | 3.29% | 3.99% |
+| 262 | 7392 | Servicios varios / profesion | Servicios de gestión, consultoría y relaciones públicas | 3.29% | 3.29% | 3.99% |
+| 263 | 7393 | Otros | Agencias de detectives, servicios de protección y servicios de seguridad, incluidos vehículos | 3.29% | 3.29% | 3.99% |
+| 264 | 7535 | Automotriz / Concesionario | Talleres de pintura para automóviles | 3.29% | 3.29% | 3.99% |
+| 265 | 7622 | Ventas minorista (retail) | TALLER DE REPARACION - APARATOS ELECTRONICOS | 3.29% | 3.29% | 3.99% |
+| 266 | 7631 | Ventas minorista (retail) | TALLER DE REPARACION - RELOJES DE PULSO, (TALLER DE REPARACION - JOYAS), (TALLER DE | 3.29% | 3.29% | 3.99% |
+| 267 | 7829 | Otros | PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS | 3.29% | 3.29% | 3.99% |
+| 268 | 7832 | Entretenimiento | Cines, teatros | 3.29% | 3.29% | 3.99% |
+| 269 | 7993 | Ventas minorista (retail) | VENTA DE VIDEO JUEGOS, ACCESORIOS | 3.29% | 3.29% | 3.99% |
+| 270 | 7995 | Entretenimiento | Apuestas, incluidos billetes de lotería, casinos, apuestas fuera de pista, en pistas de carreras | 3.29% | 3.29% | 3.99% |
+| 271 | 8043 | Servicios médicos / Salud | Ópticas, artículos ópticos y gafas | 3.29% | 3.29% | 3.99% |
+| 272 | 8111 | Servicios varios / profesion | SERVICIOS LEGALES, (ABOGADOS) | 3.29% | 3.29% | 3.99% |
+| 273 | 8351 | Misceláneos | GUARDERIAS, PUERICULTURA, ESTANCIAS INFANTILES | 3.29% | 3.29% | 3.99% |
+| 274 | 8641 | Servicios varios / profesion | ASOCIACIONES - CIVICAS Y FRATERNIDADES, (ASOCIACIONES SOCIALES), (ASOCIACIONES - DE | 3.29% | 3.29% | 3.99% |
+| 275 | 8651 | Servicios varios / profesion | ORGANIZACIONES - POLITICAS | 3.29% | 3.29% | 3.99% |
+| 276 | 8675 | Servicios varios / profesion | ASOCIACIONES - AUTOMOVILISTICAS | 3.29% | 3.29% | 3.99% |
+| 277 | 8699 | Servicios varios / profesion | Organizaciones de membresía (no clasificadas en otros lugares) | 3.29% | 3.29% | 3.99% |
+| 278 | 8911 | Servicios varios / profesion | PROYECTOS INGENIERILES Y DE ARQUITECTURA, (PROYECTOS - INVESTIGACIO DE MERCADO) | 3.29% | 3.29% | 3.99% |
+| 279 | 8931 | Servicios varios / profesion | SERVICIOS - CONTABILIDAD, (SERVICIOS - CONTABLES), (SERVICIOS - AUDITORIAS) | 3.29% | 3.29% | 3.99% |
+| 280 | 8999 | Servicios varios / profesion | Servicios profesionales (no clasificados en otra parte) | 3.29% | 3.29% | 3.99% |
+| 281 | 9402 | Gobierno | SERVICIOS POSTALES - SOLO GOBIERNO | 3.29% | 3.29% | 3.99% |
+| 282 | 9950 | Gobierno | COMPRAS INTERGUBERNAMENTALES | 3.29% | 3.29% | 3.99% |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 8/10
+BANCO: BBVA_Continental
+PRODUCTO: valores-generales
+FILENAME: valores-generales.md
+FILEPATH: BBVA_Continental/valores-generales.md
+---CONTENT_START---
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+|---|---|---|---|---|
+| Por Carta de Presentación | - | S/7.00 | $2.00 | Vigente desde 24/05/2010 |
+| Por Cobranza de Dividendos en Efectivo | 1.00% | Mínimo: S/5.00 | Mínimo: $2.00 | Físicos. Vigente desde 24/11/2010 |
+| Por Constitución de Prendas | - | S/30.00 | $8.00 | Físicos. Vigente desde 24/05/2010 |
+| Por Derechos de Custodia BBVA Continental | 1.00% | Mínimo: S/10.00 Máximo: S/50.00 | Mínimo: $3.50 Máximo: $15.00 | Desmaterializados. Vigente desde 24/05/2010 |
+| Por Duplicado de Estado de Cuenta de Valores | - | S/15.00 | $4.50 | Desmaterializados Persona Natural Vigente desde 01/03/2017 |
+| Por Envío o Recepción de Valores Vía DTC | - | S/7.00 | $2.00 | Vigente desde 24/05/2010 |
+| Por Escisión | 0.50% | Mínimo: S/5.00 | Mínimo: $2.00 | Vigente desde 24/11/2010 |
+| Por Fusión | 0.50% | Mínimo: S/5.00 | Mínimo: $2.00 | Físicos. Vigente desde 24/11/2010 |
+| Por Liberadas | 0.50% | Mínimo: S/5.00 | Mínimo: $2.00 | Físicos. Vigente desde 24/11/2010 |
+| Por Salida por Traspasos a Otras Cuentas Matrices | - | S/24.00 | $10.00 | Desmaterializados Persona Natural Vigente desde 24/11/2010 |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 9/10
+BANCO: BBVA_Continental
+PRODUCTO: adelanto-ppjj
+FILENAME: adelanto-ppjj.md
+FILEPATH: BBVA_Continental/adelanto-ppjj.md
+---CONTENT_START---
+| TASAS | Porcentaje MN | Porcentaje ME | Observación y Vigencia |
+|---|---|---|---|
+| Descuento de Letras | 32,00% | 25,00% | Aplica por adelantado Vigente desde 24/03/2008 |
+| Pagares Descontados | - | 19,00% | Aplica por adelantado Vigente desde 01/07/2004 |
+| Interés moratorio | 15% | 10,00% |  |
+| Interés compensatorio | 32% | 25,00% | Aplica para el aceptante |
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+| Por Administración de Cartera | - | S/7.00 +Generación y/o envío de Comunic. y Notas de Cargo y Abono: S/3.50 | $2.50 +Generación y/o envío de Comunic. y Notas de Cargo y Abono: $1.00 | Aplica a documentos que ingresan a descuento o renovación por importes individuales menores a S/1,000.00 ó $350.00. Vigente desde 16/12/2013 |
+| Por Transferencia de Fondos | Otras Plazas - Mismo Banco 0.5% | Mínimo: S/7.00 Máximo:S/375.00 +Generación y/o envío de Comunic. y Notas de Cargo y Abono: S/3.50 | Mínimo: $2.50 Máximo: $100.00 +Generación y/o envío de Comunic. y Notas de Cargo y Abono: $1.00 | Aplica sobre monto por cobrar en otras plazas. Aplica al ingreso del documento a descuento. Vigente desde 02/11/2011 |
+|  | Otras Plazas - Otros Bancos MN: 1.50% ME: 2.00% | Mínimo: S/17.50 Máximo: S/1050.00 +Generación y/o envío de Comunic. y Notas de Cargo y Abono: S/3.50 +Gastos del Bco Corresponsal | Mínimo: $5.00 Máximo: $50.00 +Generación y/o envío de Comunic. y Notas de Cargo y Abono: $1.00 +Gastos del Bco Corresponsal | Aplica sobre monto por cobrar en otras plazas. Aplica al ingreso del documento a descuento. Para documentos encargados en plazas donde el Banco no tenga oficinas. Vigente desde 02/11/2011 |
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+| Por Renovación de Documentos en Descuento | 1,00% | Mínimo: S/15.00 Máximo:S/165.00 +Generación y/o envío de Comunic. y Notas de Cargo y Abono: S/3.50 | Mínimo: $4.00 Máximo: $50.00 +Generación y/o envío de Comunic. y Notas de Cargo y Abono: $1.00 | Aplica sobre monto del nuevo documento. A cargo del aceptante o deudor. Vigente desde 20/02/2019 |
+| Por Devolución de Documentos en Descuento No Cancelados | 0,50% | Mínimo: S/7.00 Máximo:S/175.00 +Generación y/o envío de Comunic. y Notas de Cargo y Abono: S/3.50 +Gastos del Bco Corresponsal | Mínimo: $2.00 Máximo: $50.00 +Generación y/o envío de Comunic. y Notas de Cargo y Abono: $1.00 +Gastos del Bco Corresponsal | Aplica sobre el importe del documento devuelto. Para documentos encargados en plazas donde el Banco no tenga oficinas. Vigente desde 02/11/2011 |
+| Por Protesto | 3,00% | Mínimo: S/75.00 Máximo: S/165.00 +Portes: S/3.50 +Gastos por Servicio Notarial. | Mínimo: $25.00 Máximo: $58.00 +Portes: S/1.00 +Gastos por Servicio Notarial. | Aplica sobre el importe del documento, a cargo del aceptante o deudor. Se aplica al descontante en caso de devolución del docmto. no cancelado. Servicio Notarial (ver Gastos). Vigente desde 22/07/2024 |
+| Por Cambio de Dirección | - | S/ 5.00 | $1.50 | Aplica por Documento Vigente desde 02/11/2011 |
+| Por Registro por Mora en Cámara de Comercio | 2,00% | Mínimo: S/35.00 +Generación y/o envío de Comunic. y Notas de Cargo y Abono: S/3.50 | Mínimo: $10.00 +Generación y/o envío de Comunic. y Notas de Cargo y Abono: $1.00 | Aplica por Informe, sobre el importe por documento, a cargo del aceptante o deudor. Aplica al descontante en caso de devolución del documento no cancelado. Vigente desde 02/11/2011 |
+| Por Generación y/o Envío de Comunicaciones y Notas de Cargo y Abono | - | S/3.50 | $1.00 | Aplica por generación y/o envío. Vigente desde 02/11/2011 |
+| Por recepción de planilla de letras en oficina | - | S/ 40.00 | $ 11.00 | Cobro por planilla a cargo del girador a partir del 01/08/2025 |
+| OTRAS COMISIONES |  |  |  |  |
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+| Por remisión de documentos en caso de renovación o cancelación | - | S/3.50 Por cada documento solicitado. | - | Aplica únicamente al aceptante y en caso el documento original sea solicitado por éste. Vigente desde 18/03/2015 |
+| GASTOS | Porcentaje | MN | ME | Observación y Vigencia |
+| | | S/10.00 | $3.00 |
+|---|---|---|---|
+| Por Servicio Notarial | - | STN | STN | Aplica Para Lima y Callao Vigente desde 02/11/2011. STN: Para Provincia, las oficinas negociarán los gastos con las notarías de cada ciudad. Vigente desde 02/11/2011 |
+| Personas Jurídicas - Pequeñas, Medianas y Grandes Empresas | | | |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 10/10
+BANCO: BBVA_Continental
+PRODUCTO: deposito-en-garantia
+FILENAME: deposito-en-garantia.md
+FILEPATH: BBVA_Continental/deposito-en-garantia.md
+---CONTENT_START---
+| TASAS | Porcentaje MN | Porcentaje ME | Observación y Vigencia |
+|---|---|---|---|
+| Depósito en Garantía | No aplica | No aplica | Vigente desde 20/01/2015 |
+| Personas Naturales, Naturales con Negocio y Microempresas |  |  |  |
+---CONTENT_END---
+

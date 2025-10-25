@@ -1,0 +1,44 @@
+# ============================================
+# Requisitos del Proyecto - Extracción de Tarifarios Bancarios
+# ============================================
+
+# IA y Google Gemini
+google-generativeai
+google-ai-generativelanguage
+langchain-google-genai
+langchain
+langchain-core
+
+# Procesamiento de documentos
+pdf2image
+pillow
+pdfplumber
+pdfminer.six
+
+# Validación y estructuración de datos
+pydantic
+pydantic-settings
+
+# Manipulación de datos
+pandas
+numpy
+openpyxl
+
+# Web scraping
+selenium
+beautifulsoup4
+requests
+playwright
+
+# Logging y utilidades
+loguru
+python-dotenv
+tqdm
+
+# Base de datos MySQL
+mysql-connector-python
+
+# Server
+jinja2
+fastapi
+uvicorn

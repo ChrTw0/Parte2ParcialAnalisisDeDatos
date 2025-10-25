@@ -1,0 +1,3506 @@
+{
+  "total_pdfs": 499,
+  "exitosos": 499,
+  "fallidos": 0,
+  "total_paginas": 1464,
+  "tiempo_total_segundos": 5095.166022777557,
+  "configuracion": {
+    "max_workers": 16,
+    "dpi": 300
+  },
+  "resultados": [
+    {
+      "pdf": "cajas-de-seguridad-persona-juridica.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.51194953918457
+    },
+    {
+      "pdf": "asesoria-juridica-ppnn.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.581461429595947
+    },
+    {
+      "pdf": "cajas-de-seguridad.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.571458101272583
+    },
+    {
+      "pdf": "asesoria-juridica-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.794532060623169
+    },
+    {
+      "pdf": "comision-ventanillas-agentesBN.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.994073152542114
+    },
+    {
+      "pdf": "cobros-y-pagos-depositos-con-referencia-a-cuentas-de-personas-juridicas.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.8533225059509277
+    },
+    {
+      "pdf": "adelanto-ppjj.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.881410837173462
+    },
+    {
+      "pdf": "cartas-fianza-pn.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.984932899475098
+    },
+    {
+      "pdf": "ahorro-vivienda-ppnn.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.266963720321655
+    },
+    {
+      "pdf": "BANCA_ELECTRONICA_PJ.3_HOST_TO_HOST.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.587867021560669
+    },
+    {
+      "pdf": "BANCA-ELECTRONICA-NET-CASH-PN.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.639865398406982
+    },
+    {
+      "pdf": "cartas-fianza-pj.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 8.827263355255127
+    },
+    {
+      "pdf": "adelanto-ppnn.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 8.854268312454224
+    },
+    {
+      "pdf": "cobranza-libre-cobranza-garantia-personas-juridicas.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.563811540603638
+    },
+    {
+      "pdf": "cobranza-libre-cobranza-garantia-ppjj.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.636439561843872
+    },
+    {
+      "pdf": "comex-forfaiting-exportacion.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.8471288681030273
+    },
+    {
+      "pdf": "BANCA_ELECTRONICA_PJ.1_SWIFT.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 9.50699758529663
+    },
+    {
+      "pdf": "comex-financiamiento-de-importacion.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.371044635772705
+    },
+    {
+      "pdf": "comex-garantia-prendaria.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.786466360092163
+    },
+    {
+      "pdf": "comex-forfaiting-importacion.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.8399944305419922
+    },
+    {
+      "pdf": "comex-cobranzas-exportacion.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.07289981842041
+    },
+    {
+      "pdf": "comex-financiamiento-exportaciones.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.3631093502044678
+    },
+    {
+      "pdf": "comex-cobranzas-importacion.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.9710428714752197
+    },
+    {
+      "pdf": "comex-cartas-credito-importacion.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.35450005531311
+    },
+    {
+      "pdf": "tasas-tarjeta-credito.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.138875722885132
+    },
+    {
+      "pdf": "comex-transferencias-al-exterior.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.67240309715271
+    },
+    {
+      "pdf": "comex-stand-by-emitidos.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.133664608001709
+    },
+    {
+      "pdf": "comex-carta-credito-exportacion.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.455942869186401
+    },
+    {
+      "pdf": "tasas-prestamos-consumo.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.598836183547974
+    },
+    {
+      "pdf": "comex-stand-by-recibidos-favor-clientes.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.2155423164367676
+    },
+    {
+      "pdf": "Comisiones-Adquirencia.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.850684404373169
+    },
+    {
+      "pdf": "convenio-depositos-especiales.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.8239719867706299
+    },
+    {
+      "pdf": "convenio-depositos-especiales-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.021705389022827
+    },
+    {
+      "pdf": "cts.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.3454151153564453
+    },
+    {
+      "pdf": "comunicados-de-interes.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.044154644012451
+    },
+    {
+      "pdf": "constancias-duplicados.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.49114203453064
+    },
+    {
+      "pdf": "constancias-y-duplicados-ppjj.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.657696723937988
+    },
+    {
+      "pdf": "CTS-COMISIONES-TRANSVERSALES.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.325500011444092
+    },
+    {
+      "pdf": "cuenta-asociada-prestamos-ppnn.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.29208517074585
+    },
+    {
+      "pdf": "cuenta-de-ahorro-12-cuenta-digital.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.133130073547363
+    },
+    {
+      "pdf": "cuenta-empresario-personas-naturales.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.8356685638427734
+    },
+    {
+      "pdf": "CUENTA-CORRIENTE_CUENTA-NEGOCIO-ANTES-CUENTA-EMPRESAS.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.7795188426971436
+    },
+    {
+      "pdf": "Contiahorro-PJ.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.146618843078613
+    },
+    {
+      "pdf": "contiahorro-persona-natural.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.349142074584961
+    },
+    {
+      "pdf": "cuenta-corriente-pn.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.442161560058594
+    },
+    {
+      "pdf": "CUENTA-FACIL.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.180878400802612
+    },
+    {
+      "pdf": "cuenta-ganadora.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.015939235687256
+    },
+    {
+      "pdf": "cuenta-independencia.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.071469306945801
+    },
+    {
+      "pdf": "Comisiones-Adquirencia-por-Giro-MCC.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 9.457987308502197
+    },
+    {
+      "pdf": "cuenta-plazo-cbme-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.222647190093994
+    },
+    {
+      "pdf": "CUENTA-PLAZO-CERTIFICADOS-BANCARIOS-MONEDA-EXTRANEJERA-BANCA-EMPRESA-E-INSTITUCIONES.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.8295702934265137
+    },
+    {
+      "pdf": "Comisiones-Adquirencia-el-2025.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.07067084312439
+    },
+    {
+      "pdf": "cuenta-plazo-ppnn-plazo-super-deposito-largo-plazo-certificado-bancario-moneda-extranjera.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.3386785984039307
+    },
+    {
+      "pdf": "Comisiones-Adquirencia-por-Giro-de-Negocio-2025.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.255234479904175
+    },
+    {
+      "pdf": "CUENTA-NEGOCIO-DIGITAL-PJ.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.228227138519287
+    },
+    {
+      "pdf": "cuenta-empresario-ppjj.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.9811482429504395
+    },
+    {
+      "pdf": "CUENTA-NEGOCIO-DIGITAL-PN.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.057879686355591
+    },
+    {
+      "pdf": "cuenta-negocio-ppnn_No-vigente.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.234421491622925
+    },
+    {
+      "pdf": "cuenta-proveedor-personas-juridicas.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.980899333953857
+    },
+    {
+      "pdf": "cuenta-proveedor-personas-naturales.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.408529281616211
+    },
+    {
+      "pdf": "cuenta-senior.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.023865461349487
+    },
+    {
+      "pdf": "cuenta-sueldo.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.552776098251343
+    },
+    {
+      "pdf": "CUENTAS-CORRIENTE-1-CUENTA-CORRIENTE-PERSONA-JURIDICA-2.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.7569520473480225
+    },
+    {
+      "pdf": "cuenta-vip-wellness.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.7764410972595215
+    },
+    {
+      "pdf": "deposito-en-garantia.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.9679367542266846
+    },
+    {
+      "pdf": "CUENTAS-CORRIENTES_CUENTA-CORRIENTE-EMPRENDEDOR.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.014702558517456
+    },
+    {
+      "pdf": "CUENTAS-CORRIENTE-1-CUENTA-CORRIENTE-PERSONA-JURIDICA.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.982870101928711
+    },
+    {
+      "pdf": "depositos-cheques-travellers-exterior-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.8177390098571777
+    },
+    {
+      "pdf": "cuentas-plazo-transversales.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.194695472717285
+    },
+    {
+      "pdf": "cuentas-remesas.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.684295415878296
+    },
+    {
+      "pdf": "depositos-con-referencia-a-cuentas-de-personas-juridicas.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.7794251441955566
+    },
+    {
+      "pdf": "deposito-plazo-tasa-creciente-ppnn.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.170703172683716
+    },
+    {
+      "pdf": "depositos-de-cheques-travellers-del-exterior.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.8771944046020508
+    },
+    {
+      "pdf": "CUENTAS-CORRIENTES-PJ_CUENTA-NEGOCIO_ANTES-CUENTA-EMPRESAS.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.238996267318726
+    },
+    {
+      "pdf": "dinero-electronico.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.0662362575531006
+    },
+    {
+      "pdf": "CUENTAS-CORRIENTES-PJ_CUENTA-NEGOCIO_ESTE-PRODUCTO-YA-NO-SE-COMERCIALIZA.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.080460786819458
+    },
+    {
+      "pdf": "emision-certificacion-depositos-cobros.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.7456045150756836
+    },
+    {
+      "pdf": "emision-cheques-personalizados-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.6410770416259766
+    },
+    {
+      "pdf": "envio-fax.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.135496139526367
+    },
+    {
+      "pdf": "envio-fax-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.2544891834259033
+    },
+    {
+      "pdf": "factoring-electronico-personas-juridicas.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.1302995681762695
+    },
+    {
+      "pdf": "factoring-electronico-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.2776989936828613
+    },
+    {
+      "pdf": "emision-certificacion-depositos-cobros-ppjj.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.627651929855347
+    },
+    {
+      "pdf": "garantias-personas-naturales.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.6209466457366943
+    },
+    {
+      "pdf": "giros-nacionales-ppnn.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.0390985012054443
+    },
+    {
+      "pdf": "generales-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.8074820041656494
+    },
+    {
+      "pdf": "giros-nacionales.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.291134834289551
+    },
+    {
+      "pdf": "emision-cheques-personalizados.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.653655290603638
+    },
+    {
+      "pdf": "operaciones-compra-divisas.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.838719367980957
+    },
+    {
+      "pdf": "operaciones-venta-divisas.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.214550733566284
+    },
+    {
+      "pdf": "formula-pago-adelantado-amortizacion.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.249986171722412
+    },
+    {
+      "pdf": "garantias-persona-juridica.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.656373977661133
+    },
+    {
+      "pdf": "pago-electronico-detracciones-sunat.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.8731741905212402
+    },
+    {
+      "pdf": "pago-de-haberes-y-cts.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.104113817214966
+    },
+    {
+      "pdf": "pago-electronico-detracciones-sunat-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.887064218521118
+    },
+    {
+      "pdf": "pago-proveedores-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.2737531661987305
+    },
+    {
+      "pdf": "pago-haberes-cts-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.368304967880249
+    },
+    {
+      "pdf": "pago-negociacion-cheques-del-exterior-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.555952548980713
+    },
+    {
+      "pdf": "ordenes-pago-del-exterior-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.305621147155762
+    },
+    {
+      "pdf": "pago-proveedores.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.2542927265167236
+    },
+    {
+      "pdf": "pago-recibos-telefono-luz-agua-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.3066108226776123
+    },
+    {
+      "pdf": "pago-recibos-telefono-luz-agua.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.1269540786743164
+    },
+    {
+      "pdf": "PN-TRANSFERENCIA-GIROS-Y-ORDENES-DE-PAGO.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.153862953186035
+    },
+    {
+      "pdf": "CUENTAS-DE-AHORRO-COMISIONES-TRANSVERSALES-PN.pdf",
+      "paginas": 5,
+      "exito": true,
+      "error": null,
+      "tiempo": 18.649351835250854
+    },
+    {
+      "pdf": "recibos-sistema-recaudaciones-debito-automatico-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.247310161590576
+    },
+    {
+      "pdf": "NET-CASH-MANTENIMIENTO-USo-DEL-SISTEMA-PJ.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.758542776107788
+    },
+    {
+      "pdf": "ppjj-servicios-varios-otros-servicios.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.4990105628967285
+    },
+    {
+      "pdf": "recibos-sistema-recaudaciones-debito-automatico.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.637869119644165
+    },
+    {
+      "pdf": "servicio-custodia-internacional-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.34578800201416
+    },
+    {
+      "pdf": "prestamos-comisiones-transversales.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.184303283691406
+    },
+    {
+      "pdf": "Giros-Adquirencia-por-Giro-de-Negocio.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 14.893487215042114
+    },
+    {
+      "pdf": "servicio-custodia-internacional.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.501953125
+    },
+    {
+      "pdf": "prestamo-techo-propio1.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.013672590255737
+    },
+    {
+      "pdf": "servicio-fax-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.735163450241089
+    },
+    {
+      "pdf": "servicio-fax.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.576951503753662
+    },
+    {
+      "pdf": "servicios-varios-otros-servicios.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.103621482849121
+    },
+    {
+      "pdf": "SERVICIO_DE_ABONO_DIARIO_DE_EFECTIVO.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.6776483058929443
+    },
+    {
+      "pdf": "TARIFARIO-ADS.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.4865498542785645
+    },
+    {
+      "pdf": "prestamo-locales-comerciales.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 13.769640684127808
+    },
+    {
+      "pdf": "Relacion-de-notaria-muro-regulatorio.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 9.279170989990234
+    },
+    {
+      "pdf": "cuentas-corrientes-comisiones-transversales-pn-micro.pdf",
+      "paginas": 7,
+      "exito": true,
+      "error": null,
+      "tiempo": 31.308212518692017
+    },
+    {
+      "pdf": "tarifario-cuenta-activa.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.142493009567261
+    },
+    {
+      "pdf": "TARIFARIO-PRESTAMO-OCB.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.908627033233643
+    },
+    {
+      "pdf": "prestamo-vehicular1.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 18.15029001235962
+    },
+    {
+      "pdf": "Tarifario_PCOM_sin_desgravamen.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.330101490020752
+    },
+    {
+      "pdf": "prestamo-comercial-credito-liquido.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 20.066564083099365
+    },
+    {
+      "pdf": "TARIFARIO-PRESTAMOS.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 8.086151838302612
+    },
+    {
+      "pdf": "tarjeta-de-debito.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.8406591415405273
+    },
+    {
+      "pdf": "Tarifario_Prestamo_Basico_Sin_Desgravamen.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.347264289855957
+    },
+    {
+      "pdf": "tarjeta-debito-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.7637712955474854
+    },
+    {
+      "pdf": "tarjeta_prepago.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.34067964553833
+    },
+    {
+      "pdf": "transacciones-cajeros-automaticos-b24-tarjeta-exterior.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.3327720165252686
+    },
+    {
+      "pdf": "Tarifario_Mivivienda.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.667208194732666
+    },
+    {
+      "pdf": "transacciones-en-cajeros-b24-con-tarjeta-del-exterior-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.817837715148926
+    },
+    {
+      "pdf": "transacciones-cajeros-otros-bancos-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.835920572280884
+    },
+    {
+      "pdf": "tarjetas-transversales.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 8.202084302902222
+    },
+    {
+      "pdf": "Tarifario-leasing-personas-naturales-y-micro-May21.pdf",
+      "paginas": 5,
+      "exito": true,
+      "error": null,
+      "tiempo": 18.50322723388672
+    },
+    {
+      "pdf": "transferencia-interbancaria-via-bcr.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.013914585113525
+    },
+    {
+      "pdf": "transferencias-giros-al-exterior-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.486576557159424
+    },
+    {
+      "pdf": "transferencias-giros-y-ordenes-de-pago-pj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.600564479827881
+    },
+    {
+      "pdf": "transferencias-interplaza-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.6209864616394043
+    },
+    {
+      "pdf": "transferencias-via-bcr-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.2322428226470947
+    },
+    {
+      "pdf": "Tarifario-leasing-personas-juridicas-May21.pdf",
+      "paginas": 5,
+      "exito": true,
+      "error": null,
+      "tiempo": 22.169093370437622
+    },
+    {
+      "pdf": "tarjeta-credito-persona-juridica.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 15.329638004302979
+    },
+    {
+      "pdf": "tips-del-tarifario.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 12.138926267623901
+    },
+    {
+      "pdf": "smv_defensa_derechos_de_clientes.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 24.66616702079773
+    },
+    {
+      "pdf": "transferencias_interplaza.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.747591972351074
+    },
+    {
+      "pdf": "Tarifario-prestamos-hipotecarios.pdf",
+      "paginas": 5,
+      "exito": true,
+      "error": null,
+      "tiempo": 22.91057300567627
+    },
+    {
+      "pdf": "verificacion-domicialiaria-credito-cuenta-ppjj.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.3876709938049316
+    },
+    {
+      "pdf": "Aplica_solo_a_Cobranza_y_Descuento_de_LetrasAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.791236162185669
+    },
+    {
+      "pdf": "Adelanto_de_SueldoAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.306825637817383
+    },
+    {
+      "pdf": "valores-generales.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.009291172027588
+    },
+    {
+      "pdf": "Capital_de_TrabajoAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.095189332962036
+    },
+    {
+      "pdf": "clausulas-generales-operaciones-pasivas-prestacion-servicios-bancarios.pdf",
+      "paginas": 15,
+      "exito": true,
+      "error": null,
+      "tiempo": 69.434086561203
+    },
+    {
+      "pdf": "prestamo-locales-comerciales-ppjj.pdf",
+      "paginas": 9,
+      "exito": true,
+      "error": null,
+      "tiempo": 40.957324504852295
+    },
+    {
+      "pdf": "TRANSFERENCIAS_GIROS-Y-ORDENES_DE_PAGO_PN.3_TRANSFERENCIAS_INTERBANCARIAS_VIA_CEE.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.780608892440796
+    },
+    {
+      "pdf": "Administración_de_EfectivoAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.886022567749023
+    },
+    {
+      "pdf": "tarjetas-empresariales-ppjj.pdf",
+      "paginas": 8,
+      "exito": true,
+      "error": null,
+      "tiempo": 26.008227825164795
+    },
+    {
+      "pdf": "Compra_Inteligente_BCPAdobe_PDF.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.733381271362305
+    },
+    {
+      "pdf": "Créditos_de_Negocios_Capital_de_Trabajo_y_Activo_FijoAdobe_PDF.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.923799991607666
+    },
+    {
+      "pdf": "TRANSFERENCIAS_GIROS-Y-ORDENES_DE_PAGO_PJ.3_TRANSFERENCIAS_INTERBANCARIAS_VIA_CCE.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 16.762895107269287
+    },
+    {
+      "pdf": "Compra_de_DeudaAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.86272931098938
+    },
+    {
+      "pdf": "Crédito_Efectivo_y_Crédito_Efectivo_con_Garantía_HipotecariaAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.19748854637146
+    },
+    {
+      "pdf": "Crédito_EstudiosAdobe_PDF.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.6576321125030518
+    },
+    {
+      "pdf": "Créditos_Hipotecarios_-_Tasas_máximasAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.8443474769592285
+    },
+    {
+      "pdf": "prestamo-comercial-credito-liquido-ppjj.pdf",
+      "paginas": 11,
+      "exito": true,
+      "error": null,
+      "tiempo": 52.92977499961853
+    },
+    {
+      "pdf": "Crédito_por_convenioAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.0702240467071533
+    },
+    {
+      "pdf": "Crédito_ReestructuradoAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.4637689590454102
+    },
+    {
+      "pdf": "Crédito_con_Garantía_HipotecariaAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.794278860092163
+    },
+    {
+      "pdf": "Crédito_con_Garantía_Hipotecaria_CompartidaAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.631239652633667
+    },
+    {
+      "pdf": "ChequesAdobe_PDF.pdf",
+      "paginas": 5,
+      "exito": true,
+      "error": null,
+      "tiempo": 17.94486951828003
+    },
+    {
+      "pdf": "Cuentas_CorrientesAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.635573148727417
+    },
+    {
+      "pdf": "Crédito_VencidoAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.9182472229003906
+    },
+    {
+      "pdf": "Cuentas_de_AhorroAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.0201761722564697
+    },
+    {
+      "pdf": "Cuentas_de_Ahorro_WardaditosAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.8996872901916504
+    },
+    {
+      "pdf": "Crédito_Vehicular_Auto_UsadoAdobe_PDF.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.687397003173828
+    },
+    {
+      "pdf": "Cobranzas_y_DescuentosAdobe_PDF.pdf",
+      "paginas": 6,
+      "exito": true,
+      "error": null,
+      "tiempo": 20.156668663024902
+    },
+    {
+      "pdf": "Crédito_Vehicular_Compra_InteligenteAdobe_PDF.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.003084421157837
+    },
+    {
+      "pdf": "Crédito_Negocios_y_Pequeña_EmpresaAdobe_PDF.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 9.285625457763672
+    },
+    {
+      "pdf": "Créditos_HipotecariosAdobe_PDF.pdf",
+      "paginas": 5,
+      "exito": true,
+      "error": null,
+      "tiempo": 15.759612798690796
+    },
+    {
+      "pdf": "Crédito_VehicularAdobe_PDF.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.898542165756226
+    },
+    {
+      "pdf": "Cuenta_Digital_BCPAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.5242316722869873
+    },
+    {
+      "pdf": "Cuenta_Ilimitada_BCPAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.2136919498443604
+    },
+    {
+      "pdf": "Cuenta_MaestraAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.5102040767669678
+    },
+    {
+      "pdf": "Cuenta_Ahorros_Clásica_Persona_JurídicaAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.812376976013184
+    },
+    {
+      "pdf": "Cuenta_Premio_BCPAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.334881544113159
+    },
+    {
+      "pdf": "Cuenta_Sueldo_BCPAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.198864698410034
+    },
+    {
+      "pdf": "Declaración_delBeneficiario_final.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.444899082183838
+    },
+    {
+      "pdf": "Canales_de_Atención_Persona_JurídicaAdobe_PDF.pdf",
+      "paginas": 8,
+      "exito": true,
+      "error": null,
+      "tiempo": 29.54465389251709
+    },
+    {
+      "pdf": "Depósito_CTSAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.7704544067382812
+    },
+    {
+      "pdf": "Cuenta_Ahorros_Clásica_PYMEAdobe_PDF.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.739659070968628
+    },
+    {
+      "pdf": "Depósito_CTS_con_Cuenta_Sueldo_BCP_-_Vigencia_al_31_08_2025Adobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.8281171321868896
+    },
+    {
+      "pdf": "Financiamiento_ElectrónicoAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.9033408164978027
+    },
+    {
+      "pdf": "Financiamiento_Mediano_y_Largo_PlazoAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.4741802215576172
+    },
+    {
+      "pdf": "Cuenta_Corriente_PYMEAdobe_PDF.pdf",
+      "paginas": 5,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.478947877883911
+    },
+    {
+      "pdf": "Depósito_a_PlazoAdobe_PDF.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.9068377017974854
+    },
+    {
+      "pdf": "CuotéaloAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.099093437194824
+    },
+    {
+      "pdf": "Cuenta_Corriente_Persona_NaturalAdobe_PDF.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.112791538238525
+    },
+    {
+      "pdf": "Legal_Persona_NaturalAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.2788918018341064
+    },
+    {
+      "pdf": "Legal_PYMEAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.3498830795288086
+    },
+    {
+      "pdf": "Cuenta_Corriente_Personal_Natural_de_NegocioAdobe_PDF.pdf",
+      "paginas": 6,
+      "exito": true,
+      "error": null,
+      "tiempo": 16.546403408050537
+    },
+    {
+      "pdf": "InversionesAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.264800071716309
+    },
+    {
+      "pdf": "Saldos_Deudores_en_Cuenta_CorrienteAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.1403374671936035
+    },
+    {
+      "pdf": "Leasing_Pequeña_EmpresaAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.538520097732544
+    },
+    {
+      "pdf": "Préstamos_ComercialesAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.124013662338257
+    },
+    {
+      "pdf": "Préstamo_PersonalAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.161850452423096
+    },
+    {
+      "pdf": "Préstamo_personal_con_Garantía_LíquidaAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.163304805755615
+    },
+    {
+      "pdf": "Servicios_en_VentanillaAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.9394259452819824
+    },
+    {
+      "pdf": "Cuenta_Corriente_Persona_Jurídica_-_NegociosAdobe_PDF.pdf",
+      "paginas": 7,
+      "exito": true,
+      "error": null,
+      "tiempo": 22.574528217315674
+    },
+    {
+      "pdf": "Servicios_de_PagosAdobe_PDF.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.6773600578308105
+    },
+    {
+      "pdf": "Servicios_de_RecaudaciónAdobe_PDF.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.363616943359375
+    },
+    {
+      "pdf": "LeasingAdobe_PDF.pdf",
+      "paginas": 5,
+      "exito": true,
+      "error": null,
+      "tiempo": 16.773463249206543
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_American_ExpressAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.2581658363342285
+    },
+    {
+      "pdf": "Tarjeta_Crédito_NegociosAdobe_PDF.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.493681192398071
+    },
+    {
+      "pdf": "Tarjeta_de_Credito_American_Express_BlackAdobe_PDF.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.86198878288269
+    },
+    {
+      "pdf": "Cuenta_Corriente_Persona_JurídicaAdobe_PDF.pdf",
+      "paginas": 8,
+      "exito": true,
+      "error": null,
+      "tiempo": 29.760435104370117
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_IOAdobe_PDF.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.106593608856201
+    },
+    {
+      "pdf": "Avales_y_FianzasAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 55.52450704574585
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_American_Express_Clásica_No_disponible_para_venta_y_American_Express_Latam_Pass_ClásicaAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.596316814422607
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_American_Express_Gold_No_disponible_para_venta_y_American_Express_Latam_Pass_OroAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.304937839508057
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_American_Express_Green_No_disponible_para_ventaAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 9.9737069606781
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_Visa_Compra_de_PasajesAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.1752820014953613
+    },
+    {
+      "pdf": "Legal_Persona_JurídicaAdobe_PDF.pdf",
+      "paginas": 7,
+      "exito": true,
+      "error": null,
+      "tiempo": 26.330596208572388
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_Visa_CorporativaAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.2375030517578125
+    },
+    {
+      "pdf": "Canales_de_Atención_Persona_NaturalAdobe_PDF.pdf",
+      "paginas": 13,
+      "exito": true,
+      "error": null,
+      "tiempo": 59.21033787727356
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_American_Express_Platinum_No_disponible_para_venta_y_American_Express_Latam_Pass_PlatinumAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.260388135910034
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_Visa_EmpresarialAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.379946231842041
+    },
+    {
+      "pdf": "Informes_VariosAdobe_PDF.pdf",
+      "paginas": 7,
+      "exito": true,
+      "error": null,
+      "tiempo": 29.829124927520752
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_Visa_ClásicaAdobe_PDF.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 13.466875314712524
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_Visa_LightAdobe_PDF.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.798806190490723
+    },
+    {
+      "pdf": "SegurosAdobe_PDF.pdf",
+      "paginas": 7,
+      "exito": true,
+      "error": null,
+      "tiempo": 28.13912081718445
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_Visa_Infinite_Iridium_Latam_PassAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.893590927124023
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_Visa_Infinite_QoreAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.55669379234314
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_Visa_Exacta__No_disponible_para_ventaAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.230394840240479
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_Visa_Oro_LatamPassAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.108246088027954
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_Visa_Infinite_Sapphire_Latam_PassAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.172241926193237
+    },
+    {
+      "pdf": "Tasas_para_las_Operaciones_Activas_que_no_figuran_en_esta_directivaAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.0098884105682373
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_Visa_Oro_QoreAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.469874858856201
+    },
+    {
+      "pdf": "Tasa_Compensatoria_de_Cobranza_y_Descuento_de_LetrasAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.9831130504608154
+    },
+    {
+      "pdf": "Tasa_Compensatoria_Créditos_ComercialesAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.0916616916656494
+    },
+    {
+      "pdf": "Tasa_de_Interés_de_Prórroga_-_DescuentoAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.1710805892944336
+    },
+    {
+      "pdf": "Tasa_de_Interés_de_Prórroga_-_CobranzaAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.868943214416504
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_Visa_PlatinumAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 12.085779190063477
+    },
+    {
+      "pdf": "Tarjeta_de_DébitoAdobe_PDF.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.366525411605835
+    },
+    {
+      "pdf": "Tasa_de_Interés_LegalAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.7822487354278564
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_Visa_Signature_Latam_PassAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 9.431542158126831
+    },
+    {
+      "pdf": "Tasa_de_Interés_MoratorioAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.713560104370117
+    },
+    {
+      "pdf": "Tasa_de_Interés_Moratorios_de_Cobranza_y_Descuento_de_LetrasAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.7196338176727295
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_Visa_Signature_QoreAdobe_PDF.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 8.74413251876831
+    },
+    {
+      "pdf": "Tasa_de_Interés_Moratorio_de_Cobranza_y_Descuento_de_LetrasAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.729276657104492
+    },
+    {
+      "pdf": "Tasa_de_Interés_Moratorio_Créditos_Personales_Créditos_Hipotecarios_Créditos_Refinanciados_y_Crédito_Efectivo_NegociosAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.1053199768066406
+    },
+    {
+      "pdf": "lista_colegio_de_notarios_agosto2021t1703256293443.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.6615891456604
+    },
+    {
+      "pdf": "TAR-0110A.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.736172676086426
+    },
+    {
+      "pdf": "Telecrédito_PYMEAdobe_PDF.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.195511102676392
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_Visa_Edelnor_BCPAdobe_PDF.pdf",
+      "paginas": 7,
+      "exito": true,
+      "error": null,
+      "tiempo": 28.587120294570923
+    },
+    {
+      "pdf": "TAR-0110B.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 8.685582160949707
+    },
+    {
+      "pdf": "TAR-0238.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.463253974914551
+    },
+    {
+      "pdf": "TAR-0243.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.9337189197540283
+    },
+    {
+      "pdf": "como_descargar_el_reporte_tributario_a_tercerost1662582922551.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 12.225388288497925
+    },
+    {
+      "pdf": "TAR_0001t1698330218073.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.687546968460083
+    },
+    {
+      "pdf": "TAR_0004t1696348229523.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.1714367866516113
+    },
+    {
+      "pdf": "Tarjeta_de_Crédito_VisaAdobe_PDF.pdf",
+      "paginas": 9,
+      "exito": true,
+      "error": null,
+      "tiempo": 36.735023736953735
+    },
+    {
+      "pdf": "TAR_0004t1696348229524.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.123782157897949
+    },
+    {
+      "pdf": "Servicios_TransversalesAdobe_PDF.pdf",
+      "paginas": 10,
+      "exito": true,
+      "error": null,
+      "tiempo": 48.81233072280884
+    },
+    {
+      "pdf": "TAR_0013t1696348229524.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.8600738048553467
+    },
+    {
+      "pdf": "TAR_0014t1662583158939.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.4742538928985596
+    },
+    {
+      "pdf": "Comercio_ExteriorAdobe_PDF.pdf",
+      "paginas": 16,
+      "exito": true,
+      "error": null,
+      "tiempo": 91.77680683135986
+    },
+    {
+      "pdf": "TAR-0230B.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 14.655150651931763
+    },
+    {
+      "pdf": "TAR_0016t1662583158939.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.483383417129517
+    },
+    {
+      "pdf": "FDO_0178t1662582945765.pdf",
+      "paginas": 5,
+      "exito": true,
+      "error": null,
+      "tiempo": 22.332398653030396
+    },
+    {
+      "pdf": "TAR_0009t1701123546310.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.091988325119019
+    },
+    {
+      "pdf": "TAR_0006t1696348229524.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 12.261349201202393
+    },
+    {
+      "pdf": "TAR_0008t1696348229524.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 14.00952696800232
+    },
+    {
+      "pdf": "TAR_0019At1662583158939.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 8.147307872772217
+    },
+    {
+      "pdf": "TAR_0019Bt1662583158939.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.483712911605835
+    },
+    {
+      "pdf": "Telecrédito_Persona_JurídicaAdobe_PDF.pdf",
+      "paginas": 7,
+      "exito": true,
+      "error": null,
+      "tiempo": 29.83719277381897
+    },
+    {
+      "pdf": "TAR_0010t1696348229524.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 15.574905157089233
+    },
+    {
+      "pdf": "TAR_0026t1696348229524.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.73052978515625
+    },
+    {
+      "pdf": "TAR_0028t1664485172904.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.256091117858887
+    },
+    {
+      "pdf": "TAR_0025t1701123546311.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.1443305015563965
+    },
+    {
+      "pdf": "TAR_0025t1747671434.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.172736167907715
+    },
+    {
+      "pdf": "TAR_0017t1696348229524.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 17.60536479949951
+    },
+    {
+      "pdf": "VentasAdobe_PDF.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 38.487343072891235
+    },
+    {
+      "pdf": "TAR_0034t1688483302508.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.530915975570679
+    },
+    {
+      "pdf": "TAR_0020t1696348229524.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 19.246487379074097
+    },
+    {
+      "pdf": "TAR_0035At1668179822295.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.370825290679932
+    },
+    {
+      "pdf": "TAR_0034t1662582901667.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 9.056666135787964
+    },
+    {
+      "pdf": "TAR_0021t1696348229524.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 18.960583925247192
+    },
+    {
+      "pdf": "TAR_0024t1696348229524.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 18.629059553146362
+    },
+    {
+      "pdf": "TAR_0035Bt1668179822295.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.934680461883545
+    },
+    {
+      "pdf": "TAR_0020t1701123546311.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 20.304491996765137
+    },
+    {
+      "pdf": "TAR_0033t1662582901667.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 12.33678412437439
+    },
+    {
+      "pdf": "TAR_0041Bt1664485172904.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.408118724822998
+    },
+    {
+      "pdf": "TAR_0040t1664485172904.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.5216383934020996
+    },
+    {
+      "pdf": "TAR_0044t1664485172904.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.4226412773132324
+    },
+    {
+      "pdf": "TAR_0041At1688483302508.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.0414040088653564
+    },
+    {
+      "pdf": "TAR_0032t1662582901667.pdf",
+      "paginas": 5,
+      "exito": true,
+      "error": null,
+      "tiempo": 17.717714548110962
+    },
+    {
+      "pdf": "TAR_0050t1688483302507.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.285979747772217
+    },
+    {
+      "pdf": "TAR_0036At1662582945765.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.458401441574097
+    },
+    {
+      "pdf": "TAR_0032t1662582945765.pdf",
+      "paginas": 5,
+      "exito": true,
+      "error": null,
+      "tiempo": 17.43865180015564
+    },
+    {
+      "pdf": "TAR_0043t1664485172904.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.463484764099121
+    },
+    {
+      "pdf": "TAR_0052t1688483302508.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.211343765258789
+    },
+    {
+      "pdf": "TAR_0057t1688483302508.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.2863552570343018
+    },
+    {
+      "pdf": "TAR_0045t1727069014.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.488084316253662
+    },
+    {
+      "pdf": "TAR_0051t1688483302508.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.290662527084351
+    },
+    {
+      "pdf": "TAR_0042t1664485172904.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.538894414901733
+    },
+    {
+      "pdf": "TAR_0049t1688483302507.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.919410467147827
+    },
+    {
+      "pdf": "TAR_0042t1664485172903.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.376368284225464
+    },
+    {
+      "pdf": "TAR_0046t1688483301123.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 8.416104793548584
+    },
+    {
+      "pdf": "TAR_0064t1664485172903.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.9109675884246826
+    },
+    {
+      "pdf": "TAR_0059Bt1664485172904.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.583741188049316
+    },
+    {
+      "pdf": "TAR_0063t1688483302508.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.723092079162598
+    },
+    {
+      "pdf": "TAR_0062At1662583032917.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.171120166778564
+    },
+    {
+      "pdf": "TAR_0062Ct1662583032918.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 9.999653100967407
+    },
+    {
+      "pdf": "TAR_0067t1664485172904.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 8.95954442024231
+    },
+    {
+      "pdf": "TAR_0065t1688483302508.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 9.043540000915527
+    },
+    {
+      "pdf": "TAR_0062Bt1662583032918.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 12.014205694198608
+    },
+    {
+      "pdf": "TAR_0072t1664485172904.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.7096328735351562
+    },
+    {
+      "pdf": "TAR_0061t1688483302508.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 16.944474458694458
+    },
+    {
+      "pdf": "TAR_0074t1664485172903.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.4590325355529785
+    },
+    {
+      "pdf": "TAR_0105At1698330218073.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.43375825881958
+    },
+    {
+      "pdf": "TAR_0073t1664485172904.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.820268392562866
+    },
+    {
+      "pdf": "TAR_0070t1664485172904.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 8.595288753509521
+    },
+    {
+      "pdf": "TAR_0105Bt1698330105636.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.747152805328369
+    },
+    {
+      "pdf": "TAR_0108t1662582901667.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.280742645263672
+    },
+    {
+      "pdf": "TAR_0075t1664485172904.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.80466628074646
+    },
+    {
+      "pdf": "TAR_0106t1662583158939.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.289941310882568
+    },
+    {
+      "pdf": "TAR_0108t1689868492830.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.379586458206177
+    },
+    {
+      "pdf": "TAR_0110At1662582945766.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.8205835819244385
+    },
+    {
+      "pdf": "TAR_0056t1688483302508.pdf",
+      "paginas": 7,
+      "exito": true,
+      "error": null,
+      "tiempo": 26.517625331878662
+    },
+    {
+      "pdf": "TAR_0110At1720535636.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.636059284210205
+    },
+    {
+      "pdf": "TAR_0059At1688483302508.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 27.576955318450928
+    },
+    {
+      "pdf": "TAR_0069t1664485172904.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 16.37262487411499
+    },
+    {
+      "pdf": "TAR_0110At1720536203.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.748995304107666
+    },
+    {
+      "pdf": "TAR_0109t1662582901667.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.8635478019714355
+    },
+    {
+      "pdf": "TAR_0068t1664485172903.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 20.380212545394897
+    },
+    {
+      "pdf": "TAR_0115t1698330218072.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.3308804035186768
+    },
+    {
+      "pdf": "TAR_0130t1698330218072.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.5882303714752197
+    },
+    {
+      "pdf": "TAR_0131t1698330218072.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.9806504249572754
+    },
+    {
+      "pdf": "TAR_0135t1662582945766.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.990492582321167
+    },
+    {
+      "pdf": "TAR_0124Bt1698330105636.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.322245121002197
+    },
+    {
+      "pdf": "TAR_0124Bt1698330105507.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.453152894973755
+    },
+    {
+      "pdf": "TAR_0135t1698330105636.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.4433772563934326
+    },
+    {
+      "pdf": "TAR_0116t1698330218072.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.459683418273926
+    },
+    {
+      "pdf": "TAR_0124At1698330218072.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.49043607711792
+    },
+    {
+      "pdf": "TAR_0141t1698330218072.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.3717944622039795
+    },
+    {
+      "pdf": "TAR_0112At1689868492830.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 12.743329286575317
+    },
+    {
+      "pdf": "TAR_0112At1720536203.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 13.350924968719482
+    },
+    {
+      "pdf": "TAR_0140t1688483302507.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.418542623519897
+    },
+    {
+      "pdf": "TAR_0137t1696610001087.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 12.58305549621582
+    },
+    {
+      "pdf": "TAR_0142t1696610001088.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.491297483444214
+    },
+    {
+      "pdf": "TAR_0143t1696610001088.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 13.130125284194946
+    },
+    {
+      "pdf": "tarjetas-de-credito-persona-natural.pdf",
+      "paginas": 27,
+      "exito": true,
+      "error": null,
+      "tiempo": 187.22485637664795
+    },
+    {
+      "pdf": "TAR_0144t1696610001088.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 13.405953884124756
+    },
+    {
+      "pdf": "TAR_0112Bt1746460118.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 23.09050989151001
+    },
+    {
+      "pdf": "TAR_0137t1696610001088.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 16.553169012069702
+    },
+    {
+      "pdf": "TAR_0018t1662583158939.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 80.86748170852661
+    },
+    {
+      "pdf": "TAR_0146At1696610001089.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.602699756622314
+    },
+    {
+      "pdf": "TAR_0112Bt1698330105636.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 25.539257526397705
+    },
+    {
+      "pdf": "TAR_0156At1698330218073.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.229346990585327
+    },
+    {
+      "pdf": "TAR_0159At1698330218072.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.0116474628448486
+    },
+    {
+      "pdf": "TAR_0156Bt1698330105636.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.4803218841552734
+    },
+    {
+      "pdf": "TAR_0146Bt1696610001089.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 8.009671449661255
+    },
+    {
+      "pdf": "TAR_0159Bt1698330105636.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.513787031173706
+    },
+    {
+      "pdf": "TAR_0175t1664485172903.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.964034080505371
+    },
+    {
+      "pdf": "TAR_0145t1696610001088.pdf",
+      "paginas": 6,
+      "exito": true,
+      "error": null,
+      "tiempo": 17.642929792404175
+    },
+    {
+      "pdf": "TAR_0160t1698330218072.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.409482002258301
+    },
+    {
+      "pdf": "TAR_0162Bt1698330105636.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.83139443397522
+    },
+    {
+      "pdf": "TAR_0162At1698330218073.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.622108459472656
+    },
+    {
+      "pdf": "TAR_0154t1698330218072.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.31898546218872
+    },
+    {
+      "pdf": "TAR_0149t1696610001088.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 12.891757011413574
+    },
+    {
+      "pdf": "TAR_0155t1688483302508.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 9.680250406265259
+    },
+    {
+      "pdf": "TAR_0145t1696610001089.pdf",
+      "paginas": 6,
+      "exito": true,
+      "error": null,
+      "tiempo": 21.4468994140625
+    },
+    {
+      "pdf": "TAR_0163t1696610001088.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 8.434839010238647
+    },
+    {
+      "pdf": "TAR_0180t1662582945766.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.63555908203125
+    },
+    {
+      "pdf": "TAR_0179t1662582945765.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.392070293426514
+    },
+    {
+      "pdf": "TAR_0212t1698330105636.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.015001535415649
+    },
+    {
+      "pdf": "TAR_0221t1698330218073.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.24627161026001
+    },
+    {
+      "pdf": "TAR_0188t1696348229524.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 9.474537372589111
+    },
+    {
+      "pdf": "TAR_0203t1668179822295.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.268842458724976
+    },
+    {
+      "pdf": "TAR_0164t1696610001088.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 13.414978265762329
+    },
+    {
+      "pdf": "TAR_0179t1662582945766.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.98010516166687
+    },
+    {
+      "pdf": "TAR_0186t1696610001088.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.652533054351807
+    },
+    {
+      "pdf": "TAR_0225t1696610001016.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.3602681159973145
+    },
+    {
+      "pdf": "TAR_0200t1662582945766.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.54658842086792
+    },
+    {
+      "pdf": "TAR_0204t1696610001088.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.242430210113525
+    },
+    {
+      "pdf": "FDO_1472t1757628666.pdf",
+      "paginas": 21,
+      "exito": true,
+      "error": null,
+      "tiempo": 116.31183314323425
+    },
+    {
+      "pdf": "TAR_0202t1696348229524.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 14.317418098449707
+    },
+    {
+      "pdf": "TAR_0201t1662582945766.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 14.916852712631226
+    },
+    {
+      "pdf": "TAR_0240t1696348229524.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 10.585114479064941
+    },
+    {
+      "pdf": "TAR_0229t1720451541.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 14.97510290145874
+    },
+    {
+      "pdf": "TAR_0244t1452658522.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 13.199426889419556
+    },
+    {
+      "pdf": "TAR_0244t1352648516.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 13.572996854782104
+    },
+    {
+      "pdf": "TAR_0244t1252638503.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 13.868608951568604
+    },
+    {
+      "pdf": "TAR_0244t1152628489.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 14.237044095993042
+    },
+    {
+      "pdf": "TAR_0244t1552668528.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 13.521013021469116
+    },
+    {
+      "pdf": "TAR_0244t1752688540.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 12.063001155853271
+    },
+    {
+      "pdf": "TAR_0244t1852698546.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.921685457229614
+    },
+    {
+      "pdf": "TAR_0244t1952608534.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.85721230506897
+    },
+    {
+      "pdf": "TAR_0244t1652678534.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 13.163280963897705
+    },
+    {
+      "pdf": "TAR_0244t2052618540.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 9.654295682907104
+    },
+    {
+      "pdf": "TAR_0244t1952618464.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 9.892238855361938
+    },
+    {
+      "pdf": "034.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.7073750495910645
+    },
+    {
+      "pdf": "010.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.281083822250366
+    },
+    {
+      "pdf": "035.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.8573884963989258
+    },
+    {
+      "pdf": "044.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.645050048828125
+    },
+    {
+      "pdf": "005.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.316219091415405
+    },
+    {
+      "pdf": "024.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.723879337310791
+    },
+    {
+      "pdf": "028.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.623107433319092
+    },
+    {
+      "pdf": "025.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.06206202507019
+    },
+    {
+      "pdf": "026.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.8809964656829834
+    },
+    {
+      "pdf": "032.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.45149564743042
+    },
+    {
+      "pdf": "TAR_0230At1701123546311.pdf",
+      "paginas": 8,
+      "exito": true,
+      "error": null,
+      "tiempo": 20.4075288772583
+    },
+    {
+      "pdf": "045.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.6418702602386475
+    },
+    {
+      "pdf": "03CuentaSueldoyCuentaSueldoIndependientes.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.221505641937256
+    },
+    {
+      "pdf": "056.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.7424709796905518
+    },
+    {
+      "pdf": "054.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.043020248413086
+    },
+    {
+      "pdf": "049.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.406440258026123
+    },
+    {
+      "pdf": "047.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.52596116065979
+    },
+    {
+      "pdf": "063.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.5656473636627197
+    },
+    {
+      "pdf": "057.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.189727783203125
+    },
+    {
+      "pdf": "064.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.1810286045074463
+    },
+    {
+      "pdf": "059.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.1142208576202393
+    },
+    {
+      "pdf": "058.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.27081298828125
+    },
+    {
+      "pdf": "053.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.557975769042969
+    },
+    {
+      "pdf": "070.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.1342134475708008
+    },
+    {
+      "pdf": "060.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.0954742431640625
+    },
+    {
+      "pdf": "062.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.7674009799957275
+    },
+    {
+      "pdf": "055.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.117443799972534
+    },
+    {
+      "pdf": "071.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.3545103073120117
+    },
+    {
+      "pdf": "061.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.031714200973511
+    },
+    {
+      "pdf": "081.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.3689098358154297
+    },
+    {
+      "pdf": "008.pdf",
+      "paginas": 6,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.333850622177124
+    },
+    {
+      "pdf": "067.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.4047698974609375
+    },
+    {
+      "pdf": "075.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.573476552963257
+    },
+    {
+      "pdf": "088.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.34401273727417
+    },
+    {
+      "pdf": "077.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.7269678115844727
+    },
+    {
+      "pdf": "004.pdf",
+      "paginas": 9,
+      "exito": true,
+      "error": null,
+      "tiempo": 15.33793306350708
+    },
+    {
+      "pdf": "080.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.8286914825439453
+    },
+    {
+      "pdf": "076.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.243144512176514
+    },
+    {
+      "pdf": "078.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.979215145111084
+    },
+    {
+      "pdf": "079.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.095908164978027
+    },
+    {
+      "pdf": "093.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.6598880290985107
+    },
+    {
+      "pdf": "091.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.7909126281738281
+    },
+    {
+      "pdf": "095.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.7883596420288086
+    },
+    {
+      "pdf": "084.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.36065936088562
+    },
+    {
+      "pdf": "073-Tb.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.64179801940918
+    },
+    {
+      "pdf": "105.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.6835744380950928
+    },
+    {
+      "pdf": "102_Tarjeta_Credito_Black_Mastercard.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.970604419708252
+    },
+    {
+      "pdf": "112CuentaKids.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.170638084411621
+    },
+    {
+      "pdf": "114_Tarjeta_Credito_AAdvantage_Clasica_Visa_y_MC.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.326671361923218
+    },
+    {
+      "pdf": "100-Pagare-con-Cesion-de-Acreencias.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 6.163572788238525
+    },
+    {
+      "pdf": "115_Tarjeta_Credito_AAdvantage_Oro_Visa_y_MC.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.639705657958984
+    },
+    {
+      "pdf": "117_Tarjeta_Credito_AAdvantage_Black_MC.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.233919858932495
+    },
+    {
+      "pdf": "11PrestamosPersonalesCAT12.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 2.9086802005767822
+    },
+    {
+      "pdf": "116_Tarjeta_Credito_AAdvantage_Platinum_Visa.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.590770959854126
+    },
+    {
+      "pdf": "118_Tarjeta_Credito_AAdvantage_Infinite_Visa.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.533395290374756
+    },
+    {
+      "pdf": "111CuentaFree.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.528849840164185
+    },
+    {
+      "pdf": "109TranfyChequesdelalExterioryGirosalExterior-CAT-09.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.916947603225708
+    },
+    {
+      "pdf": "119CuentaRenta.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.030323505401611
+    },
+    {
+      "pdf": "125-cuenta-euros.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.2796499729156494
+    },
+    {
+      "pdf": "120CuentaAhorroHipotecario.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.801912069320679
+    },
+    {
+      "pdf": "113-cuenta-power.pdf",
+      "paginas": 5,
+      "exito": true,
+      "error": null,
+      "tiempo": 8.868396759033203
+    },
+    {
+      "pdf": "126-Tarjeta-Credito-Infinite-Scotiabank-Visa.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.673999071121216
+    },
+    {
+      "pdf": "122CuentaTravel.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.804529190063477
+    },
+    {
+      "pdf": "124-Tarjeta-Credito-Smart-Visa.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.6920905113220215
+    },
+    {
+      "pdf": "127-Tarjeta-de-Credito-AAdvantage-Signature-Visa.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.80556583404541
+    },
+    {
+      "pdf": "128-Tarjeta-Credito-Infinite-Beyond.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.683046340942383
+    },
+    {
+      "pdf": "129TarjetadeCreditoScotiabankCAPO_CapitalparaoportunidadesCAT0.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.6781387329101562
+    },
+    {
+      "pdf": "130-Tarjeta-Credito-Empresarial-Corporate-Visa.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.2175824642181396
+    },
+    {
+      "pdf": "12_Tarjeta_Credito_Clasica_Visa_MC.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.011112451553345
+    },
+    {
+      "pdf": "132-Cuenta-Metas-01.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.0325522422790527
+    },
+    {
+      "pdf": "131-Tarjeta-Credito-Empresarial-Business-MasterCard.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.259579658508301
+    },
+    {
+      "pdf": "134PrestamosReactiva.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.31758451461792
+    },
+    {
+      "pdf": "138TarjetadeCreditoExtralinea.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.352926731109619
+    },
+    {
+      "pdf": "137TarjetadeCreditoSinMembresiaVisa.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.9952900409698486
+    },
+    {
+      "pdf": "33-Deposito-a-Plazo-Interesante.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.5429940223693848
+    },
+    {
+      "pdf": "135CuentaIntangible01.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.330677509307861
+    },
+    {
+      "pdf": "21_Tarjeta_Credito_Signature_Visa.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.829716920852661
+    },
+    {
+      "pdf": "133SuperCuentadeScotiabank.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.033726930618286
+    },
+    {
+      "pdf": "15_Tarjeta_Credito_Platinum_Visa_y_MC.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.343626499176025
+    },
+    {
+      "pdf": "123-Cobranza-y-Descuento-de-Facturas.pdf",
+      "paginas": 6,
+      "exito": true,
+      "error": null,
+      "tiempo": 11.114322185516357
+    },
+    {
+      "pdf": "27-Prestamo-Vehicular-CAT-08.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.985651969909668
+    },
+    {
+      "pdf": "22_1_Tarjeta_Credito_Jockey_Scotiabank_Visa.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.669888019561768
+    },
+    {
+      "pdf": "92-Canales-Alternativos.pdf",
+      "paginas": 1,
+      "exito": true,
+      "error": null,
+      "tiempo": 1.3235609531402588
+    },
+    {
+      "pdf": "TransferenciasAdobe_PDF.pdf",
+      "paginas": 31,
+      "exito": true,
+      "error": null,
+      "tiempo": 158.61377263069153
+    },
+    {
+      "pdf": "82PrestamosBancadeNegocioPYMECAT14.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.4101762771606445
+    },
+    {
+      "pdf": "14_Tarjeta_Credito_Oro_Visa_y_MC.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.769758462905884
+    },
+    {
+      "pdf": "87PrendasyValuacionesCAT17.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.4179062843322754
+    },
+    {
+      "pdf": "83PrestamosHipotecarioClientesNegocioPropio.pdf",
+      "paginas": 2,
+      "exito": true,
+      "error": null,
+      "tiempo": 3.453878402709961
+    },
+    {
+      "pdf": "089.pdf",
+      "paginas": 11,
+      "exito": true,
+      "error": null,
+      "tiempo": 21.385996103286743
+    },
+    {
+      "pdf": "23-Prestamos-Hipotecarios-CAT.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.6006951332092285
+    },
+    {
+      "pdf": "tarifario-scotiacard-empresas.pdf",
+      "paginas": 3,
+      "exito": true,
+      "error": null,
+      "tiempo": 4.062454700469971
+    },
+    {
+      "pdf": "97CreditoMiVivienda.pdf",
+      "paginas": 4,
+      "exito": true,
+      "error": null,
+      "tiempo": 5.1504456996917725
+    },
+    {
+      "pdf": "48-Prestamos-Capital-de-Trabajo.pdf",
+      "paginas": 5,
+      "exito": true,
+      "error": null,
+      "tiempo": 7.541395425796509
+    },
+    {
+      "pdf": "Lista-de-NotarIas.pdf",
+      "paginas": 7,
+      "exito": true,
+      "error": null,
+      "tiempo": 9.149147987365723
+    },
+    {
+      "pdf": "110SBPServiciosTransversalesCAT50.pdf",
+      "paginas": 20,
+      "exito": true,
+      "error": null,
+      "tiempo": 32.82957053184509
+    },
+    {
+      "pdf": "46-Seguros_Optativos.pdf",
+      "paginas": 18,
+      "exito": true,
+      "error": null,
+      "tiempo": 19.339177131652832
+    },
+    {
+      "pdf": "Tarifario-BN.pdf",
+      "paginas": 131,
+      "exito": true,
+      "error": null,
+      "tiempo": 538.1246750354767
+    }
+  ]
+}

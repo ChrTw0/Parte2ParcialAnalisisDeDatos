@@ -1,0 +1,162 @@
+---DOCUMENT_START---
+FILE_NUMBER: 1/4
+BANCO: BBVA_Continental
+PRODUCTO: comunicados-de-interes
+FILENAME: comunicados-de-interes.md
+FILEPATH: BBVA_Continental/comunicados-de-interes.md
+---CONTENT_START---
+| | |
+|---|---|
+| TASAS, COMISIONES Y GASTOS | |
+| Las tasas, comisiones y gastos indicados en el Tarifario rigen a partir de la fecha de vigencia. Excepto los Depósitos a Plazo y CBME, que mantendrán su tasa hasta el vencimiento. A los que renueven se les aplicará la nueva tasa. | |
+| T.E.A.: Tasa Efectiva Anual Base 360 días. | |
+| | |
+| Resolución SBS N°3274 - 2017 | Nuestro tarifario completo, con todas las Tasas, Comisiones y Gastos de los Productos y Servicios que ofrece el Banco, puede ser consultado en todas nuestras oficinas, Muro de Transparencia y en la página web: www.bbva.pe. Esta información de tasas, comisiones y gastos se proporciona de acuerdo a la Ley 28587. |
+| | |
+| ITF: 0.005% - IMPUESTO A LAS TRANSACCIONES FINANCIERAS | |
+| Ley N° 28194 | Todos los retiros o depósitos en cuentas, así como la compra de cheques de gerencia, giros, certificados bancarios u otros instrumentos financieros que no estén expresamente exonerado, están gravadas con la tasa de 0.005% del monto total de la transacción. |
+| IR: 30% - IMPUESTO A LA RENTA Y NORMAS MODIFICATORIAS | |
+| Decreto Supremo N° 179- 2004- EF | Los intereses recibidos y/o devengados están afectos al Impuesto a la Renta para Personas Jurídicas y Personas con Negocios Unipersonales. El Banco actuará como agente retenedor para los perceptores no domiciliados. |
+| UIT: S/ 5,150 - UNIDAD IMPOSITIVA TRIBUTARIA | |
+| D.S. N° 309-2023- EF | La UIT es un valor de referencia, que puede ser utilizado en las normas tributarias para determinar las bases imponibles, deducciones, límites de afectación y demás aspectos de los tributos que considere conveniente el legislador. También podrá ser utilizada para aplicar sanciones, determinar obligaciones contables, inscribirse en el registro de contribuyentes y otras obligaciones formales. |
+| --- | --- |
+| Circular N° B-2274 2025 | Depósitos cubiertos hasta por un monto de S/ 118,300 septiembre 2025 - noviembre 2025. |
+| Art.152 de la Ley N° 26702 | Se cubrirán los siguientes productos: Cuentas Corrientes, Depósitos de Ahorro (Persona Natural, Persona Jurídica Privada sin fines de lucro), Depósitos a Plazo (Persona Natural, Persona Jurídica Privada sin fines de lucro), Súper Depósito, Depósitos, CTS. |
+| Res SBS 0890-98 Reglamento de Cuentas Corrientes | Los clientes que tengan cheques rechazados por falta de fondos pueden solicitar, en esta oficina, la constancia de dicho rechazo. |
+| | Nuestro Banco viene trabajando con Cláusulas Generales de Contratación para todas nuestras operaciones pasivas y/o servicios. Estas Cláusulas Generales se encuentran a su disposición en nuestra página web y en nuestras Oficinas. |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 2/4
+BANCO: BBVA_Continental
+PRODUCTO: comex-stand-by-recibidos-favor-clientes
+FILENAME: comex-stand-by-recibidos-favor-clientes.md
+FILEPATH: BBVA_Continental/comex-stand-by-recibidos-favor-clientes.md
+---CONTENT_START---
+| COMISIONES | Porcentaje | ME | Observación y Vigencia |
+| --- | --- | --- | --- |
+| AL MOMENTO DE LLEGADA |  |  |  |
+| Aviso | - | $180.00 +Mensaje SWIFT: $22+Portes Internacional: $12 | Vigente desde 04/11/2016 |
+| Confirmación | 0.50% | $240.00 +Mensaje SWIFT: $22+Portes Internacional: $12 | Cobro por Trimestre o Fracción. Se cobra desde la fecha de confirmación hasta la fecha de vencimiento. Vigente desde 24/11/2015 |
+| COMISIONES | Porcentaje | ME | Observación y Vigencia |
+| AL MOMENTO DE EJECUCION |  |  |  |
+| Ejecución | 0.50% | $240.00 +Mensaje SWIFT: $22+Portes Internacional: $12 | Se cobra sobre el monto Ejecutado. Vigente desde 24/11/2015 |
+| Discrepancia | - | $80.00 +Mensaje SWIFT: $22+Portes Internacional: $12 | Se cobra por cada juego de documentos requeridos presentados con discrepancias. Vigente desde 24/11/2015 |
+| Por abonos del exterior | - | $55.00 +Portes Internacional: $12.00 | Se cobra a la recepción del pago del exterior. Vigente desde 24/11/2015 |
+| COMISIONES EVENTUALES |  |  |  |
+| Modificación | - | $180.00 +Mensaje SWIFT: $22.00 +Portes Internacional: $12.00 | En caso de Modificación de Cartas Confirmadas - Por incremento. Adicionalmente se cobra Comisión de Confirmación sobre el incremento. En caso de Modificación de Cartas Confirmadas - Por Prórroga. Adicionalmente se cobra Comisión de Confirmación (por trimestre o fracción) desde la fecha del último cobro hasta la nueva fecha de vencimiento. Vigente desde 04/11/2016 |
+| Descargo | - | $180.00 +Mensaje SWIFT: $22+Portes Internacional: $12 | Se cobra por el descargo al vencimiento de un Stand By recibido a favor de terceros que no haya sido ejecutado. Vigente desde 04/11/2016 |
+| Anulación - Exportaciones | - | $180.00 +Mensaje SWIFT: $22+Portes Internacional: $12 | Se cobra cuando el Corresponsal o Beneficiario, solicitan la anulación de un Stand By recibido a favor de terceros. Vigente desde 04/11/2016 |
+| COMISIONES | Porcentaje | ME | Observación y Vigencia |
+|---|---|---|---|
+| COMISIONES EVENTUALES |  |  |  |
+| Servicio de Envío de Documentos al Exterior | - | - EEUU: $35.00 - América Latina y Europa: $45.00 - Asia: $65.00 | Vigente desde 25/11/2011 |
+| Por copia autenticada | - | $70.00 | Se cobra por el servicio de dar autenticidad a las copias de las cartas de crédito y sus respectivas enmiendas a solicitud del cliente. Vigente desde 24/11/2015 |
+| Por revisión de textos fuera de estándar | - | $60.00 | Se cobra por el servicio de redactar y/o revisar términos y condiciones de uno o varios modelos de Stand By y adecuarlos a las necesidades del cliente de acuerdo a las normas internacionales. Vigente desde 24/11/2015 |
+| Por llamada telefónica Internacional | - | $30.00 | La comisión es cobrada por el servicio de realizar llamadas telefónicas internacionales autorizadas por el cliente. Vigente desde 24/11/2015 |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 3/4
+BANCO: BBVA_Continental
+PRODUCTO: CUENTAS-CORRIENTES-PJ_CUENTA-NEGOCIO_ANTES-CUENTA-EMPRESAS
+FILENAME: CUENTAS-CORRIENTES-PJ_CUENTA-NEGOCIO_ANTES-CUENTA-EMPRESAS.md
+FILEPATH: BBVA_Continental/CUENTAS-CORRIENTES-PJ_CUENTA-NEGOCIO_ANTES-CUENTA-EMPRESAS.md
+---CONTENT_START---
+| TASAS                                       | Porcentaje MN | Porcentaje ME | Observación y Vigencia                                                                                             |
+| :------------------------------------------ | :------------ | :------------ | :--------------------------------------------------------------------------------------------------------------- |
+| Cuenta Negocio (Antes Cuenta Empresas)      | 0,00%         | 0,00%         | Vigente desde 02/11/2011                                                                                           |
+| Sobregiro formalizado y No formalizado      | 83,40%        | 36,00%        | Para Persona Natural con Negocio y Persona Jurídica Vigente desde 10/05/2021                                     |
+| Tasa Efectiva Anual de interés moratorio    | 12,51%        | 9,90%         | Euros no aplica Vigente desde 01/11/2021 al 31/05/2022 Solo para pequeña empresa                                  |
+| Tasa Efectiva Anual de interés moratorio    | 12,51%        | 10,00%        | Euros no aplica Vigente desde 01/06/2022                                                                         |
+| COMISIONES                                  | MN            | ME            | Observación y Vigencia                                                                                           |
+| Operaciones en Cuenta - Conversión de moneda |               |               | Aplica para todas las tarjetas de débito. Por servicio de cambio de moneda por las transacciones (compra y disposición de efectivo), hechas en el extranjero en moneda diferente al dólar americano - Vigente desde 07/03/2012 |
+| Conversión de Moneda.                       | 3,00%         | -             | -                                                                                                                |
+| Operaciones en Cuenta - Operaciones en otra localidad |               |               |                                                                                                                  |
+| Retiro de dinero realizado en una localidad distinta donde se contrató la Cuenta | 0,50%         | Mínimo: S/7.50 Máximo:S/350.00 | Mínimo: $2.70 Máximo: $125.00 | - Por cajero automático. - Vigente desde 20/01/2015 - Desde el 19/03/2021 esta comisión no aplica para los segmentos Persona Natural con Negocio y Microempresa. |
+| Depósitos desde otra localidad: Por ventanilla y Agente express | 0,50%         | Mínimo: S/7.50 Máximo:S/350.00 | Mínimo: $2.70 Máximo: $125.00 | Aplicable al beneficiario del depósito: PERSONA NATURAL CON NEGOCIO Vigente desde 20/01/2015                     |
+| Depósitos desde otra localidad: Por ventanilla y Agente express | 0,50%         | Mínimo: S/ 6.50 Máximo: S/ 50.00 | Mínimo: $ 2.50 Máximo: $ 18.00 | Aplicable al beneficiario del depósito: PERSONA JURIDICA. Vigente desde 20/01/2015                                |
+| Uso de canales - Uso de canales complementarios |               | Agente Express | Se cobra a partir de la 1ra consulta Vigente desde 20/01/2015                                                     |
+| Por Consulta de Saldos y Movimientos        | -             | S/1.00        | No Aplica                                                                                                        |
+|                                             |               | Agente Express |                                                                                                                  |
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Depósitos en efectivo, Retiros de Dinero y Transferencia entre Cuentas | Persona Natural con Negocio | SIN COSTO - Hasta S/25,000: 10 operaciones - Mayor a S/25,000: 15 operaciones. Luego de realizadas las operaciones SIN COSTO Primeras 100: S/1.00 De 101 a 300: S/1.25 Mas de 300: S/1.50 | No aplica | Depende del saldo medio mensual de la cuenta - Vigente desde 02/11/2011 |
+|  | Persona Jurídica | SIN COSTO - Hasta S/25,000: 10 operaciones - Mayor a S/25,000: 15 operaciones. Luego de realizadas las operaciones SIN COSTO Primeras 500: S/2.00 - De 501 a más: S/3.00 | No aplica | Depende del saldo medio mensual de la cuenta - Vigente desde 10/08/2020 |
+| Uso de cajero automático (Otros Bancos) |  | Cajero automático |  |  |
+|  |  | SIN COSTO | SIN COSTO | Aplica para todas las tarjetas de débito Vigente desde 01/01/2013 |
+|  |  | S/. 20,00 | $7.20 | Aplica para todas las tarjetas de débito Vigente desde 20/01/2015 |
+| Uso de canales - Operación en ventanilla |  |  |  |  |
+| Por Consulta de Saldos y Movimientos |  | Ventanilla: S/3.00 | Ventanilla: $1.10 | Se cobra a partir de la 1ra consulta. Vigente desde 20/01/2015 |
+| Depósitos en efectivo, Retiros de Dinero y Transferencia entre Cuentas | Persona Natural con Negocio | SIN COSTO Hasta 5 operaciones. Luego de realizadas las operaciones SIN COSTO S/ 2.00 | SIN COSTO Hasta 5 operaciones. Luego de realizadas las operaciones SIN COSTO $0.80 | El retiro de dinero puede realizarse en efectivo o través de cheques. Vigente desde 14/06/2021 |
+|  | Persona Jurídica | SIN COSTO - Hasta S/25,000: 5 operaciones - Mayor a S/25,000: 10 operaciones. Luego de realizadas las operaciones SIN COSTO - Primeras 500: S/2.00 - De 501 a más: S/3.00 | SIN COSTO - Hasta $5,000: 5 operaciones - Mayor a $5,000: 10 operaciones. Luego de realizadas las operaciones SIN COSTO - Primeras 500: $0.80 - De 501 a más: $1.10 | Depende del saldo medio mensual de la cuenta. El retiro de dinero puede realizarse en efectivo o través de cheques. Vigente desde 14/06/2021 |
+| Uso de canales - Uso de módulo electrónico |  |  |  |  |
+| Consultas de Saldos y Movimientos: Banca por Internet, Banca por Teléfono y Saldo Express |  | - | SIN COSTO | SIN COSTO | Vigente desde 01/08/2012 |
+| | | | |
+|---|---|---|---|
+| Servicios Asociados a la Cuenta - Envío físico de estado de cuenta | | | |
+| Envío físico de estado de cuenta | - | 3,50 | $1.30 | Se envía de manera mensual a solicitud de Usted. Vigente desde 20/01/2015 |
+| Servicios Asociados a la Cuenta - Mantenimiento de cuenta | | | |
+| Mantenimiento de Cuenta Mensual | - | S/15.00 | $5.40 | Se cobra a Persona Natural con Negocio Vigente desde 20/01/2015 |
+|  | - | S/35.00 | $11.00 | Se cobra a Persona Jurídica Vigente desde 25/09/2017 |
+| Por Mantenimiento de cuenta deudora | - | S/42.00 | $18.00 | Se cobra a cuentas con saldo menores a cero. No se cobra a Personas Naturales y Microempresarios. Vigente desde 02/11/2011 |
+| Entrega de tarjeta de débito o dispositivo a solicitud - Reposición de tarjeta de débito o dispositivo | | | |
+| Reposición de tarjeta | - | S/20.00 | $7.20 | Aplica para todas las tarjetas de débito Vigente desde 20/01/2015 |
+| Otras comisiones | | | |
+| Envío electrónico de estado de cuenta | - | S/. 0,50 | $0.20 | No se cobra a Personas Naturales y Microempresas. Vigente desde 20/01/2015 |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 4/4
+BANCO: BBVA_Continental
+PRODUCTO: CUENTA-NEGOCIO-DIGITAL-PJ
+FILENAME: CUENTA-NEGOCIO-DIGITAL-PJ.md
+FILEPATH: BBVA_Continental/CUENTA-NEGOCIO-DIGITAL-PJ.md
+---CONTENT_START---
+| TASAS | Porcentaje MN | Porcentaje ME | Observación y Vigencia |
+| --- | --- | --- | --- |
+| Tasa de Interés Efectiva Anual (TEA) (año 360 días): TEA FIJA | 0,00% | 0,00% | Vigente desde 02/01/2025 |
+| Tasa de Rendimiento Efectivo Anual (TREA) (año 360 días):TREA FIJA | -18% | -6.48% | Vigente desde 02/01/2025 |
+| Saldo mínimo de equilibrio (30 días) |  |  | Vigente desde 02/01/2025 |
+| COMISIONES | Porcentaje | MN | ME | Observación y Vigencia |
+| Operaciones en Cuenta - Conversión de moneda |  |  |  |  |
+| Conversión de Moneda. | 3,00% | - | Aplica para todas las tarjetas de débito. Por servicio de cambio de moneda por las transacciones (compra y disposición de efectivo), hechas en el extranjero en moneda diferente al dólar americano. Vigente desde 02/01/2025 |
+| Operaciones en Cuenta - Operaciones en otra localidad |  |  |  |  |
+| Retiros de dinero realizados en una localidad distinta donde se contrató la cuenta (por Cajero Automático, Ventanilla y Agente Express) | 0,50% | Mínimo: S/ 7.50 Máximo: S/350.00 | Mínimo: S/ 2.70 Máximo: S/125.00 | - Por cajero automático, ventanilla y Agente Express - Vigente desde 02/01/2025 - Desde el 19/03/2021 esta comisión no aplica para los segmentos Persona Natural con Negocio y Microempresa |
+| Depósito desde otra localidad (Por Ventanilla y Agente Express) | 0,50% | Mínimo: S/ 6.50 Máximo: S/ 50.00 | Mínimo: S/ 2.50 Máximo: S/ 18.00 | Aplicable al beneficiario del depósito: PERSONA JURIDICA. Vigente desde 02/01/2025 |
+| Uso de canales - Uso de canales complementarios |  |  |  |  |
+| Por Consulta de Saldos y Movimientos |  | S/1.00 | No Aplica | Se cobra a partir de la 1ra consulta. Vigente desde 02/01/2025 |
+| Depósitos en efectivo, Retiros de Dinero y Transferencia entre Cuentas por Agente Express |  |  |  |  |
+| Deposito de dinero |  | 8 SIN COSTO | No Aplica | Vigente desde 02/01/2025 |
+| Retiro de dinero y transferencias entre cuentas |  | 5 SIN COSTO | No Aplica | Vigente desde 02/01/2025 |
+| Luego de realizadas las operaciones sin costos, los montos aplicables son: |  |  |  |  |
+| A partir del 9no depósito |  | S/8.00 | No Aplica | Vigente desde 02/01/2025 |
+| A partir del 6to retiro o transferencia |  | S/8.00 | No Aplica | Vigente desde 02/01/2025 |
+| Por uso de Cajero automático |  |  |  |  |
+| Por depósitos en cajero del Propio banco |  | SIN COSTO | US$ 2.50 | Vigente desde 02/01/2025 |
+| Por retiro y transferencias en cajero del Propio banco |  | S/ 8.00 A partir de la 13.ª operación | A partir de la 13.ª operación | Vigente desde 02/01/2025 |
+| Por otros bancos |  | S/ 25.00 | US$ 9.00 | Vigente desde 02/01/2025 |
+| Uso de cajero automático (Otros Bancos) |  | S/25.00 | $9.00 | Vigente desde 02/01/2025 |
+| Uso de canales - Operación en ventanilla |  |  |  |  |
+| Depósito de dinero |  | 4 SIN COSTO |  | Vigente desde 02/01/2025 |
+| Retiro de dinero y Transferencias entre cuentas |  | S/8.00 | $2.50 | Vigente desde 02/01/2025 |
+| Luego de realizadas las operaciones sin costos, los montos aplicables son: |  |  |  |  |
+| A partir del 5to depósito |  | S/8.00 | $2.50 | Vigente desde 02/01/2025 |
+| Por Ventanilla |  | S/3.00 | $1.10 | Vigente desde 02/01/2025 |
+| Por consulta de saldos y movimientos: |  |  |  |  |
+| | | | |
+|---|---|---|---|
+| Uso de canales - Uso de módulo electrónico | | | |
+| Consultas de Saldos y Movimientos: Banca por Internet, Banca por Teléfono y Saldo Express | - | SIN COSTO | Vigente desde 02/01/2025 |
+| Servicios Asociados a la Cuenta - Mantenimiento de cuenta | | | |
+| Mantenimiento de Cuenta mensual | - | S/ 15.00 | S/ 5.40 | Vigente desde 02/01/2025 |
+| Servicios Asociados a la Cuenta - Envío físico de estado de cuenta | | | |
+| Envío físico de estado de cuenta | - | S/ 3.50 | S/ 1.30 | Vigente desde 02/01/2025 |
+| Entrega de tarjeta de débito o dispositivo a solicitud - Reposición de tarjeta de débito o dispositivo | | | |
+| Reposición de tarjeta | - | S/ 20.00 | S/ 7.20 | Aplica para todas las tarjetas de débito Vigente desde 02/01/2025 |
+| Entrega de tarjeta de débito o dispositivo a solicitud - Mantenimiento de tarjeta de débito o dispositivo adicional y/u opcional | | | |
+| Mantenimiento de tarjeta de débito empresarial | - | S/ 10.00 | S/ 3.00 | En los casos en que Usted cuente con una tarjeta de débito empresarial, se aplicará esta comisión. Esta comisión se aplicará de manera mensual. No se cobra a Personas Naturales con Negocio y Microempresas. Vigente desde 10/08/2020 |
+| Otras comisiones | | | |
+| Envío electrónico de estado de cuenta | - | SIN COSTO | |
+---CONTENT_END---
+

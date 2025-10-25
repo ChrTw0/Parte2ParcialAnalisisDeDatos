@@ -1,0 +1,661 @@
+---DOCUMENT_START---
+FILE_NUMBER: 1/10
+BANCO: Scotiabank
+PRODUCTO: 46-Seguros_Optativos
+FILENAME: 46-Seguros_Optativos.md
+FILEPATH: Scotiabank/46-Seguros_Optativos.md
+---CONTENT_START---
+| Concepto | Tarifas | Forma de Aplicación | Observaciones |
+| --- | --- | --- | --- |
+| | M. N. (S/) | M. E. (US$) | |
+| Seguros para Personas | | | |
+| Seguro de Desgravamen/Vida | | | |
+| Préstamos Desembolsados desde el 08.09.2025 | | | |
+| Seguro de Desgravamen (Titular) | 0.1995% | | Prima Mensual | El monto total del seguro se obtendrá trayendo a valor presente la sumatoria de las primas mensuales (tasa mensual de actualización a valor presente: 0.2871%). El monto total del seguro será financiado como parte del crédito. |
+| Seguro de Desgravamen (Titular + Cónyuge) | 0.3990% | | Prima Mensual | El monto total del seguro se obtendrá trayendo a valor presente la sumatoria de las primas mensuales (tasa mensual de actualización a valor presente: 0.2871%). El monto total del seguro será financiado como parte del crédito. |
+| Seguro de Desgravamen con Devolución (Titular) | 0.2594% | | Prima Mensual | |
+| Seguro de Desgravamen con Devolución (Titular + Cónyuge) | 0.5188% | | Prima Mensual | |
+| Préstamos desembolsados desde el 10.08.2022 | | | |
+| Seguro de Vida (Titular) | 3.7000% | | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo y será financiada como parte del crédito. |
+| Seguro de Vida (Titular + Cónyuge) | 7.4000% | | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo y será financiada como parte del crédito. |
+| Préstamos desembolsados entre el 13.11.2021 y el 09.08.2022 | | | |
+| Seguro de Vida (Titular) | 3.3000% | | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo y será financiada como parte del crédito. |
+| Seguro de Vida (Titular + Cónyuge) | 6.6000% | | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo y será financiada como parte del crédito. |
+| Préstamos desembolsados entre el 26.12.2020 y el 12.11.2021 | | | |
+| Seguro de Vida (Titular) | 2.9800% | | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo y será financiada como parte del crédito. |
+| Seguro de Vida (Titular + Cónyuge) | 5.9600% | | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo y será financiada como parte del crédito. |
+| Concepto | M. N. (S/) | M. E. (US$) | Forma de Aplicación | Observaciones |
+|---|---|---|---|---|
+| Préstamos Personales - Descuento por Planilla |  |  |  |  |
+| Préstamos desembolsados desde el 08.09.2025 |  |  |  |  |
+| Seguro de Desgravamen (Titular) | 0.1832% |  | Prima mensual | El monto total del seguro se obtendrá trayendo a valor presente la sumatoria de las primas mensuales (tasa mensual de actualización a valor presente: 0.2871%). El monto total del seguro será financiado como parte del crédito. |
+| Seguro de Desgravamen (Titular + Cónyuge) | 0.3664% |  | Prima mensual | El monto total del seguro se obtendrá trayendo a valor presente la sumatoria de las primas mensuales (tasa mensual de actualización a valor presente: 0.2871%). El monto total del seguro será financiado como parte del crédito. |
+| Seguro de Desgravamen con Devolución (Titular) | 0.2342% |  | Prima mensual | El monto total del seguro se obtendrá trayendo a valor presente la sumatoria de las primas mensuales (tasa mensual de actualización a valor presente: 0.2871%). El monto total del seguro será financiado como parte del crédito. |
+| Seguro de Desgravamen con Devolución (Titular + Cónyuge) | 0.4684% |  | Prima mensual | El monto total del seguro se obtendrá trayendo a valor presente la sumatoria de las primas mensuales (tasa mensual de actualización a valor presente: 0.2871%). El monto total del seguro será financiado como parte del crédito. |
+| Préstamos desembolsados desde el 10.08.2022 |  |  |  |  |
+| Seguro de Vida (Titular) | 4.2000% |  | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo y será financiada como parte del crédito. |
+| Seguro de Vida (Titular + Cónyuge) | 8.4000% |  | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo y será financiada como parte del crédito. |
+| Préstamos desembolsados entre el 13.11.2021 y el 09.08.2022 |  |  |  |  |
+| Seguro de Vida (Titular) | 2.9800% |  | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo y será financiada como parte del crédito. |
+| Seguro de Vida (Titular + Cónyuge) | 5.9600% |  | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo y será financiada como parte del crédito. |
+| Préstamos de Libre Disponibilidad con Garantía Hipotecaria (5) |  |  |  |  |
+| Préstamos desembolsados desde el 08.09.2025 |  |  |  |  |
+| Seguro de Desgravamen (Titular) | 0.0285% - 0.0570% |  | Prima mensual | Las primas de seguro dependerán de la evaluación médica realizada al cliente por la compañía de seguros. |
+| Seguro de Desgravamen (Titular + Cónyuge) | 0.0546% - 0.1092% |  | Prima mensual | Las primas de seguro dependerán de la evaluación médica realizada al cliente por la compañía de seguros. |
+| Seguro de Desgravamen con Devolución (Titular) | 0.0485% - 0.0969% |  | Prima mensual | La prima del seguro dependerá de la evaluación médica realizada al cliente por la compañía de seguros. |
+| Seguro de Desgravamen con Devolución (Titular + Cónyuge) | 0.0928% - 0.1856% |  | Prima mensual | La prima del seguro dependerá de la evaluación médica realizada al cliente por la compañía de seguros. |
+| Concepto | M. N. (S/) | M. E. (US$) | Forma de Aplicación | Observaciones |
+|---|---|---|---|---|
+| Préstamos Vehiculares |  |  |  |  |
+| Préstamos desembolsados desde el 08.09.2025 |  |  |  |  |
+| Seguro de Desgravamen (Titular) | 0.1045% |  | Prima mensual | El monto total del seguro se obtendrá trayendo a valor presente la sumatoria de las primas mensuales (tasa mensual de actualización a valor presente: 0.2871%). El monto total del seguro será financiado como parte del crédito. |
+| Seguro de Desgravamen (Titular + Cónyuge) | 0.2090% |  | Prima mensual | El monto total del seguro se obtendrá trayendo a valor presente la sumatoria de las primas mensuales (tasa mensual de actualización a valor presente: 0.2871%). El monto total del seguro será financiado como parte del crédito. |
+| Seguro de Desgravamen con Devolución (Titular) | 0.1358% |  | Prima mensual | El monto total del seguro se obtendrá trayendo a valor presente la sumatoria de las primas mensuales (tasa mensual de actualización a valor presente: 0.2871%). El monto total del seguro será financiado como parte del crédito. |
+| Seguro de Desgravamen con Devolución (Titular + Cónyuge) | 0.2716% |  | Prima mensual | El monto total del seguro se obtendrá trayendo a valor presente la sumatoria de las primas mensuales (tasa mensual de actualización a valor presente: 0.2871%). El monto total del seguro será financiado como parte del crédito. |
+| Préstamos desembolsados desde el 17.08.2022 |  |  |  |  |
+| Seguro de Vida (Titular) | 3.1400% |  | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo y será financiada como parte del crédito. |
+| Seguro de Vida (Titular + Cónyuge) | 6.2800% |  | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo y será financiada como parte del crédito. |
+| Préstamos desembolsados entre el 26.12.2020 y el 16.08.2022 |  |  |  |  |
+| Seguro de Vida (Titular) | 2.8900% |  | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo y será financiada como parte del crédito. |
+| Seguro de Vida (Titular + Cónyuge) | 5.7800% |  | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo y será financiada como parte del crédito. |
+| Concepto | Tarifas M. N. (S/) | Tarifas M. E. (US$) | Forma de Aplicación | Observaciones |
+|---|---|---|---|---|
+| Préstamos PYME Persona Natural |  |  |  |  |
+| Seguro de Desgravamen (Titular) | 0.2000% |  | Prima mensual | El monto total del seguro se obtendrá trayendo a valor presente la sumatoria de las primas mensuales (tasa mensual de actualización a valor presente: 0.2871%). El monto total del seguro será financiado como parte del crédito. |
+| Seguro de Desgravamen (Titular + Cónyuge) | 0.4000% |  | Prima mensual | El monto total del seguro se obtendrá trayendo a valor presente la sumatoria de las primas mensuales (tasa mensual de actualización a valor presente: 0.2871%). El monto total del seguro será financiado como parte del crédito. |
+| Seguro de Desgravamen con Devolución (Titular) | 0.2600% |  | Prima mensual |  |
+| Seguro de Desgravamen con Devolución (Titular + Cónyuge) | 0.5200% |  | Prima mensual |  |
+| Préstamos Refinanciados (6) |  |  |  |  |
+| Seguro de Desgravamen (Titular) | 0.0780%-0.1560% |  | Prima mensual | La prima del seguro dependerá de la evaluación médica realizada al cliente por la compañía de seguros. |
+| Seguro de Desgravamen (Titular + Cónyuge) | 0.1560%-0.3120% |  | Prima mensual | La prima del seguro dependerá de la evaluación médica realizada al cliente por la compañía de seguros. |
+| Seguro de Desgravamen con Devolución (Titular) | 0.1490% - 0.2980% |  | Prima mensual | La prima del seguro dependerá de la evaluación médica realizada al cliente por la compañía de seguros. |
+| Seguro de Desgravamen con Devolución (Titular + Cónyuge) | 0.2980% - 0.5960% |  | Prima mensual | La prima del seguro dependerá de la evaluación médica realizada al cliente por la compañía de seguros. |
+| Préstamos PYME Persona Jurídica |  |  |  |  |
+| Seguro de Desgravamen (Titular) | 0.0909% - 0.1817% |  | Prima mensual | La prima del seguro dependerá de la evaluación médica realizada al cliente por la compañía de seguros. |
+| Seguro de Desgravamen (Titular + Cónyuge) | 0.1591% - 0.3181% |  | Prima mensual | La prima del seguro dependerá de la evaluación médica realizada al cliente por la compañía de seguros. |
+| Préstamos Empresariales Persona Natural (6) |  |  |  |  |
+| Seguro de Desgravamen (Titular) | 0.0780%-0.1560% |  | Prima mensual | La prima del seguro dependerá de la evaluación médica realizada al cliente por la compañía de seguros. |
+| Seguro de Desgravamen (Titular + Cónyuge) | 0.1560%-0.3120% |  | Prima mensual | La prima del seguro dependerá de la evaluación médica realizada al cliente por la compañía de seguros. |
+| Seguro de Desgravamen con Devolución (Titular) | 0.1490% - 0.2980% |  | Prima mensual | La prima del seguro dependerá de la evaluación médica realizada al cliente por la compañía de seguros. |
+| Seguro de Desgravamen con Devolución (Titular + Cónyuge) | 0.2980% - 0.5960% |  | Prima mensual | La prima del seguro dependerá de la evaluación médica realizada al cliente por la compañía de seguros. |
+| Concepto | Tarifas M. N. (S/) | Tarifas M. E. (US$) | Forma de Aplicación | Observaciones |
+| Seguro ScotiaVida |  |  |  |  |
+| Plan Clásico | S/ 19.90 |  | Prima Mensual | Seguro de CARDIF Vigente desde el 24.08.2020 |
+| Plan Premium | S/ 29.90 |  |  |  |
+| Seguro ScotiaVida Plus |  |  |  |  |
+| Plan 1 Suma Asegurada S/ 100,000 | De 18-30 años S/ 46.00 De 31-40 años S/ 57.00 De 41-50 años S/ 76.00 De 51-60 años S/ 186.00 De 61-74 años S/ 321.00 |  | Prima Mensual |  |
+| Plan 2 Suma Asegurada S/ 200,000 | De 18-30 años S/ 82.00 De 31-40 años S/ 103.00 De 41-50 años S/ 143.00 De 51-60 años S/ 360.00 De 61-74 años S/ 623.00 |  | Prima Mensual |  |
+| Plan 3 Suma Asegurada S/ 300,000 | De 18-30 años S/ 108.00 De 31-40 años S/ 138.00 De 41-50 años S/ 201.00 De 51-60 años S/ 524.00 De 61-74 años S/ 906.00 |  | Prima Mensual |  |
+| Plan 4 Suma Asegurada S/ 400,000 | De 18-30 años S/ 152.00 De 31-40 años S/ 195.00 De 41-50 años S/ 277.00 De 51-60 años S/ 713.00 De 61-74 años S/ 1,233.00 |  | Prima Mensual |  |
+| Concepto | M. N. (S/) | M. E. (US$) | Forma de Aplicación | Observaciones |
+| --- | --- | --- | --- | --- |
+| Plan 5 Suma Asegurada S/ 500,000 | De 18-30 años S/ 177.00 De 31-40 años S/ 231.00 De 41-50 años S/ 335.00 De 51-60 años S/ 837.00 De 61-74 años S/ 1,526.00 |  | Prima Mensual |  |
+| Plan 6 Suma Asegurada S/ 600,000 | De 18-30 años S/ 257.00 De 31-40 años S/ 337.00 De 41-50 años S/ 503.00 De 51-60 años S/ 1,243.00 De 61-74 años S/ 2,267.00 |  | Prima Mensual |  |
+| Plan 7 Suma Asegurada S/ 700,000 | De 18-30 años S/ 339.00 De 31-40 años S/ 449.00 De 41-50 años S/ 664.00 De 51-60 años S/ 1,658.00 De 61-74 años S/ 3,022.00 |  | Prima Mensual |  |
+| Plan 1 Suma Asegurada S/ 100,000 | De 18-30 años S/ 255.00 De 31-40 años S/ 313.00 De 41-50 años S/ 417.00 De 51-60 años S/ 1,020.00 De 61-74 años S/ 1,766.00 |  | Prima Semestral |  |
+| Plan 2 Suma Asegurada S/ 200,000 | De 18-30 años S/ 449.00 De 31-40 años S/ 564.00 De 41-50 años S/ 784.00 De 51-60 años S/ 1,979.00 De 61-74 años S/ 3,426.00 |  | Prima Semestral |  |
+| Plan 3 Suma Asegurada S/ 300,000 | De 18-30 años S/ 593.00 De 31-40 años S/ 762.00 De 41-50 años S/ 1,106.00 De 51-60 años S/ 2,880.00 De 61-74 años S/ 4,985.00 |  | Prima Semestral |  |
+| Plan 4 Suma Asegurada S/ 400,000 | De 18-30 años S/ 835.00 De 31-40 años S/ 1,072.00 De 41-50 años S/ 1,522.00 De 51-60 años S/ 3,919.00 De 61-74 años S/ 6,783.00 |  | Prima Semestral | Seguro de CARDIF Vigente desde el 24.08.2020 |
+| Plan 5 Suma Asegurada S/ 500,000 | De 18-30 años S/ 971.00 De 31-40 años S/ 1,273.00 De 41-50 años S/ 1,845.00 De 51-60 años S/ 4,605.00 De 61-74 años S/ 8,394.00 |  | Prima Semestral |  |
+| Plan 6 Suma Asegurada S/ 600,000 | De 18-30 años S/ 1,413.00 De 31-40 años S/ 1,852.00 De 41-50 años S/ 2,767.00 De 51-60 años S/ 6,839.00 De 61-74 años S/ 12,466.00 |  | Prima Semestral |  |
+| --- | --- | --- | --- | --- |
+| Plan 7 Suma Asegurada S/ 700,000 | De 18-30 años S/ 1,865.00 De 31-40 años S/ 2,469.00 De 41-50 años S/ 3,653.00 De 51-60 años S/ 9,118.00 De 61-74 años S/ 16,621.00 |  | Prima Semestral |  |
+| Plan 1 Suma Asegurada S/ 100,000 | De 18-30 años S/ 510.00 De 31-40 años S/ 627.00 De 41-50 años S/ 834.00 De 51-60 años S/ 2,041.00 De 61-74 años S/ 3,532.00 |  | Prima Anual | Seguro de CARDIF Vigente desde el 24.08.2020 |
+| Plan 2 Suma Asegurada S/ 200,000 | De 18-30 años S/ 898.00 De 31-40 años S/ 1,128.00 De 41-50 años S/ 1,569.00 De 51-60 años S/ 3,959.00 De 61-74 años S/ 6,852.00 |  | Prima Anual |  |
+| Plan 3 Suma Asegurada S/ 300,000 | De 18-30 años S/ 1,186.00 De 31-40 años S/ 1,523.00 De 41-50 años S/ 2,212.00 De 51-60 años S/ 5,760.00 De 61-74 años S/ 9,970.00 |  | Prima Anual |  |
+| Plan 4 Suma Asegurada S/ 400,000 | De 18-30 años S/ 1,671.00 De 31-40 años S/ 2,144.00 De 41-50 años S/ 3,043.00 De 51-60 años S/ 7,839.00 De 61-74 años S/ 13,567.00 |  | Prima Anual |  |
+| Plan 5 Suma Asegurada S/ 500,000 | De 18-30 años S/ 1,942.00 De 31-40 años S/ 2,546.00 De 41-50 años S/ 3,690.00 De 51-60 años S/ 9,211.00 De 61-74 años S/ 16,789.00 |  | Prima Anual | Seguro de CARDIF Vigente desde el 24.08.2020 |
+| Plan 6 Suma Asegurada S/ 600,000 | De 18-30 años S/ 2,826.00 De 31-40 años S/ 3,704.00 De 41-50 años S/ 5,535.00 De 51-60 años S/ 13,678.00 De 61-74 años S/ 24,932.00 |  | Prima Anual |  |
+| Plan 7 Suma Asegurada S/ 700,000 | De 18-30 años S/ 3,730.00 De 31-40 años S/ 4,939.00 De 41-50 años S/ 7,306.00 De 51-60 años S/ 18,237.00 De 61-74 años S/ 33,242.00 |  | Prima Anual |  |
+| Seguro de Vida (Plan Básico) (1) |  |  |  |  |
+| Titular Plan A | Equiv a US$ 3.95 | US$ 3.95 (S/ 15.80 ) | Mensual |  |
+| Titular y Cónyuge Plan A | Equiv a US$ 7.05 | US$ 7.05 (S/ 28.20 ) | Mensual | Seguro no vigente, solo aplica para clientes que contrataron el |
+| Titular Plan B | Equiv a US$ 2.25 | US$ 2.25 (S/ 9.00 ) | Mensual | Seguro no vigente, solo aplica para clientes que contrataron el seguro hasta el 14.01.2017 |
+| Titular y Cónyuge Plan B | Equiv a US$ 4.00 | US$ 4.00 (S/ 16.00 ) | Mensual |  |
+| Seguro Vida Esencial |  |  |  |  |
+| Titular Plan A | Equiv a US$ 5.00 | US$ 5.00 (S/ 20.00 ) | Mensual | Seguro no vigente, solo aplica para clientes que contrataron el seguro hasta el 31.03.2018 |
+| Titular y Cónyuge Plan A | Equiv a US$ 9.50 | US$ 9.50 (S/ 38.00 ) | Mensual |  |
+| Titular Plan B | Equiv a US$ 3.50 | US$ 3.50 (S/ 14.00 ) | Mensual |  |
+| Titular y Cónyuge Plan B | Equiv a US$ 6.50 | US$ 6.50 (S/ 26.00 ) | Mensual |  |
+| Seguro Vida con y sin Devolución |  |  |  |  |
+| Con Devolución Plan A | Equiv a US$ 34.00 | US$ 34.00 (S/ 136.00 ) | Mensual | Seguro de Sura |
+|  |  |  |  | Seguro no vigente, solo aplica para clientes que contrataron el seguro hasta el 09.11.2015 |
+| Sin Devolución Plan A | Equiv a US$ 17.00 | US$ 17.00 (S/ 68.00 ) | Mensual | Seguro no vigente, solo aplica para clientes que contrataron el seguro hasta el 07.12.2015 |
+| Con Devolución Plan B | Equiv a US$ 18.00 | US$ 18.00 (S/ 72.00 ) | Mensual | Seguro no vigente, solo aplica para clientes que contrataron el seguro hasta el 09.11.2015 |
+| Sin Devolución Plan B | Equiv a US$ 9.00 | US$ 9.00 (S/ 36.00 ) | Mensual | Seguro no vigente, solo aplica para clientes que contrataron el seguro hasta el 07.12.2015 |
+| Seguro Vida Sepelio |  |  |  | Seguro de Mapfre Perú |
+| Individual Vitalicio Hasta 55 años | Equiv a US$ 2.40 | US$ 2.40 (S/ 9.60 ) | Mensual | Seguro no vigente, solo aplica para clientes que contrataron el seguro hasta el 07.12.2015 |
+| Individual Vitalicio Desde 55 años | Equiv a US$ 2.90 | US$ 2.90 (S/ 11.60 ) | Mensual |  |
+| Familiar Vitalicio (Titular, Cónyuge e Hijos) | Equiv a US$ 7.60 | US$ 7.60 (S/ 30.40 ) | Mensual | Seguro no vigente, solo aplica para clientes que contrataron el seguro hasta el 07.12.2015 |
+| Seguro Oncológico |  |  |  | Seguro de Cardif |
+| Plan Clásico | S/ 19.90 |  | Mensual | Vigente desde el 06.12.2021 |
+| Plan Premium | S/ 29.90 |  | Mensual |  |
+| Seguro Oncológico Plus |  |  |  |  |
+| Plan Clásico | S/ 24.90 |  | Mensual | Seguro de Cardif |
+| Plan Premium | S/ 37.90 |  | Mensual | Vigente desde el 06.12.2021 |
+| Seguro Oncomax |  |  |  |  |
+| 0 - 25 años de edad | S/ 54.19 |  | Mensual | Seguro de La Positiva |
+| 26 - 50 años de edad | S/ 140.11 |  | Mensual | ofrecido a traves de la Red de |
+| 51 - 60 años de edad | S/ 203.91 |  | Mensual | Agencias y Telemarketing |
+| 61 años - a más | S/ 332.37 |  | Mensual |  |
+| Asistencia Total |  |  |  |  |
+|  | Servicio de Asistencia otorgado por GEA Internacional |  |  |  |
+| Asistencia Total Mensual | S/ 15.34 | US$ 5.90 (S/ 23.60 ) |  | Seguro no vigente, solo aplica |
+| Asistencia Total Semestral | S/ 82.84 | US$ 31.86 (S/ 127.44 ) |  | para clientes que contrataron el |
+| Asistencia Total Anual | S/ 158.18 | US$ 60.84 (S/ 243.36 ) |  | seguro hasta el 07.12.2015 |
+| Asistencia VIP (1) |  |  |  |  |
+|  | Servicio de Asistencia otorgado por GEA Internacional |  |  |  |
+| Asistencia VIP Mensual | Equiv a US$ 7.48 | US$ 7.48 (S/ 29.92 ) |  |  |
+| Asistencia VIP Semestral | Equiv a US$ 39.50 | US$ 39.50 (S/ 158.00 ) |  |  |
+| Asistencia VIP Anual | Equiv a US$ 68.03 | US$ 68.03 (S/ 272.12 ) |  |  |
+| Asistencia Platinum |  |  |  |  |
+|  | Servicio de Asistencia otorgado por GEA Internacional |  |  |  |
+| Asistencia Mensual | S/ 32.00 |  |  | Vigente desde el 23.08.2018 |
+| Asistencia Anual | S/ 288.00 |  |  |  |
+| --- | --- | --- | --- | --- |
+| Seguro Multiriesgo del Hogar (1) |  |  |  |  |
+|  | Equiv a US$ 9.50 | US$ 9.50 (S/ 38.00 ) | Mensual |  |
+| Plan A | Equiv a US$ 54.70 | US$ 54.70 (S/ 218.80 ) | Semestral |  |
+|  | Equiv a US$ 104.90 | US$ 104.90 (S/ 419.60 ) | Anual |  |
+| Plan B | Equiv a US$ 13.80 | US$ 13.80 (S/ 55.20 ) | Mensual |  |
+|  | Equiv a US$ 79.50 | US$ 79.50 (S/ 318.00 ) | Semestral |  |
+|  | Equiv a US$ 152.40 | US$ 152.40 (S/ 609.60 ) | Anual |  |
+| Seguro Multiriesgo del Hogar - Clientes con Cuenta Sueldo |  |  |  |  |
+|  | Seguro de Mapfre Perú contra robo de contenido del hogar |  |  |  |
+| Plan Mensual | S/ 27.20 | US$ 8.00 (S/ 32.00 ) |  |  |
+| Plan Semestral | S/ 142.80 | US$ 42.00 (S/ 168.00 ) |  |  |
+| Plan Anual | S/ 302.60 | US$ 89.00 (S/ 356.00 ) |  |  |
+| Seguro de Protección de Pagos para Préstamos Personales de Libre Disponibilidad | 4.00% | 4.00% | Al inicio, sobre todo el período del crédito | Porcentaje aplicado sobre el capital inicial. Seguro de CARDIF. Solo para préstamos solicitados desde el 25.04.2017 |
+| Seguro Total Max |  |  |  | Seguro de Cardif |
+| Plan Básico | S/ 24.90 |  |  | Vigente desde el 06.12.2021 |
+| Plan Premium | S/ 37.90 |  |  |  |
+| Seguro Scotia Salud |  |  |  | Seguro de Cardif |
+| De 18 a 45 años | Plan 1: S/ 25.90 |  |  |  |
+|  | Plan 2: S/ 32.60 |  |  |  |
+|  | Plan 3: S/ 69.20 |  |  |  |
+|  | Plan 4: S/ 82.50 |  |  |  |
+|  | Plan 5: S/ 36.60 |  |  |  |
+|  | Plan 6: S/ 54.00 |  |  |  |
+|  | Plan 7: S/ 108.50 |  |  |  |
+|  | Plan 8: S/ 142.20 |  |  |  |
+|  | Plan 9: S/ 64.70 |  |  |  |
+|  | Plan 10: S/ 91.10 |  |  |  |
+|  | Plan 11: S/ 173.00 |  |  |  |
+|  | Plan 12: S/ 216.30 |  |  |  |
+| De 46 a 69 años | Plan 1: S/ 35.30 |  |  | Vigente desde el 06.12.2021 |
+|  | Plan 2: S/ 44.50 |  |  |  |
+|  | Plan 3: S/ 81.30 |  |  |  |
+|  | Plan 4: S/ 112.50 |  |  |  |
+|  | Plan 5: S/ 49.90 |  |  |  |
+|  | Plan 6: S/ 73.60 |  |  |  |
+|  | Plan 7: S/ 147.90 |  |  |  |
+|  | Plan 8: S/ 193.80 |  |  |  |
+|  | Plan 9: S/ 88.20 |  |  |  |
+|  | Plan 10: S/ 124.30 |  |  |  |
+|  | Plan 11: S/ 235.90 |  |  |  |
+|  | Plan 12: S/ 294.90 |  |  |  |
+| De 70 a más años | Plan 1: S/ 152.70 |  |  |  |
+|  | Plan 2: S/ 192.50 |  |  |  |
+|  | Plan 3: S/ 408.00 |  |  |  |
+|  | Plan 4: S/ 486.60 |  |  |  |
+|  | Plan 5: S/ 215.70 |  |  |  |
+|  | Plan 6: S/ 318.60 |  |  |  |
+|  | Plan 7: S/ 640.00 |  |  |  |
+|  | Plan 8: S/ 838.60 |  |  |  |
+|  | Plan 9: S/ 381.70 |  |  |  |
+|  | Plan 10: S/ 537.70 |  |  |  |
+|  | Plan 11: S/ 1,020.70 |  |  |  |
+|  | Plan 12: S/ 1,276.00 |  |  |  |
+| Seguro Multiseguro Salud |  |  |  |  |
+| Prima Mensual |  | US$ 6.00 (S/ 24.00) |  |  |
+| Prima Semestral |  | US$ 36.00 (S/ 144.00) |  |  |
+| Prima Anual |  | US$ 72.00 (S/ 288.00) |  |  |
+| Seguro de Protección de Tarjetas (1) |  |  |  |  |
+| Plan todas las Tarjetas |  |  |  |  |
+| Plan Mensual | Equiv a US$ 2.78 | US$ 2.78 (S/ 11.12 ) |  |  |
+| Plan Semestral | Equiv a US$ 15.83 | US$ 15.83 (S/ 63.32 ) |  |  |
+| Plan Anual | Equiv a US$ 29.99 | US$ 29.99 (S/ 119.96 ) |  |  |
+| Plan Tarjeta de Crédito Scotiabank |  |  |  |  |
+| Plan Mensual | Equiv a US$ 1.69 | US$ 1.69 (S/ 6.76 ) |  | Seguro no vigente, solo aplica para clientes que contrataron el seguro hasta el 31.12.2016 |
+| Plan Semestral | Equiv a US$ 9.61 | US$ 9.61 (S/ 38.44 ) |  |  |
+| Plan Anual | Equiv a US$ 18.21 | US$ 18.21 (S/ 72.84 ) |  |  |
+| Plan Tarjeta de Débito Scotiabank |  |  |  |  |
+| Plan Mensual | Equiv a US$ 1.25 | US$ 1.25 (S/ 5.00 ) |  | Seguro no vigente, solo aplica para clientes que contrataron el seguro hasta el 31.12.2016 |
+| Plan Semestral | Equiv a US$ 5.64 | US$ 5.64 (S/ 22.56 ) |  |  |
+| Plan Anual | Equiv a US$ 10.69 | US$ 10.69 (S/ 42.76 ) |  |  |
+| SOAT ELECTRÓNICO (Uso particular) |  |  |  | Seguro de Mapfre Perú |
+| Automóviles (Categoría M1) | S/ 65 | Equiv a S/ 65.00 | Anual | Excepto Chevrolet: Aveo, Sail, Spark; Daewoo: Tico, Matiz; Kia: Rio, Picanto; Suzuki Alto Marutiy Hyundai: Accent, EON, I10. |
+| Automóviles (Categoría M1) | S/ 265 | Equiv a S/ 265.00 | Anual | Incluye Chevrolet: Aveo, Sail, Spark; Daewoo: Tico, Matiz; Kia: Rio, Picanto; Suzuki Alto Marutiy Hyundai: Accent, EON, I10. |
+| Camioneta SW (Categoría M1) | S/ 65 | Equiv a S/ 65.00 | Anual | Excepto Toyota: Caldina, Corolla, Sprinter, Probox, Succeed; Nissan: AD, AD Van, AD Wagon. |
+| Camioneta SW (Categoría M1) | S/ 218 | Equiv a S/ 218.00 |  | Incluye Toyota: Caldina, Corolla, Sprinter, Probox, Succeed; Nissan: AD, AD Van, AD Wagon. |
+| Camioneta Rural hasta 9 asientos (Categoría M1) | S/ 65 | Equiv a S/ 65.00 | Anual | Excepto Toyota: Hiace, Lite Ace, Town Ace y Hyundai: H1 en todas sus versiones y Starex; Nissan: Vanette, Urvan; JAC: Refine; Chevrolet: N300; Renault: Master, Suzuki: APV, Changhe y Changan en todas sus versiones y Volkswagen: Transporter, Crafter. |
+| Camioneta Rural mayor a 9 asientos (Categoría M2) | S/ 737 | Equiv a S/ 737.00 | Anual | Incluye Toyota: Hiace, Lite Ace, Town Ace y Hyundai: H1 en todas sus versiones y Starex; Nissan: Vanette, Urvan; JAC: Refine; Chevrolet: N300; Renault: Master, Suzuki: APV, Changhe y Changan en todas sus versiones y Volkswagen: Transporter, Crafter. |
+| Camioneta Pick Up (Categoría N1) | S/ 170 | Equiv a S/ 170.00 | Anual | Excepto Hyundai: Porter, H-100, HD65, HD72; Mitsubishi: Canter; Toyota: Dina; Nissan: Atlas; Kia: K2400, K2500, K2700, K3000; Isuzu: Reward 300; Foton: Ollin BJ1039, Ollin BJ1043; Forland: BJ1020; JMC: City; Jinbei: SY1033DFH4 y Yuejin: NJ1020DF. |
+| SOAT ELECTRÓNICO (Uso carga) |  |  |  | Seguro de Mapfre Perú |
+| Camión Persona Natural con DNI o RUC 10 (Categoría N2 o N3) | S/ 189 | Equiv a S/ 189.00 | Anual | Volquete, furgón, cisterna, frigorífico, plataforma, baranda |
+| Camión Persona Jurídica RUC 20 (Categoría N2 o N3) | S/ 189 | Equiv a S/ 189.00 | Anual | Volquete, furgón, cisterna, frigorífico, plataforma, baranda |
+| Remolcador Persona Natural /Jurídica (Categoría N2 o N3) | S/ 189 | Equiv a S/ 189.00 | Anual | Incluye Hyundai: Porter, H-100, HD65, HD72; Mitsubishi: Canter; Toyota: Dina; Nissan: Atlas; Kia: K2400, K2500, K2700, K3000; Isuzu: Reward 300; Fotón: Ollin BJ1039, Ollin BJ1043; Forland: BJ1020; JMC: City; Jinbei: SY1033DFH4 y Yuejin: NJ1020DF. |
+| Camioneta Pick Up (Categoría N1) | S/ 170 | Equiv a S/ 170.00 | Anual |  |
+| Camioneta Panel (Categoría M1 o N1) | S/ 161 | Equiv a S/ 161.00 | Anual |  |
+| Trimoto de carga / Furgoneta | S/ 227 | Equiv a S/ 227.00 | Anual |  |
+| SOAT Clientes con Cuenta Sueldo | S/ 79.00 | Equiv a S/ 79.00 | Anual |  |
+| SOAT Realizando el pago con Tarjeta de Crédito | S/ 79.00 | Equiv a S/ 79.00 | Anual |  |
+| SOAT Realizando el pago con TC Pick Up | S/ 200.00 | Equiv a S/ 200.00 | Anual |  |
+| SOAT para Créditos Vehiculares | S/ 1.00 | Equiv a S/ 1.00 | Anual | Sólo aplica para el primer año |
+| SOAT PICK UP Clientes con Cuenta Sueldo | S/ 200.00 | Equiv a S/ 200.00 | Anual |  |
+| SOAT PICK UP para Créditos Vehiculares | S/ 20.00 | Equiv a S/ 20.00 | Anual |  |
+| Seguro Contra Accidentes |  |  |  | Seguro de Cardif |
+| Plan Clásico | S/ 19.90 |  | Mensual | Vigente desde el 06.12.2021 |
+| Plan Premium | S/ 29.90 |  | Mensual |  |
+| Seguro Accidentes Personales (1) | Equiv a US$ 7.90 | US$ 7.90 (S/ 31.60 ) | Mensual | Ofrecido por Telemarketing |
+| Seguro Tarjeta Protegida |  |  |  |  |
+| Plan Estándar | S/ 19.90 | Equiv a S/ 19.90 | Mensual | Seguro no vigente, solo aplica para clientes que contrataron el seguro hasta el 30.06.2024 |
+| Plan Premium | S/ 29.90 | Equiv a S/ 29.90 | Mensual |  |
+| Tarjeta Segura Scotiabank |  |  |  | Vigente desde el 01.07.2024 |
+| Plan Esencial | S/ 12.90 | Equiv a S/ 12.90 | Mensual |  |
+| Plan Estándar | S/ 141.90 | Equiv a S/ 141.90 | Anual |  |
+| Plan Estándar | S/ 19.90 | Equiv a S/ 19.90 | Mensual |  |
+| Plan Premium | S/ 218.90 | Equiv a S/ 218.90 | Anual |  |
+| Plan Premium | S/ 24.90 | Equiv a S/ 24.90 | Mensual |  |
+| Seguro Cuota Protegida Dependientes |  |  |  | Vigente desde el 14.02.2020 |
+| Plan Estándar | S/ 19.90 | Equiv a S/ 19.90 | Mensual |  |
+| Plan Premium | S/ 29.90 | Equiv a S/ 29.90 | Mensual |  |
+| Seguro Cuota Protegida Independientes |  |  |  | Vigente desde el 14.02.2020 |
+| Plan Estándar | S/ 19.90 | Equiv a S/ 19.90 | Mensual |  |
+| Plan Premium | S/ 29.90 | Equiv a S/ 29.90 | Mensual |  |
+| Seguro Full Protección Dependientes |  |  |  | Vigente desde el 14.03.2020 |
+| Plan Estándar | S/ 24.90 | Equiv a S/ 24.90 | Mensual |  |
+| Plan Premium | S/ 37.90 | Equiv a S/ 37.90 | Mensual |  |
+| Seguro Full Protección Independientes |  |  |  | Vigente desde el 14.03.2020 |
+| Plan Estándar | S/ 24.90 | Equiv a S/ 24.90 | Mensual |  |
+| Plan Premium | S/ 37.90 | Equiv a S/ 37.90 | Mensual |  |
+| Seguros para Empresas |  |  |  |  |
+| Seguro de Vida (Que reemplaza a los Seguros considerados como una condición para contratar) |  |  |  |  |
+| Préstamos PYME Persona Natural |  |  |  |  |
+| Préstamos desembolsados desde el 23.11.2020 hasta el 08.12.2023 |  |  |  |  |
+| Seguro de Vida (Titular) | 2.5000% |  | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo y será financiada como parte del crédito. |
+| Seguro de Vida (Titular + Cónyuge) | 5.0000% |  | Prima única |  |
+| Préstamos PYME Persona Natural |  |  |  |  |
+| Préstamos desembolsados desde el 09.12.2023 |  |  |  |  |
+| Seguro de Vida (Titular) (Plazo de 1 a 12 meses) | 0.2195% |  | Prima única | La prima se calcula multiplicando la tasa por el monto del préstamo, por el plazo del préstamo en meses (incluye el periodo de gracia) y será financiada como parte del crédito. |
+| Seguro de Vida (Titular) (Plazo de 13 a 36 meses) | 0.1400% |  |  |  |
+| Seguro de Vida (Titular) (Plazo de 37 a 60 meses) | 0.0975% |  |  |  |
+| Seguro de Vida (Titular) (Plazo de 61 a 84 meses) | 0.0575% |  |  |  |
+| Seguro de Vida (Titular) (Plazo de 85 a 108 meses) | 0.0450% |  |  |  |
+| Seguro de Vida (Titular) (Plazo de 109 a 133 meses) | 0.0350% |  |  |  |
+| Seguro de Vida (Titular + Cónyuge) (Plazo de 1 a 12 meses) | 0.4390% |  |  |  |
+| Seguro de Vida (Titular + Cónyuge) (Plazo de 13 a 36 meses) | 0.2800% |  |  |  |
+| Seguro de Vida (Titular + Cónyuge) (Plazo de 37 a 60 meses) | 0.1950% |  |  |  |
+| Seguro de Vida (Titular + Cónyuge) (Plazo de 61 a 84 meses) | 0.1150% |  |  |  |
+| Seguro de Vida (Titular + Cónyuge) (Plazo de 85 a 108 meses) | 0.0900% |  |  |  |
+| Seguro de Vida (Titular + Cónyuge) (Plazo de 109 a 133 meses) | 0.0700% |  |  |  |
+| Seguro Multiriesgo Pequeña Empresa |  |  |  |  |
+| Plan Incendio | Tarifa de acuerdo a suma asegurada | Mensual o Anual |  |  |
+| Plan Incendio + Terremoto | Tarifa de acuerdo a suma asegurada | Mensual o Anual |  |  |
+| Plan Incendio + Empleados | Tarifa de acuerdo a suma asegurada | Mensual o Anual |  |  |
+| Plan Incendio + Terremoto + Empleados | Tarifa de acuerdo a suma asegurada | Tarifa de acuerdo a suma asegurada | Mensual o Anual | No vigente. Solo aplica para clientes que contrataron el seguro hasta el 30.09.2017 |
+| Negocio Seguro Plus |  |  |  |  |
+| 12 meses | 1.38% | 1.38% |  | Tarifas vigentes a partir del 06.06.2018 |
+| 18 meses | 1.83% | 1.83% |  |  |
+| 24 meses | 2.28% | 2.28% |  |  |
+| 36 meses | 3.15% | 3.15% |  |  |
+| 12 meses | 1.55% | 1.55% |  |  |
+| 18 meses | 2.33% | 2.33% |  |  |
+| 24 meses | 3.10% | 3.10% |  |  |
+| 36 meses | 4.65% | 4.65% |  |  |
+| Sala de Urgencias Plus TLMK |  |  |  |  |
+| Prima Mensual | S/ 30.00 |  |  |  |
+| Seguro Protección Total |  |  |  |  |
+| 12 meses | 1.98% | 1.98% |  |  |
+| 18 meses | 2.97% | 2.97% |  |  |
+| 24 meses | 3.96% | 3.96% |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 2/10
+BANCO: Scotiabank
+PRODUCTO: 032
+FILENAME: 032.md
+FILEPATH: Scotiabank/032.md
+---CONTENT_START---
+| Concepto | M. N. (S/.) | M. E. (US$) | Forma de Aplicación | Observaciones |
+|---|---|---|---|---|
+| Tasa de Interés Compensatoria Efectiva Anual (*) |  |  |  |  |
+| Depósito a Plazo en Soles o Dólares |  |  |  |  |
+| 30 días | 0.20% | 0.20% |  |  |
+| 60 días | 0.20% | 0.20% |  |  |
+| 90 días | 0.25% | 0.25% |  | Por cancelación anticipada se pagará la menor tasa de interés de las cuentas de ahorros según tarifario vigente- TREA 0% |
+| 180 días | 0.50% | 0.70% |  |  |
+| 360 días | 0.50% | 0.50% |  |  |
+| 720 días | 0.50% | 0.35% |  |  |
+| 1080 días | 0.50% | 0.25% |  |  |
+| Depósito a Plazo en Euros |  |  |  |  |
+| 30 días |  | 0.050% |  |  |
+| 60 días |  | 0.050% |  |  |
+| 90 días |  | 0.200% |  | Por cancelación anticipada se pagará la menor tasa de interés de las cuentas de ahorros según tarifario vigente- TREA 0% |
+| 180 días |  | 0.150% |  |  |
+| 360 días |  | 0.050% |  |  |
+| 720 días |  | 0.010% |  |  |
+| 1080 días |  | 0.010% |  |  |
+| Depósito a Plazo Digital (Antes Plazo Online) |  |  |  |  |
+| 30 días | 0.20% | 0.20% |  |  |
+| 60 días | 0.20% | 0.20% |  | Por cancelación anticipada se pagará la menor tasa de interés de las cuentas de ahorros según tarifario vigente- TREA 0%) |
+| 90 días | 0.25% | 0.25% |  |  |
+| 180 días | 0.50% | 0.70% |  |  |
+| 360 días | 0.50% | 0.50% |  |  |
+| 720 días | 0.50% | 0.35% |  |  |
+| 1080 días | 0.50% | 0.25% |  |  |
+| Comisiones |  |  |  |  |
+| Servicios Transversales |  | Ver Tarifa N°110 Servicios Transversales |  |  |
+| Parámetros del Producto |  |  |  |  |
+| Depósito a Plazo en Soles o Dólares | S/ 1,000.00 | US$ 500.00 |  |  |
+| Depósitos a Plazo en Euros |  | € 390.00 |  |  |
+| Depósito a Plazo Digital (Antes Plazo Online) | S/ 1,000.00 | US$ 500.00 |  |  |
+| | |
+|---|---|
+| **Restricciones:** Sólo se puede realizar operaciones en efectivo (retiros y abonos) en la moneda Euros en las siguientes agencias en Lima: Callao, Centro Histórico, Chacarilla 1, Conquistadores, C.C. Jockey Plaza 1, Larco 1, Miguel Dasso y San Isidro, y en provincias: Cusco, Mercaderes y Trujillo. Para Banca Privada: Miguel Dasso, Camellas y Panorama. | |
+| (*) Las tasas de interés son fijas durante su período de vigencia y están expresadas en términos anuales (TEA: Tasa Efectiva Anual) sobre una base de cálculo de 360 días, pudiendo variar de acuerdo a las condiciones del mercado. | |
+| Tipo de Cambio Referencial: Dólar: S/ 4.00 y Euro: S/ 4.50. Se deberá tener en cuenta el tipo de cambio vigente del día que se efectué la operación. | |
+| La empresa tiene la obligación de difundir información de conformidad con la Ley N° 28587, sus modificatorias y el Reglamento correspondiente. | |
+| Los servicios y operaciones comprendidos en el Tarifario están afectos al ITF, cuya tasa se encuentra establecida en "Tarifas Generales" (Cuadro N° 91) y en www.scotiabank.com.pe | |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 3/10
+BANCO: Scotiabank
+PRODUCTO: 15_Tarjeta_Credito_Platinum_Visa_y_MC
+FILENAME: 15_Tarjeta_Credito_Platinum_Visa_y_MC.md
+FILEPATH: Scotiabank/15_Tarjeta_Credito_Platinum_Visa_y_MC.md
+---CONTENT_START---
+| Concepto | M.N. (S/) | M.E. (US$) |
+|---|---|---|
+| Tasas (*) |  |  |
+| Tasa Compensatoria Efectiva Anual (TEA.) - Compras Rotativo y Cuotas (2 hasta 36 meses). | 19.99% - 112.99% | 19.99% - 94.99% |
+| Tasa Efectiva Anual (TEA) - Disposición de Efectivo y Consumos en Casinos (Rotativo y Cuotas). | 112.99% | 94.99% |
+| Tasa Efectiva Anual (TEA) - Traslado de Deuda de otros Bancos (Rotativo y Cuotas) (1) | 9.90% - 59.99% | 9.90% - 59.99% |
+| Tasa Efectiva Anual (TEA) - InstaCash (Rotativo y Cuotas) (2) | 12.55% - 62.99% |  |
+| Tasa de Interés Moratorio Nominal Anual (3) | 11.78% | 9.45% |
+| Comisiones |  |  |
+| Categoría: Membresía |  |  |
+| Denominación: Membresía anual |  |  |
+| Membresía anual | No aplica | US$ 110.00 (S/ 440.00 ) |
+| Categoría: Servicios asociados a la tarjeta de crédito |  |  |
+| Denominación: Envío físico de Estado de Cuenta (4) | S/ 20.00 | No aplica |
+| Denominación: Conversión de Moneda |  |  |
+| Servicio de Conversión de Moneda (5) | 3.00% | 3.00% |
+| Categoría: Uso de canales |  |  |
+| Denominación: Uso de canales complementarios |  |  |
+| Uso de Cajero Automático Local (6) | 4.5% Mín S/ 15.00 Máx S/ 50.00 | 4.5% Mín US$ 6.00 (S/ 24.00) Máx US$ 20.00 (S/ 80.00) |
+| Uso de Cajero Automático Internacional | 4.5% Mín S/ 20.00 Máx S/ 50.00 | 4.5% Mín US$ 8.00 (S/ 32.00) Máx US$ 20.00 (S/ 80.00) |
+| Denominación: Operación en ventanilla |  |  |
+| Por operación en ventanilla (6) | 4.5% Mín S/ 20.00 Máx S/ 50.00 | 4.5% Mín US$ 8.00 (S/ 32.00) Máx US$ 20.00 (S/ 80.00) |
+| Categoría: Entrega de tarjetas adicionales a solicitud |  |  |
+| Denominación: Reposición de tarjeta de crédito |  |  |
+| Reposición de Tarjeta de Crédito Plástica del Titular o Adicional (7) | S/ 20.00 | No aplica |
+| Concepto | M.N. (S/) | M.E. (US$) |
+|---|---|---|
+| Servicios Transversales | Ver Tarifa N°110 Servicios Transversales |  |
+| Gastos |  |  |
+| Seguro de Desgravamen (8) | No aplica | 0.35% Tope máximo mensual: US$ 5.41 (S/ 21.64) |
+| Notas: |  |  |
+| (1) Sujeto a evaluación crediticia. |  |  |
+| (2) Financiamiento adicional sujeto a evaluación crediticia. InstaCash antes llamado Xtralinea. A partir del 01 de Enero del 2021 no se realizan nuevas ventas de InstaCash. |  |  |
+| (3) En caso no se cubra el pago mínimo exigible hasta la fecha de vencimiento del estado de cuenta, se devengarán intereses moratorios a la tasa indicada. Conforme a lo estipulado en la Circular N° 0008-2021-BCRP, esta tasa está sujeta a una actualización semestral establecida por el Banco Central de Reserva del Perú, la cual será publicada en nuestra página web y tarifarios. Tasa expresada en términos anuales, se aplicara en función a los días en mora. |  |  |
+| Concepto | M.N. (S/) | M.E. (US$) |
+|---|---|---|
+| (4) Aplica solo al titular y si el cliente escogió el envío físico siempre que la Tarjeta de Crédito y/o la cuenta InstaCash mantengan deuda en el mes. EL CLIENTE podrá solicitar el no envío del estado de cuenta por medio físico, con la correspondiente exoneración de la comisión respectiva. La solicitud debe realizarse a través de los canales definidos y comunicados oportunamente por EL BANCO. |  |  |
+| (5) En el caso de transacciones que requieran conversión de moneda se procederá de acuerdo al criterio y práctica bancaria usual, al tipo de cambio vigente en EL BANCO y/o tenga establecido el operador de la Tarjeta de Crédito a la fecha de proceso o actualización de la transacción u operación monetaria. La comisión de conversión de moneda aplica sobre las transacciones (compras y disposición de efectivo) efectuadas en el extranjero en moneda diferente a dólares americanos. |  |  |
+| (6) Los canales libres de costo para disposiciones de efectivo son los cajeros automáticos de la Red Unicard, la página web y la APP Scotiabank. Para mayor información sobre nuestros canales libres de costo puede ingresar a nuestra página web www.scotiabank.com.pe y en el menú Tarjetas, sección Productos Exclusivos, podrá encontrar la opción Disposición de Efectivo. |  |  |
+| (7) La comisión por Reposición de Tarjeta de Crédito aplicará en caso de robo, sustracción, pérdida o deterioro. |  |  |
+| (8) El cobro de la prima mensual del seguro de desgravamen se realiza en dólares americanos, considerando la deuda en soles y dólares. Para conocer la fórmula de cálculo aplicada, ingresa a nuestra página web, dirígete a la sección Tarjetas de Crédito, selecciona tu tarjeta y accede a la opción Documentos, donde encontrarás el archivo titulado Fórmulas. |  |  |
+| (*) Las tasas de interés son fijas durante su período de vigencia y están expresadas en términos anuales (TEA: Tasa Efectiva Anual) sobre una base de cálculo de 360 días, pudiendo variar de acuerdo a las condiciones del mercado. |  |  |
+| Tipo de cambio referencial: Dólar: S/ 4.00 y Euro: S/ 3.50. Se deberá tener en cuenta el tipo de cambio vigente del día que se efectué la operación. |  |  |
+| Los servicios y operaciones comprendidos en el Tarifario están afectos al ITF, cuya tasa se encuentra establecida en "Tarifas Generales" (Cuadro N° 91) y en www.scotiabank.com.pe |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 4/10
+BANCO: Scotiabank
+PRODUCTO: 133SuperCuentadeScotiabank
+FILENAME: 133SuperCuentadeScotiabank.md
+FILEPATH: Scotiabank/133SuperCuentadeScotiabank.md
+---CONTENT_START---
+| Concepto | M.N. (S/) | M.E. (US$) | Forma de aplicación | Observaciones |
+| --- | --- | --- | --- | --- |
+| Tasa Efectiva Anual (TEA) (1) |  |  |  |  |
+| Hasta S/ 4,999.99 | 0.25% |  |  |  |
+| De S/ 5,000.00 a más | 0.50% |  |  |  |
+| Hasta US$ 2,999.99 |  | 0.10% |  |  |
+| De US$ 3,000.00 a más |  | 0.15% |  |  |
+| Número de operaciones de costo al mes |  |  |  |  |
+| Retiro y/o transferencia por ventanilla (Red de agencias) | 1 | 1 |  |  |
+| Depósitos y/o transferencias por red de cajeros automáticos Scotiabank | Todas | Todas |  |  |
+| Retiros por red de cajeros automáticos Scotiabank | 4 | 4 |  | Vigente desde el 04.12.2019 |
+| Comisiones |  |  |  |  |
+| Categoría: Operaciones en cuenta |  |  |  |  |
+| Denominación: Operaciones en otra localidad |  |  |  |  |
+| Depósito interplaza (2) | Sin costo | Sin costo | Por operación | Aplica solo para operaciones mismo banco realizadas en Agentes Scotiabank, Ventanilla y Cajeros Express. Vigente desde el 30.06.2023 |
+| Categoría: Uso de canales |  |  |  |  |
+| Denominación: Uso de canales complementarios |  |  |  |  |
+| Exceso de retiros en cajeros automáticos | S/ 2.00 | Equiv a S/ 2.00 | Por operación | Solo aplicable a retiros Vigente desde el 04.12.2019 |
+| Retiro y/o transferencia en agentes Scotiabank | S/ 2.00 | Equiv a S/ 2.00 | Por operación |  |
+| Consulta de saldos y movimientos en agentes Scotiabank | S/ 2.00 | Equiv a S/ 2.00 | Por operación |  |
+| Denominación: Operación en ventanilla |  |  |  |  |
+| Retiro y/o transferencia en agencias Scotiabank | S/ 10.00 | Equiv a S/ 10.00 | Por operación | Cobro a partir de la segunda operación. |
+| Consulta de saldos y movimientos en agencias Scotiabank | S/ 10.00 | Equiv a S/ 10.00 | Por operación |  |
+| Categoría: Servicios asociados a la cuenta |  |  |  |  |
+| Denominación: Mantenimiento de cuenta (4) |  |  |  |  |
+| Mantenimiento de cuenta | S/ 8.00 |  |  |  |
+| Hasta S/ 1,499.99 | Sin costo |  |  | Equiv a S/ 8.00 |
+| De S/ 1,500 a más |  |  |  |  |
+| Hasta US$ 499.99 |  | Equiv a S/ 8.00 |  |  |
+| De US$ 500.00 a más |  | Sin costo |  |  |
+| Denominación: Envío físico de estado de cuenta |  |  |  |  |
+| Concepto | M.N. (S/) | M.E. (US$) | Forma de aplicación | Observaciones |
+|---|---|---|---|---|
+| Emisión de estado de cuenta (5) | S/ 12.00 | Equiv a S/ 12.00 | A solicitud del cliente |  |
+| Concepto | M.N. (S/) | M.E. (US$) | Forma de aplicación | Observaciones |
+| --- | --- | --- | --- | --- |
+| Duplicado de Tarjeta de Débito Clásica - MasterCard | S/ 20.00 | Equiv a S/ 20.00 |  | Vigente hasta el 30.11.2024 |
+| Duplicado de Tarjeta de Débito Gold / Premium con chip - MasterCard | S/ 25.00 | Equiv a S/ 25.00 |  | Vigente desde el 1.12.2024 |
+| Duplicado de Tarjeta de Débito - Visa | S/ 20.00 | Equiv a S/ 20.00 |  | Vigente hasta el 30.11.2024 |
+| Denominación: Tarjeta de débito adicional y/u opcional |  |  |  |  |
+| Emisión de Tarjeta de Débito Clásica nominada - MasterCard | S/ 25.00 | Equiv a S/ 25.00 |  | Vigente desde el 1.12.2024 |
+| Emisión de Tarjeta de Débito Gold / Premium nominada - MasterCard | S/ 20.00 | Equiv a S/ 20.00 |  | Vigente hasta el 30.11.2024 |
+| Emisión de Tarjeta de Débito nominada - Visa | S/ 25.00 | Equiv a S/ 25.00 |  | Vigente desde el 1.12.2024 |
+| Emisión de Tarjeta de Débito con diseño (7) | S/ 20.00 | Equiv a S/ 20.00 |  | Vigente hasta el 30.11.2024 |
+| Servicios transversales | Ver tarifario N°110 Servicios transversales |  |  |  |
+| Parámetros del producto |  |  |  |  |
+| Monto mínimo de apertura | S/ 1,500.00 | US$ 500.00 | Depósito inicial |  |
+| --- | --- | --- | --- | --- |
+| Notas: |  |  |  | (1) El interés diario se calcula dependiendo del saldo al fin de cada día, se toma en cuenta el interés generado al día anterior, es decir se capitalizan. El pago del interés total mensual se realizará el último día del mes. |
+|  |  |  |  | (2) El término Interplaza se refieren a transacciones realizadas en una ciudad distinta a la provincia donde se abrió la cuenta. Aplica para operaciones realizadas en Ventanilla, Cajeros Express y Agentes Scotiabank. Los retiros Interplaza no tienen costo. |
+|  |  |  |  | (3) Aplica para retiros de dinero, transferencias, compra-venta de monedas, etc. en ventanillas y unidades de Back Office del Banco. |
+|  |  |  |  | (4) Para las cuentas nuevas se calculará el saldo promedio desde el día de la apertura de la cuenta. |
+|  |  |  |  | (5) El cliente podrá generar un Estado de Cuenta por medios virtuales sin costo, ingresando a Scotia en Línea con su Tarjeta de Débito. |
+|  |  |  |  | (6) Antes de usar la Tarjeta de Débito debe firmarla. Para mayor seguridad cambie la clave cada tres meses en los cajeros automáticos Scotiabank. |
+|  |  |  |  | (7) Tarjeta licenciada o con branding. El costo se carga a la cuenta de ahorros del titular de la cuenta. |
+|  |  |  |  | Las operaciones de consulta de saldos y movimientos realizadas por los siguientes canales son libres de costo: Banca Telefónica, Terminal de Pagos y Consultas, Cajeros Automáticos Scotiabank, Scotia en Línea y App Scotiabank. Lugares de Pago y Consultas, Cajeros Automáticos Scotiabank, Cajeros Express y Agentes Scotiabank. Siempre con Tarjeta de Débito y DNI para el caso de Red de Agencias. |
+|  |  |  |  | Para el caso de Depósitos Identificados, se deberá consultar el Tarifario N°10 de Recaudación. |
+|  |  |  |  | (*) Las tasas de interés son fijas durante su período de vigencia y están expresadas en términos anuales (TEA: Tasa Efectiva Anual) sobre una base de cálculo de 360 días, pudiendo variar de acuerdo a las condiciones del mercado. |
+|  |  |  |  | Tipo de cambio referencial: Dólar: S/ 4.00 y Euro: S/ 4.50. Se deberá tener en cuenta el tipo de cambio vigente del día que se efectué la operación. |
+|  |  |  |  | Los servicios y operaciones comprendidos en el Tarifario están afectos al ITF, cuya tasa se encuentra establecida en "Tarifas Generales" (Tarifario N° 91) y en www.scotiabank.com.pe. |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 5/10
+BANCO: Scotiabank
+PRODUCTO: 080
+FILENAME: 080.md
+FILEPATH: Scotiabank/080.md
+---CONTENT_START---
+| Concepto | M. N. (S/) | M. E. (US$) | Forma de Aplicación | Observaciones |
+| --- | --- | --- | --- | --- |
+| 1. Al momento de la llegada |  |  |  |  |
+| 1.1 Por gestión de cobranza (1) |  |  | Por operación |  |
+| Hasta US$ 100,000.00 |  | 0.50% Mín US$ 80.00 (S/ 264.00) |  |  |
+| Más de US$ 100,000.00 |  | 0.50% Mín US$ 150.00 (S/ 495.00) | Por operación |  |
+| 2. Comisiones de aplicación eventual |  |  |  |  |
+| 2.1 Por aceptación / pago diferido (1) |  | US$ 82.00 (S/ 270.60 ) | Flat | Adicionalmente, aplica si la comisión es a plazo |
+| 2.2 Por mantenimiento / seguimiento (1) |  | US$ 50.00 (S/ 165.00 ) |  | Trimestral |
+| 2.3 Por amortización |  | 0.40% Mín US$ 70.00 (S/ 231.00) | Flat | Aplica al valor del documento |
+| 2.4 Por modificación (1) |  | US$ 70.00 (S/ 231.00 ) |  |  |
+| 2.5 Por endoso de documentos (2) |  | US$ 35.00 (S/ 115.50 ) | Por trámite | En caso corresponda sea por cuenta del girador. |
+| 2.6 Por aval (1) |  | 3.00% Mín US$ 180.00 (S/ 594.00) | Por año | Tasa a negociar con el cliente |
+| 2.7 Por devolución / descargo de cobranzas impagas (1)(3) |  | US$ 80.00 (S/ 264.00 ) |  | Aplica al valor de cobranza o cuota |
+| 2.8 Por cancelación / Por pago / Reembolso (1)(3) |  | US$ 70.00 (S/ 231.00 ) | Flat | Se cobra al Girador (salvo instrucción en contrario): US$ 70.00 (S/ 231.00) |
+| 2.9 Por cobranzas transferidas (2) |  | US$ 30.00 (S/ 99.00 ) |  |  |
+| 2.10 Por gestión ante el BCRP (2) |  | US$ 30.00 (S/ 99.00 ) | Por trámite, al reembolso o pago | Trámite documentario ante BCRP |
+| 2.11 Por gastos de traducción (2) |  | US$ 25.00 (S/ 82.50 ) | Por trámite | Revisión y endoso de póliza de seguro de transporte |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 6/10
+BANCO: Scotiabank
+PRODUCTO: 024
+FILENAME: 024.md
+FILEPATH: Scotiabank/024.md
+---CONTENT_START---
+| CONCEPTO | M.N. S/ | M.E. US$ | FORMA DE APLICACIÓN | OBSERVACIONES |
+|---|---|---|---|---|
+| TASAS (*) |  |  |  |  |
+| Tasa de interés efectiva anual | No aplica | 12.90% |  |  |
+| Tasa de interés moratoria nominal Anual | No aplica | 9.45% | Al momento de atraso en el pago de las cuotas | Se aplica sobre el importe del capital vencido. |
+| COMISIONES |  |  |  |  |
+| Portes | No aplica | US$ 4.00 (S/ 13.20) | Dentro de Cuota Mensual |  |
+| Por Evaluación y Gestión de Créditos | No aplica | 0.50% | Posterior a la aprobación del Crédito | Sobre el monto del desembolso |
+| Por Seguimiento, Formalización y Control de Garantía | No aplica | US$ 15.00 (S/ 49.50) | Posterior a la aprobación del Crédito | Por revisión e ingreso de la garantía al sistema y modificación. |
+| Por Elaboración de Contratos de Levantamiento | No aplica | US$100.00 (S/ 330.00) | Antes de la cancelación total del préstamo | Por minuta de levantamiento de hipoteca y prenda. |
+| GASTOS |  |  |  |  |
+| Por Estudio de Títulos y Redacción de Contratos | No aplica | US$35.00 (S/ 115.50) | Posterior a la aprobación del Crédito | Por servicios brindados del Estudio de abogados Externos |
+| Gastos Notariales - Lima | S/ 531.00 | No aplica |  |  |
+| Gastos Notariales por Plaza | S/ 200.00 | No aplica |  |  |
+| Arequipa | S/ 200.00 | No aplica |  |  |
+| Chiclayo | S/ 236.00 | No aplica |  |  |
+| Chimbote | S/ 177.00 | No aplica |  |  |
+| Chincha | S/ 200.00 | No aplica |  |  |
+| Cuzco | S/ 200.00 | No aplica |  |  |
+| Huancayo | S/ 110.00 | No aplica | Antes del desembolso | Incluye la elaboración de la escritura pública, copias certificadas, trámite de inscripción del bloqueo registral e hipoteca y Compra-Venta de ser el caso. Los gastos Notariales pueden variar según la plaza. |
+| Huaraz | S/ 150.00 | No aplica | Se cancela en Notaria. |  |
+| Ica | S/ 150.00 | No aplica |  |  |
+| Ilo | S/ 70.00 | No aplica |  |  |
+| Iquitos | S/ 200.00 | No aplica |  |  |
+| Juliaca | S/ 200.00 | No aplica |  |  |
+| Piura | S/ 200.00 | No aplica |  |  |
+| Puno | S/ 80.00 | No aplica |  |  |
+| Tacna | S/ 100.00 | No aplica |  |  |
+| Trujillo | S/ 140.00 | No aplica |  |  |
+| CONCEPTO | TARIFAS | FORMA DE APLICACIÓN | OBSERVACIONES |
+|---|---|---|---|
+| | M.N. S/ | M.E. US$ | | |
+| Gastos Registrales (1) |  |  | Según arancel de registros públicos | Antes del desembolso. Se 
+cancela en Notaría. | Arancel que cobra registros públicos por inscripción de Bloqueo Registral, Compra-Venta e inscripción de hipoteca a favor del Banco. |
+| Desglose de Gastos Registrales | | | | |
+| Bloqueo | S/ 33 por cada inmueble | | | |
+| Gravamen | S/ 33 por cada inmueble | | | |
+| Registro | Precio Venta x Tipo de cambio x (3/1000)+S/ 33 por cada ficha | | | |
+| Constitución | Importe del Gravamen x Tipo de cambio x (1.5/1000) + S/ 33 por cada ficha | | | |
+| Levantamiento | Importe del Gravamen x Tipo de cambio x (1.5/1000) + S/ 33 por cada ficha | | | |
+| (1) Los Gastos Registrales pueden variar según Tarifa de SUNARP. | | | | |
+| Nota: | | | | |
+| Todos nuestros préstamos cuentan con un seguro de desgravamen y un seguro de todo riesgo, cuyo detalle puede ser consultado en el Tarifario de "Seguros Obligatorios" (Tarifario N° 89 del Tarifario de Agencias y en Otras Tarifas en Medios Virtuales). | | | | |
+| - Estas operaciones son aprobadas con garantía y requieren contar con una tasación. Los gastos y comisiones relacionadas pueden ser consultadas en el Tarifario de "Prendas y Valuaciones" (Tarifario N° 87 del Tarifario de Agencias y en Otras Tarifas en Medios Virtuales). | | | | |
+| (*) Las tasas de interés son fijas durante su período de vigencia y están expresadas en términos anuales (TEA: Tasa Efectiva Anual) sobre una base de cálculo de 360 días, pudiendo variar de acuerdo a las condiciones del mercado. | | | | |
+| Tipo de Cambio Referencial: Dólar: S/ 4.00 y Euro: S/ 4.50. Se deberá tener en cuenta el tipo de cambio vigente del día que se efectué la operación. | | | | |
+| Los servicios y operaciones comprendidos en el Tarifario están afectos al ITF, cuya tasa se encuentra establecida en "Tarifas Generales" (Cuadro N° 91) y en www.scotiabank.com.pe | | | | |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 7/10
+BANCO: Scotiabank
+PRODUCTO: 091
+FILENAME: 091.md
+FILEPATH: Scotiabank/091.md
+---CONTENT_START---
+| Concepto | M. N. (S/) | M. E. (US$) | Forma de Aplicación | Observaciones |
+|---|---|---|---|---|
+| Comisiones |  |  |  |  |
+| Confirmación de Operaciones | Equiv a US$ 3.00 | US$ 3.00 (S/ 9.90 ) | A solicitud del cliente |  |
+| Por Atención en Horario Extendido | S/ 4.00 | US$ 1.17 (S/ 3.86 ) | Por operación | Aplica a pago de cheques en efectivo a no clientes, pago de tarjetas de crédito emitidas por otra entidad (Ripley, Diners, Citibank, etc) a no clientes del banco |
+| Casilla de Correspondencia | Equiv a US$ 20.00 | US$ 20.00 (S/ 66.00 ) | A solicitud del cliente | El cobro es por semestre adelantado |
+| Servicio de traslado de dinero / valores: recojo / envío |  | US$ 5.00 (S/ 16.50 ) |  | Adicional a la factura de la empresa transportadora. |
+| Servicio de traslado de valores de Instituciones Financieras | 0.50% Min S/ 15.00 Max S/ 800.00 | 0.50% Min US$ 5.30 (S/ 17.49) Max US$ 280.70 (S/ 926.31) |  | Aplica solo para algunas Financieras, Cajas Municipales de Ahorro y Crédito, y Cajas Rurales de Ahorro y Crédito |
+| Servicio de recuento de monedas (Aplica a Persona Jurídica. No aplica a Persona Natural, Microempresas, ni PYME) |  |  |  |  |
+|  | Primeros S/ 1,000.00 |  | No aplica |  |
+|  | Por encima de S/ 1,000.00 - Clientes con convenio | Porcentaje sobre el importe |  |
+|  |  | 2.00% | Por recuento |  |
+|  | Por encima de S/ 1,000.00 - Clientes sin convenio | Porcentaje sobre el importe |  |
+|  |  | 6.00% | Por recuento |  |
+| Impuesto a las Transacciones Financieras - ITF - Aplica de acuerdo a Ley N°28194 |  |  |  |  |
+|  |  | 0.005% | Por operación |  |
+| Notas: |  |  |  |  |
+| Pago Virtual de Documento, no tienen costo. |  |  |  |  |
+| Tipo de Cambio Referencial: Dólar: S/ 3.30 y Euro: S/ 3.50. Se deberá tener en cuenta el tipo de cambio vigente del día que se efectué la operación. Los servicios y operaciones comprendidos en el Tarifario están afectos al ITF, cuya tasa se encuentra establecida en "Tarifas Generales" (Cuadro N° 91) y en www.scotiabank.com.pe |  |  |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 8/10
+BANCO: Scotiabank
+PRODUCTO: 044
+FILENAME: 044.md
+FILEPATH: Scotiabank/044.md
+---CONTENT_START---
+
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 9/10
+BANCO: Scotiabank
+PRODUCTO: 049
+FILENAME: 049.md
+FILEPATH: Scotiabank/049.md
+---CONTENT_START---
+| Concepto | M. N. (S/) | M. E. (US$) | Forma de Aplicación | Observaciones |
+| --- | --- | --- | --- | --- |
+| Tasas (*) |  |  |  |  |
+| Tasa Efectiva Anual (T.E.A.) Capital de Trabajo Empresarial - Préstamo en Cuotas | 25.00% | 20.00% | En cada operación | A cargo del Deudor |
+| Interés Compensatorio por cuota vencida | TEA x 1.50 Mín: 22.00% Máx: 47.00% | TEA x 1.50 Mín: 20.00% Máx: 35.00% | Desde el vencimiento hasta su cancelación | A cargo del deudor (Todos los Segmentos) |
+| Interés Moratorio | 15.25% | 12.00% | En la cancelación. | A cargo del Deudor |
+| Comisiones |  |  |  |  |
+| Portes |  |  |  |  |
+| Personas y Negocios | S/10.00 | US$ 2.94 (S/ 9.70 ) | Por cada envio de información | A cargo del Deudor |
+| Empresas | S/10.00 | US$ 3.50 (S/ 11.55 ) |  |  |
+| Gastos Administrativos y Teleprocesos |  |  |  |  |
+|  | 0.75% Min S/ 50.00 Max S/ 250.00 | 0.75% Min US$ 17.50 (S/ 57.75) Máx US$ 90.00 (S/ 297.00) | Al desembolso | A cargo del Deudor, aplicable al monto del Pagaré. |
+| Renovación |  |  |  |  |
+| Personas y Negocios | S/ 45.00 | US$ 11.76 (S/ 38.81 ) | En la renovación | A cargo del Deudor. |
+| Empresas | S/ 45.00 | US$ 16.00 (S/ 52.80 ) |  |  |
+| Por transferencia de crédito a vencido |  |  |  |  |
+| Personas y Negocios | 0.50% Min S/ 100.00 Max S/ 4695.00 | 0.50% US$ 29.41 (S/ 97.05) US$ 1380.00 (S/ 4554) | Desde el 15° día de vencido. | A cargo del Deudor. |
+| Empresas | 0.50% Min S/ 100.00 Max S/ 4695.00 | 0.50% US$ 35.00 (S/ 115.50) US$ 1675.00 (S/ 5527.50) |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 10/10
+BANCO: Scotiabank
+PRODUCTO: 105
+FILENAME: 105.md
+FILEPATH: Scotiabank/105.md
+---CONTENT_START---
+| Concepto | Pre Paid Compras | Pre Paid Jockey Pass (**) |
+|---|---|---|
+| Comisiones |  |  |
+| Comisión de afiliación o emisión de Tarjeta Pre-Paid (1) | S/. 10.00 | S/. 10.00 |
+| Comisión por Re- Carga - Compras (por uso de canal)(2) | S/. 3.50 | S/. 3.50 |
+| Comisión por Re- Carga - Jockey Pass (por uso de canal) (3) | NA | S/. 2.00 |
+| Comisión por Re- Carga "Combo" (Parking y Compras) (4) | NA | S/. 4.50 |
+| Comisión por Servicio de Tarjeta (5) | S/. 2.50 | S/. 2.50 |
+| Comisión por disposición de efectivo (por uso de canal) | S/. 3.00 | S/. 3.00 |
+| Comisión por reposición de tarjeta (robo o pérdida o renovación) (6) | S/. 5.00 | S/. 5.00 |
+| Gastos |  |  |
+| Servicio de conversión de moneda (2) |  | 1.00% |
+| Notas: |  |  |
+| ** Tarjeta Pre-Paid Jockey Pass cuenta con dispositivo Jockey Pass el cual es responsabilidad del Centro Comercial Jockey Plaza y tiene las siguientes características: |  |  |
+| I) El dispositivo Jockey Pass sólo se puede usar en las lectoras de Central Parking ubicadas en el CC Jockey Plaza |  |  |
+| II) El saldo de "Parking" tendrá una vigencia de 6 meses contados desde la última carga o recarga efectuada |  |  |
+| III) La determinación de los costos del parking y sus condiciones es responsabilidad de Central Parking |  |  |
+| IV) Sólo se podrá ingresar un máximo de 5 veces al día al estacionamiento del Centro Comercial Jockey Plaza. |  |  |
+| V) Sólo se podrá ingresar un máximo de 5 veces al día al estacionamiento del Centro Comercial Jockey Plaza. |  |  |
+| VI) No aplica comisión por compras |  |  |
+---CONTENT_END---
+

@@ -1,0 +1,642 @@
+---DOCUMENT_START---
+FILE_NUMBER: 1/10
+BANCO: BCP
+PRODUCTO: Tarjeta_de_Crédito_American_ExpressAdobe_PDF
+FILENAME: Tarjeta_de_Crédito_American_ExpressAdobe_PDF.md
+FILEPATH: BCP/Tarjeta_de_Crédito_American_ExpressAdobe_PDF.md
+---CONTENT_START---
+| CATEGORÍA | TEA | OBSERVACIONES |
+|---|---|---|
+| 1. TARJETA DE CRÉDITO AMERICAN EXPRESS |  | 1. Para los consumos realizados en casinos se aplicará la tasa de Disposición de Efectivo 2. La Tasa para compra de deuda dependerá de la evaluación crediticia. |
+| 1.1. American Express Clásica LATAM Pass - Tasas para Compras | 83.4% - 95.9% |  |
+| - Tasas para Disposición de Efectivo | 107.0% | Vigencia desde 01 de marzo 2023 |
+| - Tasa de interés moratorio nominal anual | 12.51% | La tasa de interés moratorio ascenderá a 12.51% en soles y a 10.26% en dólares. En caso dicha tasa de interés moratorio supere la tasa máxima de interés legal admitida, se aplicará la tasa máxima establecida por el BCR. |
+| 1.2. American Express Oro LATAM Pass - Tasas para Compras | 65.0% - 95.90% |  |
+| - Tasas para Disposición de Efectivo | 107.0% | Vigencia desde 01 de marzo 2023 |
+| - Tasa de interés moratorio nominal anual | 12.51% | La tasa de interés moratorio ascenderá a 12.51% en soles y a 10.26% en dólares. En caso dicha tasa de interés moratorio supere la tasa máxima de interés legal admitida, se aplicará la tasa máxima establecida por el BCR. |
+| 1.3. American Express Platinum LATAM Pass - Tasas para Compras | 57.0% - 95.9% |  |
+| - Tasas para Disposición de Efectivo | 107.0% | Vigencia desde 01 de marzo 2023 |
+| - Tasa de interés moratorio nominal anual | 12.51% | La tasa de interés moratorio ascenderá a 12.51% en soles y a 10.26% en dólares. En caso dicha tasa de interés moratorio supere la tasa máxima de interés legal admitida, se aplicará la tasa máxima establecida por el BCR. |
+| 1.4. American Express Black LATAM Pass - Tasas para Compras | 49.0% - 95.9% |  |
+| - Tasas para Disposición de Efectivo | 95.9% | Vigencia desde 01 de marzo 2023 |
+|  |  | TEA expresada en 360 días |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 2/10
+BANCO: BCP
+PRODUCTO: SegurosAdobe_PDF
+FILENAME: SegurosAdobe_PDF.md
+FILEPATH: BCP/SegurosAdobe_PDF.md
+---CONTENT_START---
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 Transit |  |  |  |  |  |  |
+| 1.1 Plan 1 Individual | S/ 19.9 |  |  | Mensual | 20/06/2011 |  |
+| 1.2 Plan 1 Familiar | S/ 26.5 |  |  | Mensual |  | No Vigente |
+| 1.3 Plan 2 Individual (No Vigente) | $ 3.96 [S/ 15.64] |  |  |  |  | No Vigente |
+| 1.4 Plan 2 Familiar (No Vigente) | $ 5.73 [S/ 22.63] |  |  |  |  | No Vigente |
+| 1.5 Plan 3 Individual (No Vigente) | $ 5.95 [S/ 23.50] |  |  |  |  | No Vigente |
+| 1.6 Plan 3 Familiar (No Vigente) | $ 8.21 [S/ 32.43] |  |  |  |  | No Vigente |
+| 1.7 Plan 4 Individual (No Vigente) | $ 9.91 [S/ 39.14] |  |  |  |  | No Vigente |
+| 1.8 Plan 4 Familiar (No Vigente) | $ 12.18 [S/ 48.11] |  |  |  |  | No Vigente |
+| 2 Renta Segura |  |  |  |  |  |  |
+| 2.1 Plan 1 Individual | S/ 19.9 |  |  | Mensual |  |  |
+| 2.2 Plan 1 Familiar | S/ 26.5 |  |  | Mensual |  | No Vigente |
+| 2.3 Plan 2 Individual (No Vigente) | $ 3.96 [S/ 15.64] |  |  |  |  | No Vigente |
+| 2.4 Plan 2 Familiar (No Vigente) | $ 5.95 [S/ 23.50] |  |  |  |  | No Vigente |
+| 2.5 Plan 3 Individual (No Vigente) | $ 5.85 [S/ 23.11] |  |  |  |  | No Vigente |
+| 2.6 Plan 3 Familiar (No Vigente) | $ 7.34 [S/ 28.99] |  |  |  |  | No Vigente |
+| 2.7 Plan 4 Individual (No Vigente) | $ 6.44 [S/ 25.44] |  |  |  |  | No Vigente |
+| 2.8 Plan 4 Familia (No Vigente) | $ 8.72 [S/ 34.44] |  |  |  |  | No Vigente |
+| 2.9 Plan 5 Individual (No Vigente) | $ 7.74 [S/ 30.57] |  |  |  |  | No Vigente |
+| 2.10 Plan 5 Familiar (No Vigente) | $ 9.72 [S/ 38.39] |  |  |  |  | No Vigente |
+| 2.11 Plan 6 Individual (No Vigente) | $ 10.11 [S/ 39.93] |  |  |  |  | No Vigente |
+| 2.12 Plan 6 Familiar (No Vigente) | $ 13.49 [S/ 53.29] |  |  |  |  | No Vigente |
+| 3 Vida Tranquila |  |  |  |  |  |  |
+| 3.1 Plan 1 Individual | S/ 25.5 |  |  | Mensual |  |  |
+| 3.2 Plan 2 Individual (No Vigente) | S/ 13 |  |  |  |  | No Vigente |
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 3.3 Plan 3 Individual (No Vigente) | S/ 21 |  |  |  |  | No Vigente |
+| 3.4 Plan 4 Individual (No Vigente) | S/ 33 |  |  |  |  | No Vigente |
+| 3.5 Plan 5 Individual (No Vigente) | S/ 42 |  |  |  |  | No Vigente |
+| 4 Seguro Oncológico Premium (No Vigente) |  |  |  |  |  |  |
+| 4.1 Hombre |  |  |  |  |  |  |
+| 4.1.1 De 0 a 25 años | S/ 14 |  |  | Mensual | 20/06/2011 |  |
+| 4.1.2 De 26 a 30 años | S/ 31 |  |  | Mensual | 20/06/2011 |  |
+| 4.1.3 De 31 a 35 años | S/ 34 |  |  | Mensual | 20/06/2011 |  |
+| 4.1.4 De 36 a 40 años | S/ 37 |  |  | Mensual | 20/06/2011 |  |
+| 4.1.5 De 41 a 45 años | S/ 41 |  |  | Mensual | 20/06/2011 |  |
+| 4.1.6 De 46 a 50 años | S/ 46 |  |  | Mensual | 20/06/2011 |  |
+| 4.1.7 De 51 a 55 años | S/ 65 |  |  | Mensual | 20/06/2011 |  |
+| 4.1.8 De 56 a 60 años | S/ 71 |  |  | Mensual | 20/06/2011 |  |
+| 4.1.9 De 61 a 65 años (solo por renovación) | S/ 86 |  |  | Mensual | 20/06/2011 |  |
+| 4.1.10 De 66 a 70 años (solo por renovación) | S/ 95 |  |  | Mensual | 20/06/2011 |  |
+| 4.1.11 Más de 70 años (solo por renovación) | S/ 119 |  |  | Mensual | 20/06/2011 |  |
+| 4.2 Mujer |  |  |  |  |  |  |
+| 4.2.1 De 0 a 25 años | S/ 14 |  |  | Mensual | 20/06/2011 |  |
+| 4.2.2 De 26 a 30 años | S/ 34 |  |  | Mensual | 20/06/2011 |  |
+| 4.2.3 De 31 a 35 años | S/ 37 |  |  | Mensual | 20/06/2011 |  |
+| 4.2.4 De 36 a 40 años | S/ 41 |  |  | Mensual | 20/06/2011 |  |
+| 4.2.5 De 41 a 45 años | S/ 44 |  |  | Mensual | 20/06/2011 |  |
+| 4.2.6 De 46 a 50 años | S/ 51 |  |  | Mensual | 20/06/2011 |  |
+| 4.2.7 De 51 a 55 años | S/ 69 |  |  | Mensual | 20/06/2011 |  |
+| 4.2.8 De 56 a 60 años | S/ 76 |  |  | Mensual | 20/06/2011 |  |
+| 4.2.9 De 61 a 65 años (solo por renovación) | S/ 83 |  |  | Mensual | 20/06/2011 |  |
+| 4.2.10 De 66 a 70 años (solo por renovación) | S/ 92 |  |  | Mensual | 20/06/2011 |  |
+| 4.2.11 Más de 70 años (solo por renovación) | S/ 100 |  |  | Mensual | 20/06/2011 |  |
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 5 Seguro de Accidentes Retorno |  |  |  |  |  | -Tratandose de cuentas en moneda nacional, la prima mensual se cobrara en Soles y variara segun el tipo de cambio venta establecido por el BCP en la fecha de cargo. - Las primas incluyen el 18% de IGV. - La poliza debera encontrarse vigente al momento de la devolucion de las primas. - Las primas se le devuelven al contratante netas de IGV y sin deducciones adicionales de gastos administrativos. |
+| 5.1 Plan A |  |  |  |  |  | Suma Asegurada: US$ 75,000 |
+| 5.1.1 Muerte Accidental |  |  |  |  |  |  |
+| 5.1.1.1 100% retorno | S/ 17.7 [S/ 69.92] |  | Mensual |  | 07/03/2011 |  |
+| 5.1.1.2 50% retorno | S/ 15.34 [S/ 60.59] |  | Mensual |  | 07/03/2011 |  |
+| 5.2 Plan B |  |  |  |  |  | Suma Asegurada: US$ 100,000 |
+| 5.2.1 Muerte Accidental |  |  |  |  |  |  |
+| 5.2.1.1 100% retorno | S/ 20.06 [S/ 79.24] |  | Mensual |  | 07/03/2011 |  |
+| 5.2.1.2 50% retorno | S/ 17.7 [S/ 69.92] |  | Mensual |  | 07/03/2011 |  |
+| 6 Seguro Múltiple (Antes Segurimax) - No Vigent |  |  |  |  |  | A solicitud del cliente. El seguro se cobra desde el primer mes. |
+| 6.1 Moneda Nacional |  |  |  |  |  |  |
+| 6.1.1 Saldo Promedio hasta S/ 7,050.00 | S/ 7 |  | Mensual |  | 01/10/2014 |  |
+| 6.1.2 Saldo Promedio mayor a S/7,050.00 | S/ 12.5 |  | Mensual |  | 01/10/2014 |  |
+| 6.2 Moneda Extranjer |  |  |  |  |  |  |
+| 6.2.1 Saldo Promedio hasta $2,500.00 | $ 2 [S/ 7.90] |  |  |  |  |  |
+|---|---|---|---|---|---|---|
+| 6.2.2 Saldo Promedio mayor a $2,500.00 |  | $ 3.5 |  |  |  |  |
+| 7 Seguro Múltiple |  |  |  |  |  |  |
+| 7.1 Opción Pago Mensual (No Vigente) |  |  |  |  |  |  |
+| 7.1.1 Moneda Nacional |  | S/ 9.9 |  | Mensual |  |  |
+| 7.1.2 Moneda Extranjera |  | $ 3.5 |  | Mensual |  |  |
+| 7.2 Opción Pago Anual (No Vigente) |  | [S/ 13.82] |  |  |  |  |
+| 7.2.1 Moneda Nacional |  | S/ 99 |  | Anual | 01/11/2012 |  |
+| 7.2.2 Moneda Extranjera |  | $ 35 |  | Anual | 01/11/2012 |  |
+| 8 Seguro Protección de Tarjetas |  | [S/ 138.25] |  |  |  | A solicitud del cliente. |
+| 8.1 Seguro Protección Tarjetas dólares (No Vigente) |  |  |  |  |  |  |
+| 8.1.1 Opción Pago Mensual |  | $ 2.9 |  | Mensual | 01/11/2012 |  |
+| 8.1.2 Opción Pago Anual |  | $ 29 |  | Anual | 01/11/2012 |  |
+| 8.2 Seguro de Protección de Tarjetas (No Vigente) |  | [S/ 114.55] |  |  |  |  |
+| 8.2.1 Opción Pago Mensual |  | S/ 12.99 |  | Mensual | 02/05/2019 |  |
+| 8.2.2 Opción Pago Anual |  | S/ 142.89 |  | Anual | 02/05/2019 |  |
+| 9 Seguro de Protección Financiera | 0.192 % |  |  | Mensual | 01/07/2012 | Seguro proporcionado a solicitud del cliente. Sobre el monto desembolsado. |
+| 10 Seguro Desgravamen |  |  |  |  |  |  |
+| 11 Asistencia Médica/Auxilio Médico |  |  |  |  |  |  |
+| 11.1 Plan Clásico |  | S/ 39.9 |  | Mensual | 01/11/2012 |  |
+| 11.2 Plan Plus |  | S/ 58.5 |  | Mensual | 01/11/2012 |  |
+| 12 Seguro de Protección de Tarjetas Visa, Amex, MasterCard y Credimás (No Vigente) |  | $ 1.97 [S/ 7.78] |  |  | 01/11/2012 | No vigente |
+| 12.1 mínimo |  | $ 1.97 [S/ 7.78] |  |  | 01/11/2012 |  |
+| 12.2 mínimo |  | $ 2.99 [S/ 11.81] |  |  | 01/11/2012 |  |
+| 13 Protección de Tarjetas de Crédito (No vigente) |  | $ 1.99 [S/ 7.86] |  |  | 01/11/2012 | No vigente |
+| 13.1 mínimo |  | $ 1.99 [S/ 7.86] |  |  | 01/11/2012 |  |
+| 13.2 mínimo |  | $ 2.96 [S/ 11.69] |  |  | 01/11/2012 |  |
+| 14 Seguro Blindado de Tarjetas Visa, Amex, MasterCard y Credimás |  | $ 1.99 [S/ 7.86] |  |  | 01/11/2012 | No vigente |
+| 14.1 mínimo |  | $ 1.99 [S/ 7.86] |  |  | 01/11/2012 |  |
+| 14.2 mínimo |  | $ 2.99 [S/ 11.81] |  |  | 01/11/2012 |  |
+| 15 Seguro Oncológico (No disponible para venta) |  | $ 5 [S/ 19.75] | $ 30 [S/ 118.50] |  | 01/11/2012 | No vigente |
+| 16 Seguro de Desempleo para Tarjetas de Crédito |  |  |  |  | 01/11/2012 | No vigente |
+| 16.1 Plan A |  | $ 2.3 [S/ 9.08] |  |  | 01/11/2012 |  |
+| 16.2 Plan B |  | $ 3.7 [S/ 14.62] |  |  | 01/11/2012 |  |
+| 17 Seguro Protección Financiera | 5% |  |  | Por única vez | 01/10/2014 | No vigente |
+| 18 Autos Particulares |  |  |  |  | 01/11/2012 |  |
+| 19 Seguro de Accidente Viva Seguro |  |  |  |  |  |  |
+| 19.1 Plan Familiar |  | S/ 39.9 |  | Mensual |  |  |
+| 19.2 Plan Individual |  | S/ 29.9 |  | Mensual |  |  |
+| 20 Seguro de Accidente Renta Hospitalaria |  |  |  |  |  |  |
+| 20.1 Plan Individual | S/ 31.9 |  |  | Mensual | 01/11/2012 |  |
+| 20.2 Plan Familiar | S/ 41.9 |  |  | Mensual | 01/11/2012 |  |
+| 21 Seguro de Sepelio |  |  |  |  |  |  |
+| 21.1 Plan Individual | S/ 29.9 |  |  | Mensual |  |  |
+| 21.2 Plan Familiar | S/ 45 |  |  | Mensual |  |  |
+| 22 Seguro de Vida con Devolución Plus BCP |  |  |  |  |  |  |
+| 22.1 De 18 a 29 años | S/ 60 |  |  | Mensual |  |  |
+| 22.2 De 30 a 34 años | S/ 75 |  |  | Mensual |  |  |
+| 22.3 De 35 a 39 años | S/ 100 |  |  | Mensual |  |  |
+| 22.4 De 40 a 44 años | S/ 150 |  |  | Mensual |  |  |
+| 22.5 De 45 a 49 años | S/ 215 |  |  | Mensual |  |  |
+| 22.6 De 50 a 53 años | S/ 295 |  |  | Mensual |  |  |
+| 23 Seguro Accidentes con Devolución Plus BCP |  |  |  |  |  |  |
+| 23.1 De 18 a 60 años | S/ 72.99 |  |  | Mensual |  |  |
+| 24 Seguro Protección de Tarjetas Plus |  |  |  |  |  |  |
+| 24.1 Opción Pago Mensual | S/ 12.99 |  |  | Mensual | 07/01/2020 |  |
+| 24.2 Opción Pago Anual | S/ 142.89 |  |  | Anual | 07/01/2020 |  |
+| 25 Seguro Respaldo Vida |  |  |  |  |  |  |
+| 25.1 Opción Pago Mensual | S/ 12.99 |  |  | Mensual | 01/04/2020 |  |
+| 25.1.1 Moneda Nacional |  |  |  |  |  |  |
+| 25.1.2 Moneda Extranjera | S/ 3.95 [S/ 15.60] |  |  | Mensual | 01/04/2020 |  |
+| 25.2 Opción Pago Anual |  |  |  |  |  |  |
+| 25.2.1 Moneda Nacional | S/ 142.89 |  |  | Mensual | 01/04/2020 |  |
+| 25.2.2 Moneda Extranjera |  | $ 43.3 [S/ 171.04] |  | Mensual | 01/04/2020 |  |
+| * Tarifas denominadas en dólares reexpresadas en soles al tipo de cambio referencial 3.950. |  |  |  |  |  |  |
+| * Los servicios y operaciones comprendidos en el tarifario están afectos al ITF cuya tasa es de 0.005. Para mayor información consultar en www.viabcp.com/ Información de Productos/ Información sobre Impuesto a las transacciones financieras (ITF) |  |  |  |  |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 3/10
+BANCO: BCP
+PRODUCTO: Servicios_de_PagosAdobe_PDF
+FILENAME: Servicios_de_PagosAdobe_PDF.md
+FILEPATH: BCP/Servicios_de_PagosAdobe_PDF.md
+---CONTENT_START---
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 1 Pago de Haberes y CTS |  |  |  |  |  |  |
+| 1.1 Pago de Haberes y CTS con Archivo Excel |  |  |  |  |  |  |
+| 1.1.1 Moneda Nacional |  | S/ 35 |  | Por planilla | 02/11/2012 |  |
+| 1.1.2 Moneda Extranjera |  | $ 12 [S/ 47.40] |  | Por planilla | 02/11/2012 |  |
+| 1.2 Pago de Haberes con Carta |  |  |  |  |  |  |
+| 1.2.1 Moneda Nacional |  | S/ 105 |  | Por planilla | 24/05/2010 |  |
+| 1.2.2 Moneda Extranjera |  | $ 36 [S/ 142.20] |  | Por planilla | 24/05/2010 |  |
+| 2 Portes Comprobante de Pago |  |  |  |  |  |  |
+| 2.1 Moneda Nacional |  | S/ 3.5 |  | Por envío | 15/04/2002 |  |
+| 2.2 Moneda Extranjera |  | $ 1 [S/ 3.95] |  | Por envío | 15/04/2002 |  |
+| 3 Orden generada en el exterior |  |  |  |  |  |  |
+| 3.1 Abono en Cuenta |  | $ 2.5 [S/ 9.88] |  | Por cada abono | 01/10/2002 | Abono en cuenta o pago en ventanilla |
+| 3.2 Pago en Ventanilla |  | $ 2.5 [S/ 9.88] |  | Por pago | 01/10/2002 |  |
+| 4 Carta Orden |  |  |  |  |  | Aplica para las siguientes operaciones: -Transferencias entre cuentas propias. -Transferencias a terceros (pago a proveedores, cheques de gerencia). -Transferencias a Otros Bancos Locales (CCE, BCR). -Transferencias al Exterior. |
+| 4.1 Propia |  |  |  |  |  | Esta tarifa se cobrará en S/ y si el cliente no tiene cuenta en S/ se cargará en US$ al TC vigente. |
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | VIGENCIA | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 4.1.1 Moneda Nacional |  | S/ 60 |  | Por operación | 15/08/2017 |  |
+| 4.1.2 Moneda Extranjera |  | $ 18 [S/ 71.10] |  | Por operación | 15/08/2017 |  |
+| 4.2 A Terceros |  |  |  |  |  |  |
+| 4.2.1 Moneda Nacional |  | S/ 60 |  | Por operación | 15/08/2017 |  |
+| 4.2.2 Moneda Extranjera |  | $ 18 [S/ 71.10] |  | Por operación | 15/08/2017 |  |
+| - Cargo adicional por cada abono |  | S/ 6 |  | Por cada abono | 01/09/2011 | Procesar una orden de cargo sobre una cuenta BCP (orden generada en el exterior) y pagar a terceros, ya sea con abono en cuenta o pago en ventanilla. |
+| 5 Tarifa MT-101 |  |  |  |  |  |  |
+| 5.1 Abono en Cuenta |  | $ 2.5 [S/ 9.88] |  | Por cada abono | 01/10/2002 |  |
+| 5.2 Pago en Ventanilla |  | $ 2.5 [S/ 9.88] |  | Por pago | 01/10/2002 |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 4/10
+BANCO: BCP
+PRODUCTO: Tarjeta_de_Crédito_Visa_Exacta__No_disponible_para_ventaAdobe_PDF
+FILENAME: Tarjeta_de_Crédito_Visa_Exacta__No_disponible_para_ventaAdobe_PDF.md
+FILEPATH: BCP/Tarjeta_de_Crédito_Visa_Exacta__No_disponible_para_ventaAdobe_PDF.md
+---CONTENT_START---
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 1 Comisiones por: Servicios asociados al crédito |  |  |  |  |  | Aplica solo si solicitas que te enviemos tu estado de cuenta en físico; de lo contrario lo enviaremos por correo electrónico sin costo. |
+| 1.1 Envío físico de estado de cuenta(0) |  |  |  |  |  | A partir de la facturación del 10/04/05, en caso de que el cliente culmine su ciclo de facturación con saldo cero no se le cobraran Envío físico de estado de cuenta ni seguro de desgravamen. Asimismo, no recibirá Estado de Cuenta por dicho período. |
+| 1.1.1 Plan 1 | S/ 10 |  |  | Mensual | 01/01/2014 |  |
+| 1.1.2 Plan 2 | S/ 10 |  |  | Mensual | 01/01/2014 |  |
+| 1.1.3 Plan 3 | S/ 10 |  |  | Mensual | 01/01/2014 |  |
+| 2 Comisiones por: Uso de canales |  |  |  |  |  | Canales sin costo : Viabcp.com y Banca Móvil |
+| 2.1 Uso de Cajero Automático(0) |  |  |  |  |  | Límite por Disposición de Efectivo por día en Ventanilla e Internet: Exacta Plan 1/ Exacta Plan 2/ Exacta Plan 3: S/1,000 y US$300. |
+|  |  |  |  |  |  | Límite por Disposición de Efectivo por día en Cajero BCP: S/ 2,000 y US$ 800. |
+|  |  |  |  |  |  | Límite por Disposición de Efectivo por día en Agente BCP: Todas las tarjetas (menos Visa Azul): S/800 y US$250. |
+| 2.1.1 Moneda Nacional | S/ 9 |  |  | Por operación | 01/01/2014 |  |
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 2.1.2 Moneda Extranjera |  | $ 3,4 [S/ 13.43] |  | Por operación | 01/01/2014 | Aplica solo a las transacciones realizadas en el extranjero en moneda distinta a US$. |
+| 2.2 Conversión de moneda | 3% |  |  | Por operación | 01/01/2014 |  |
+| 3 Comisiones por: Entrega de tarjetas adicionales a solicitud |  |  |  |  |  |  |
+| 3.1 Regrabación de tarjeta(0) |  |  |  |  |  | Aplica en caso de robo, pérdida, olvido de clave y deterioro. |
+| 3.1.1 Moneda Nacional | S/ 18.5 |  |  | Por operación | 16/01/2017 |  |
+| 4 Seguros, Gastos y Penalidad |  |  |  |  |  |  |
+| 4.1 Desgravamen | 0.285% | S/ 20 |  | Mensual | 01/04/2023 | Aplica sobre el saldo deudor promedio (suma de los saldos deudores diarios de tu ciclo de facturación, dividido entre la cantidad de días del ciclo). |
+| 4.1.1 Plan 1 / Plan 2 | S/ 4 |  |  | Mensual | 16/01/2017 |  |
+| 4.1.2 Plan 3 | S/ 4 |  |  | Mensual | 16/01/2017 |  |
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 4.2 Penalidad por Pago Atrasado(0) |  |  |  |  |  | En caso de retraso en los pagos, aplicará en primer lugar la penalidad por pago atrasado. En caso esté prohibido por ley se reemplaza los intereses moratorios establecidos en la Hoja de Resumen. Nunca se cobrará penalidad e interés moratorio al mismo tiempo. El cálculo de la penalidad de pago atrasado estará en función de la deuda vencida y se cobrará una sola vez a partir del día siguiente del vencimiento de la deuda. Tipo de cambio referencial S/.3.33. |
+| 4.2.1 Moneda Nacional |  | S/ 25 | S/ 100 | 6.5% del pago mínimo | 01/01/2014 |  |
+| 4.2.2 Moneda Extranjera |  | $ 10 [S/ 39.50] | $ 38 [S/ 150.10] | 6.5% del pago mínimo | 01/01/2014 |  |
+|  |  |  |  |  |  | * Tarifas denominadas en dólares reexpresadas en soles al tipo de cambio referencial 3.950. |
+|  |  |  |  |  |  | * Los servicios y operaciones comprendidos en el tarifario están afectos al ITF cuya tasa es de 0.005. Para mayor información consultar en www.viabcp.com/ Información de Productos/ Información sobre Impuesto a las transacciones financieras (ITF) |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 5/10
+BANCO: BCP
+PRODUCTO: Tarjeta_de_Crédito_Visa_LightAdobe_PDF
+FILENAME: Tarjeta_de_Crédito_Visa_LightAdobe_PDF.md
+FILEPATH: BCP/Tarjeta_de_Crédito_Visa_LightAdobe_PDF.md
+---CONTENT_START---
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 1 Comisiones por: Membresía |  |  |  |  |  |  |
+| 1.1 Membresía |  |  |  | Libre |  |  |
+| 2 Comisiones por: Servicios asociados al crédito |  |  |  |  |  |  |
+| 2.1 Envío físico de estado de cuenta |  | S/ 10 |  | Mensual | 30/09/2016 | Aplica solo si solicitas que te enviemos tu estado de cuenta en físico; de lo contrario lo enviaremos por correo electrónico sin costo. |
+| 2.2 Conversión de Moneda | 3% |  |  | Por operación | 30/09/2016 | Para operaciones en POS hechas en el extranjero en moneda diferente al Dólar Americano o para operaciones digitales procesadas en el extranjero por el comercio en moneda diferente al Dólar Americano |
+| 3 Comisiones por: Uso de canales |  |  |  |  |  | Canales sin costo : Viabcp.com y Banca Móvil |
+| 3.1 Uso de Cajero Automático |  |  |  |  |  | Límite por Disposición de Efectivo por día en Cajero BCP: S/ 2,000 y US$ 800 |
+| 3.1.1 Moneda nacional | 4% | S/ 15 | S/ 50 | Por operación | 01/01/2021 |  |
+| 3.1.2 Moneda extranjera | 4% | S/ 6 [S/ 23.70] | S/ 20 [S/ 79.00] | Por operación | 01/01/2021 | Aplica solo si retiras efectivo con tu tarjeta de crédito en ventanilla ya que la comisión corresponde al uso del canal físico. Recuerda que en Agentes BCP y en nuestra página web no se cobra esta comisión. |
+| 3.2 Operaciones en Ventanilla |  |  |  |  |  |  |
+| 3.2.1 Moneda Nacional | 4% | S/ 20 | S/ 50 | Por operación | 01/01/2021 |  |
+| 3.2.2 Moneda Extranjera | 4% | S/ 8 [S/ 31.60] | S/ 20 [S/ 79.00] | Por operación | 01/01/2021 |  |
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 3.3 Uso de otros cajeros automaticos |  |  |  |  |  |  |
+| 3.3.1 Moneda nacional | 4% | S/ 20 | S/ 50 | Por operación | 01/01/2021 |  |
+| 3.3.2 Moneda extranjera | 4% | $ 8 [S/ 31.60] | $ 20 [S/ 79.00] | Por operación | 01/01/2021 |  |
+| 4 Comisiones por: Entrega de tarjetas adicionales a solicitud |  |  |  |  |  |  |
+| 4.1 Reposición de tarjeta |  |  |  |  |  |  |
+| 4.1.1 Moneda nacional |  | S/ 25 |  | Por operación | 26/09/2023 |  |
+| 5 Seguros, gastos y penalidad |  |  |  |  |  |  |
+| 5.1 Desgravamen | 0.285% | S/ 20 | Mensual | 01/04/2023 | Aplica sobre el saldo deudor promedio (suma de los saldos deudores diarios de tu ciclo de facturación, dividido entre la cantidad de días del ciclo). |
+|  |  |  |  |  | El cobro por concepto de seguros solo aplica para tarjetas Light emitidas hasta 31/08/2025. Las tarjetas emitidas posterior a esa fecha ya no se cobrara por el seguro debido a que no se encuentran coberturadas. |
+|  |  |  |  |  | La prima incluye las comisiones por comercialización del seguro equivalente a 0.1596% del saldo deudor. La prima no incluye IGV. |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 6/10
+BANCO: BCP
+PRODUCTO: TransferenciasAdobe_PDF
+FILENAME: TransferenciasAdobe_PDF.md
+FILEPATH: BCP/TransferenciasAdobe_PDF.md
+---CONTENT_START---
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 1 Transferencias Locales |  |  |  |  |  | Las cobranzas devueltas no están afectas a transferencia de fondos. |
+| 1.1 Traslación de Fondos |  |  |  |  | 29/12/2022 | No hay cobro de traslación de fondos para las operaciones de retiro, depósito y transferencias para cuentas de ahorro, cuenta corriente de persona natural y persona jurídica pyme |
+| 1.1.1 Planes de Ahorro |  |  |  |  |  |  |
+| 1.1.1.1 Persona Natural y Jurídica |  |  |  |  |  |  |
+| 1.1.1.1.1 Cajeros Automáticos |  |  |  |  |  |  |
+| 1.1.1.1.1.1 Moneda Nacional |  |  |  |  | 29/12/2022 | Sin costo |
+| 1.1.1.1.1.2 Moneda Extranjera |  |  |  |  | 29/12/2022 | Sin costo |
+| 1.1.1.1.2 Ventanilla |  |  |  |  |  |  |
+| 1.1.1.1.2.1 Moneda Nacional |  |  |  |  | 29/12/2022 | Sin costo |
+| 1.1.1.1.2.2 Moneda Extranjera |  |  |  |  | 29/12/2022 | Sin costo |
+| 1.1.1.1.3 Agente BCP |  |  |  |  |  |  |
+| 1.1.1.1.3.1 Moneda Nacional |  |  |  |  | 29/12/2022 | Sin costo |
+| 1.1.1.1.3.2 Moneda Extranjera |  |  |  |  | 29/12/2022 | Sin costo |
+| 1.1.2 Planes Cuenta Corriente |  |  |  |  |  |  |
+| 1.1.2.1 Persona Natural |  |  |  |  | 29/12/2022 | Sin costo |
+| | | | | | |
+|---|---|---|---|---|---|
+| **Transferencias** | | | | | |
+| 1.1.2.1.1 Agencia, Agente y Cajeros Automáticos | | | | | |
+| 1.1.2.1.1.1 Moneda Nacional | 0.5% | S/ 7.5 | S/ 350 | Por operación | 29/12/2022 Sin costo |
+| 1.1.2.1.1.2 Moneda Extranjera | 0.5% | $ 2.83 [S/ 11.18] | $ 132.07 [S/ 521.68] | Por operación | 29/12/2022 Sin costo |
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 1.1.2.2 Persona Jurídica |  | S/ 7.5 | S/ 350 | Por operación | 29/12/2022 | *Todas las operaciones de retiro, depósito y transferencias sin costo para la cuenta de persona jurídica pyme |
+| 1.1.2.2.1 Moneda Nacional | 0.5% |  |  |  |  |  |
+| 1.1.2.2.2 Moneda Extranjera | 0.5% | $ 2.83 [S/ 11.18] | $ 132.07 [S/ 521.68] | Por operación | 29/12/2022 | *Todas las operaciones de retiro, depósito y transferencias sin costo para la cuenta de persona jurídica pyme |
+| 1.2 Transferencias via BCR |  |  |  |  |  |  |
+| 1.2.1 Moneda Nacional |  | S/ 20 |  |  | 23/01/2006 | Por transferencias superiores a S/ 310,000 |
+| 1.2.2 Moneda Extranjera |  | $ 6 [S/ 23.70] |  |  | 25/02/2015 | Por transferencias superiores a US$ 60,000. |
+| 1.3 Giros Nacionales |  |  |  |  |  |  |
+| 1.3.1 Ventanilla |  |  |  |  |  |  |
+| 1.3.1.1 Moneda Nacional | 0.7% | S/ 20 | S/ 100 | Por operación | 17/06/2022 |  |
+| 1.3.1.2 Moneda Extranjera | 0.7% | $ 7 [S/ 27.65] | $ 30 [S/ 116.70] | Por operación | 17/06/2022 |  |
+| 1.3.2 Banca por Internet |  |  |  |  |  | Para toda transferencia es obligatorio contar con clave digital. Monto máximo a transferir por día hasta US$10,000 con clave digital. |
+| 1.3.2.1 Moneda Nacional |  | S/ 5 |  | Por operación | 15/11/2022 |  |
+| 1.3.2.2 Moneda Extranjera |  | $ 1.5 [S/ 5.93] |  | Por operación | 15/11/2022 |  |
+| 1.3.3 Agente BCP |  |  |  |  |  |  |
+| 1.3.3.1 Moneda Nacional |  | S/ 5 |  | Por operación | 15/11/2022 |  |
+| | | | |
+| --- | --- | --- | --- |
+| Transferencias | | | |
+| 1.3.3.2 Moneda Extranjera | $ 1.5 [S/ 5.93] | Por operación | 15/11/2022 |
+| 1.4 Documentos recibidos en cobranza y/o descuento pagaderos en otras plazas | | | |
+| Datos elaborados por BCP para uso Interno | | | |
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| 1.4.1 Moneda Nacional | 0.5% | S/ 5 | S/ 700 | Por operación | 01/12/1997 |
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | VIGENCIA | OBSERVACIONES |
+| 1.4.2 Moneda Extranjera | 0.5% | $ 2 [S/ 7.90] | $ 350 [S/ 1382.50] | Por operación | 03/10/1996 |  |
+| | | |
+|---|---|---|
+| Tarifas / Persona Natural | | |
+| Transferencias | | |
+| 2 Transferencias Interbancarias Inmediatas | Transferencias de dinero entre bancos a través de la Cámara de Compensación Electrónica. Aplica para transferencias Ordinarias y Pago de Tarjetas de Crédito. Monto Máximo M.N.: S/ 30,000 Monto Máximo M.E.: US$ 10,000 Las tarifas detalladas a continuación aplican para los canales: Ventanilla, Banca por Internet y Banca Móvil (en este último canal solo aplica Transferencias Inmediatas). | |
+| 2.1 Transferencia ordinaria inmediata | Las operaciones de este tipo que sean menores a S/ 500 ó US$ 140 estarán libres de comisiones para el cliente*. Esto aplica únicamente para personas naturales. (*) Aplica para las siguientes entidades financieras: BCP, Interbank, Scotiabank, BBVA, Banco de Comercio, Banco Pichincha, Crediscotia, Banco Falabella, Banco Ripley, Financiera Oh, Caja Trujillo, Caja Arequipa, Caja Sullana, Caja Cusco, Caja Ica. Si la transferencia es enviada a otra entidad financiera el costo será de una Transferencia inmediata ordinaria. | |
+| 2.1.1 Misma Plaza | | |
+| 2.1.1.1 Comisión Interbancaria para el Banco Destino (CCE) | | |
+| 2.1.1.1.1 Moneda Nacional | S/ 0.8 | Por operación | 01/05/2016 |
+| 2.1.1.1.2 Moneda Extranjera | $ 0.21 [S/ 0.83] | Por operación | 01/05/2016 |
+| | |
+| --- | --- |
+| Tarifas / Persona Natural |  |
+| Transferencias |  |
+| 2.1.1.2 Comisión Adicional para el Banco Origen (BCP) |  |
+| Datos elaborados por BCP para uso Interno |  |
+| | | | |
+| --- | --- | --- | --- |
+| Tarifas / Persona Natural | | | |
+| Transferencias | | | |
+| 2.1.1.2.1 Moneda Nacional | S/ 4 | Por operación | 12/06/2017 |
+|---|---|---|---|---|---|---|
+| 2.1.1.2.2 Moneda Extranjera |  | $ 1.18 [S/ 4.66] |  | Por operación | 12/06/2017 |  |
+| 2.1.2 Otra Plaza |  |  |  |  |  |  |
+| 2.1.2.1 Comisión Interbancaria para el Banco Destino (CCE) |  |  |  |  |  |  |
+| 2.1.2.1.1 Moneda Nacional | 0.5% | S/ 7 | S/ 100 | Por operación | 01/05/2016 |  |
+| 2.1.2.1.2 Moneda Extranjera | 0.5% | $ 2 [S/ 7.90] | $ 30 [S/ 118.50] | Por operación | 01/05/2016 |  |
+| 2.1.2.2 Comisión Adicional para el Banco Origen (BCP) |  |  |  |  |  |  |
+| 2.1.2.2.1 Moneda Nacional |  | S/ 4 |  | Por operación | 12/06/2017 |  |
+| 2.1.2.2.2 Moneda Extranjera |  | $ 1.18 [S/ 4.66] |  | Por operación | 12/06/2017 |  |
+| 2.1.3 Plaza Exclusiva |  |  |  |  |  |  |
+| 2.1.3.1 Comisión Interbancaria para el Banco Destino (CCE) |  |  |  |  |  |  |
+| 2.1.3.1.1 Moneda Nacional | 1.5% | S/ 7 | S/ 100 | Por operación | 01/05/2016 |  |
+| 2.1.3.1.2 Moneda Extranjera | 1.5% | $ 2 [S/ 7.90] | $ 30 [S/ 118.50] | Por operación | 01/05/2016 |  |
+| 2.1.3.2 Comisión Adicional para el Banco Origen (BCP) |  |  |  |  |  |  |
+| 2.1.3.2.1 Moneda Nacional |  | S/ 4 |  | Por operación | 12/06/2017 |  |
+| 2.1.3.2.2 Moneda Extranjera |  | $ 1.18 [S/ 4.66] |  | Por operación | 12/06/2017 |  |
+| 2.2 Pago de Tarjeta de Crédito de otro Banco en el BCP |  |  |  |  |  |  |
+| 2.2.1 Misma Plaza |  |  |  |  |  |  |
+| | | |
+|---|---|---|
+| Tarifas /Persona Natural | | |
+| Transferencias | | |
+| Tarifas / Persona Natural | | |
+| Transferencias | | |
+| 2.2.1.1 Comisión Interbancaria que se cargará a la tarjeta por el Banco Destino (CCE) | S/ 1 | 01/05/2016 |
+| 2.2.1.1.1 Moneda Nacional | | |
+| 2.2.1.1.2 Moneda Extranjera | $ 0.3 [S/ 1.18] | 01/05/2016 |
+| 2.2.1.2 Comisión Adicional para el Banco Origen (BCP) |  |  |  |  |  |  |
+| 2.2.1.2.1 Moneda Nacional | S/ 4 |  | Por operación | 12/06/2017 |  |
+| 2.2.1.2.2 Moneda Extranjera | $ 1.18 [S/ 4.66] |  | Por operación | 12/06/2017 |  |
+| | |
+| --- | --- |
+| Tarifas /Persona Natural | |
+| Transferencias | |
+| 3 Transferencias Interbancarias Diferida | Transferencias de dinero entre bancos a través de la Cámara de Compensación Electrónica. Aplica para Transferencias Ordinarias, Pago de Tarjetas de Crédito, Pago de Haberes, Pago a proveedores y Depósitos CTS. Monto Máximo M.N. : S/ 420,000 Monto Máximo M.E. : US$ 75,000 Las tarifas detalladas a continuación aplican para los canales: Ventanilla, Banca por Internet y Banca Móvil (en este último canal solo aplica Transferencias Inmediatas). |
+| Datos elaborados por BCP para uso Interno | |
+| 3.1 Transferencias Ordinarias diferida |  |  |  |  |  | Las operaciones de este tipo que sean menores o iguales a S/ 500 o US$ 140 estarán libres de comisiones para el cliente*. Esto aplica únicamente para personas naturales. (*) Aplica para las siguientes entidades financieras: BCP, Interbank, Banco de la Nación, Scotiabank, Banco de Comercio, BanBIF, Crediscotia, Banco Falabella, Banco Ripley, Banco Pichincha, Financiera QAPAQ, Financiera Oh, Caja Piura, Caja Trujillo, Caja Sullana, Caja Cusco, Caja Huancayo y Caja Ica. Si la Transferencias es enviada a otra entidad financiera el costo será de una Transferencia interbancaria Diferida ordinaria. |
+| Datos elaborados por BCP para uso Interno |  |  |  |  |  |  |
+| | | | |
+| --- | --- | --- | --- |
+| Tarifas /Persona Natural | | | |
+| Transferencias | | | |
+| 3.1.1 Misma Plaza | | | |
+| 3.1.1.1 Moneda Nacional | S/ 0.8 | Por operación | 23/02/2013 |
+| 3.1.1.1.1 Comisión Interbancaria para el Banco Destino (CCE) | S/ 3.5 | Por operación | 23/02/2013 |
+| 3.1.1.1.2 Comisión Adicional para el Banco Origen (BCP) | | | |
+| 3.1.1.2 Moneda Extranjera | $ 0.21 [S/ 0.83] | Por operación | 23/02/2013 |
+| 3.1.1.2.1 Comisión Interbancaria para el Banco Destino (CCE) | $ 1.32 [S/ 5.21] | Por operación | 23/02/2013 |
+| 3.1.1.2.2 Comisión Adicional para el Banco Origen (BCP) | | | |
+| 3.1.2 Otra Plaza |  | S/ 7 | S/ 100 | Por operación | 23/02/2013 |  |
+| 3.1.2.1 Moneda Nacional |  |  |  |  |  |  |
+| 3.1.2.1.1 Comisión Interbancaria para el Banco Destino (CCE) | 0.5% | S/ 7 | S/ 100 | Por operación | 23/02/2013 |  |
+| 3.1.2.1.2 Comisión Adicional para el Banco Origen (BCP) |  | S/ 3.5 |  | Por operación | 12/06/2017 |  |
+| 3.1.2.2 Moneda Extranjera |  |  |  |  |  |  |
+| 3.1.2.2.1 Comisión Interbancaria para el Banco Destino (CCE) | 0.5% | $ 2 [S/ 7.90] | $ 30 [S/ 118.50] | Por operación | 25/01/2013 |  |
+| 3.1.2.2.2 Comisión Adicional para el Banco Origen (BCP) |  | $ 1.32 [S/ 5.21] |  | Por operación | 12/06/2017 |  |
+| 3.1.3 Plaza Exclusiva |  |  |  |  |  |  |
+| 3.1.3.1 Moneda Nacional |  |  |  |  |  |  |
+| 3.1.3.1.1 Comisión Interbancaria para el Banco Destino (CCE) | 1.5% | S/ 7 | S/ 100 | Por operación | 23/02/2013 |  |
+| 3.1.3.1.2 Comisión Adicional para el Banco Origen (BCP) |  | S/ 3.5 |  | Por operación | 12/06/2017 |  |
+| 3.1.3.2 Moneda Extranjera |  |  |  |  |  |  |
+| 3.1.3.2.1 Comisión Interbancaria para el Banco Destino (CCE) | 1.5% | $ 2 [S/ 7.90] | $ 30 [S/ 118.50] | Por operación | 25/01/2013 |  |
+|---|---|---|---|
+| 3.1.3.2.2 Comisión Adicional para el Banco Origen (BCP) | $ 1 [S/ 3.95] | Por operación | 12/06/2017 |
+| 3.2 Pago de Haberes |  |  |  |
+| 3.2.1 Misma Plaza |  |  |  |
+| 3.2.1.1 Moneda Nacional | S/ 1 | Por operación | 23/02/2013 |
+| 3.2.1.1.1 Comisión Interbancaria para el Banco de Destino (CCE) |  |  | 23/02/2013 |
+| 3.2.1.1.2 Comisión Adicional para el Banco Origen |  |  | Depende de la política del banco. |
+| Categoría | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+| 3.2.1.2 Moneda Extranjera |  |  |  |  |  |  |
+| 3.2.1.2.1 Comisión Interbancaria para el Banco Destino (CCE) |  | $ 0.3 [S/ 1.18] |  | Por operación | 23/02/2013 |  |
+| 3.2.1.2.2 Comisión Adicional para el Banco Origen (BCP) |  |  |  |  | 23/02/2013 |  |
+| 3.2.2 Otra Plaza |  |  |  |  |  |  |
+| 3.2.2.1 Moneda Nacional |  | S/ 3.5 |  | Por operación | 23/02/2013 |  |
+| 3.2.2.1.1 Comisión Interbancaria para el Banco Destino (CCE) |  |  |  |  | 08/07/2002 |  |
+| 3.2.2.1.2 Comisión Adicional para el Banco Origen (BCP) |  |  |  |  |  |  |
+| 3.2.2.2 Moneda Extranjera |  |  |  |  |  |  |
+| 3.2.2.2.1 Comisión Interbancaria para el Banco Destino (CCE) |  | $ 1.2 [S/ 4.74] |  | Por operación | 23/02/2013 |  |
+| 3.2.2.2.2 Comisión Adicional para el Banco Origen (BCP) |  |  |  |  | 08/07/2002 |  |
+| 3.2.3 Plaza Exclusiva |  |  |  |  |  |  |
+| 3.2.3.1 Moneda Nacional |  | 1.5% | S/ 28 | S/ 210 | Por operación | 23/02/2013 |  |
+| 3.2.3.1.1 Comisión Interbancaria para el Banco Destino (CCE) |  |  |  |  | 08/07/2002 |  |
+| 3.2.3.1.2 Comisión Adicional para el Banco Origen (BCP) |  |  |  |  |  |  |
+| 3.2.3.2 Moneda Extranjera |  |  |  |  |  |  |
+| 3.2.3.2.1 Comisión Interbancaria para el Banco Destino (CCE) |  | 1.5% | $ 10 [S/ 39.50] | $ 70 [S/ 276.50] | Por operación | 23/02/2013 |  |
+| | | |
+|---|---|---|
+| Tarifas /Persona Natural | | |
+| 3.2.3.2.2 Comisión Adicional para el Banco Origen (BCP) | | 10/12/2004 |
+| 3.3 Pago a Proveedores | | |
+| 3.3.1 Misma Plaza | | |
+| 3.3.1.1 Moneda Nacional |  |  |  |  |  |  |
+| 3.3.1.1.1 Comisión Interbancaria para el Banco Destino (CCE) | S/ 1 |  |  | Por operación | 23/02/2013 |  |
+| 3.3.1.1.2 Comisión Adicional para el Banco Origen (BCP) | S/ 1.5 |  |  | Por operación | 23/02/2013 |  |
+| 3.3.1.2 Moneda Extranjera |  |  |  |  |  |  |
+| 3.3.1.2.1 Comisión Interbancaria para el Banco Destino (CCE) | $ 0.3 [S/ 1.18] |  |  | Por operación | 23/02/2013 |  |
+| 3.3.1.2.2 Comisión Adicional para el Banco Origen (BCP) | $ 0.7 [S/ 2.76] |  |  | Por operación | 23/02/2013 |  |
+| 3.3.2 Otra Plaza |  |  |  |  |  |  |
+| 3.3.2.1 Moneda Nacional |  |  |  |  |  |  |
+| 3.3.2.1.1 Comisión Interbancaria para el Banco Destino (CCE) | 0.5% | S/ 14 | S/ 210 | Por operación | 23/02/2013 |  |
+| 3.3.2.1.2 Comisión Adicional para el Banco Origen (BCP) | 0.1% | S/ 3.5 | S/ 17.5 | Por operación | 23/02/2013 |  |
+| 3.3.2.2 Moneda Extranjera |  |  |  |  |  |  |
+| 3.3.2.2.1 Comisión Interbancaria para el Banco Destino (CCE) | 0.5% | $ 5 [S/ 19.75] | $ 70 [S/ 276.50] | Por operación | 23/02/2013 |  |
+| 3.3.2.2.2 Comisión Adicional para el Banco Origen (BCP) | 0.1% | $ 1.32 [S/ 5.21] | $ 6.6 [S/ 26.07] | Por operación | 23/02/2013 |  |
+| 3.3.3 Plaza Exclusiva |  |  |  |  |  |  |
+| | | | | |
+|---|---|---|---|---|
+| **Tarifas /Persona Natural** | | | | |
+| **Transferencias** | | | | |
+| 3.3.3.1 Moneda Nacional | | | | |
+| 3.3.3.1.1 Comisión Interbancaria para el Banco Destino (CCE) | 1.5% | S/ 28 | S/ 210 | Por operación | 23/02/2013 |
+| 3.3.3.1.2 Comisión Adicional para el Banco Origen (BCP) | 0.1% | S/ 3.5 | S/ 17.5 | Por operación | 23/02/2013 |
+| | | | | |
+|---|---|---|---|---|
+| 3.3.3.2 Moneda Extranjera | | | | |
+| | | | | |
+| | |
+| 3.3.3.2.1 Comisión Interbancaria para el Banco Destino (CCE) | 1.5% | $ 10 [S/ 39.50] | $ 70 [S/ 276.50] | Por operación | 23/02/2013 |  |
+| 3.3.3.2.2 Comisión Adicional para el Banco Origen (BCP) | 0.1% | $ 1 [S/ 3.95] | $ 5 [S/ 19.75] | Por operación | 23/02/2013 |  |
+| 3.4 Pago de CTS (desde otro Banco al BCP) |  |  |  |  |  |  |
+| 3.4.1 Misma Plaza |  |  |  |  |  |  |
+| 3.4.1.1 Moneda Nacional |  | S/ 1 |  | Por operación | 23/02/2013 |  |
+| 3.4.1.1.1 Comisión Interbancaria para el Banco Destino (BCP) |  |  |  |  | 01/11/2012 | Depende de la política del banco. |
+| 3.4.1.2 Moneda Extranjera |  |  |  |  |  |  |
+| 3.4.1.2.1 Comisión interbancaria para el Banco Destino (BCP) |  | $ 0.3 [S/ 1.18] |  | Por operación | 23/02/2013 | Depende de la política del banco. |
+| 3.4.1.2.2 Comisión Adicional para el Banco Origen |  |  |  |  | 23/02/2013 | Depende de la política del banco. |
+| 3.4.2 Otra Plaza |  |  |  |  |  |  |
+| 3.4.2.1 Moneda Nacional |  |  |  |  |  |  |
+| 3.4.2.1.1 Comisión Interbancaria para el Banco Destino (BCP) | 0.5% | S/ 14 | S/ 210 | Por operación | 23/02/2013 |  |
+|---|---|---|---|---|
+| 3.4.2.1.2 Comisión Adicional para el Banco Origen | | | 01/11/2012 | Depende de la política del banco. |
+| 3.4.2.2 Moneda Extranjera | | | | |
+| 3.4.2.2.1 Comisión Interbancaria para el Banco Destino (BCP) | 0.5% | $ 5 [S/ 19.75] | $ 70 [S/ 276.50] | Por operación | 23/02/2013 |
+| 3.4.2.2.2 Comisión Adicional para el Banco Origen | | | | | 01/11/2012 | Depende de la política del banco. |
+| Tarifas /Persona Natural | | | | |
+| Transferencias | | | | |
+| 3.4.3 Plaza Exclusiva | | | | |
+| Datos elaborados por BCP para uso Interno | | | | |
+| 3.4.3.1 Moneda Nacional |  |  |  |  |  |  |
+| 3.4.3.1.1 Comisión Interbancaria para el Banco Destino (BCP) | 1.5% | S/ 28 | S/ 210 | Por operación | 23/02/2013 |  |
+| 3.4.3.1.2 Comisión Adicional para el Banco Origen |  |  |  |  | 01/11/2012 | Depende de la política del banco. |
+| 3.4.3.2 Moneda Extranjera |  |  |  |  |  |  |
+| 3.4.3.2.1 Comisión Interbancaria para el Banco Destino (BCP) | 1.5% | $ 10 [S/ 39.50] | $ 70 [S/ 276.50] | Por operación | 23/02/2013 |  |
+| 3.4.3.2.2 Comisión Adicional para el Banco Origen |  |  |  |  | 23/02/2013 | Depende de la política del banco. |
+| 3.5 Pago de Tarjeta de Crédito |  |  |  |  |  |  |
+| 3.5.1 Moneda Nacional |  |  |  |  |  |  |
+| 3.5.1.1.Comisión Interbancaria que se cargará a la tarjeta por el Banco Destino (CCE) |  | S/ 1 |  | Por operación | 23/02/2013 |  |
+| 3.5.1.2 Comisión adicional para el Banco Origen (BCP) |  | S/ 3.5 |  | Por operación | 23/02/2013 |  |
+| 3.5.2 Moneda Extranjera |  |  |  |  |  |  |
+| 3.5.2.1 Comisión Interbancaria que se cargará a la tarjeta por el Banco Destino (CCE) |  | $ 0.3 [S/ 1.18] |  | Por operación | 23/02/2013 |  |
+| 3.5.2.2 Comisión adicional para el Banco Origen (BCP) |  | $ 1 [S/ 3.95] |  | Por operación | 23/02/2013 |  |
+| Categoria                                     | TASA    | MINIMO | MAXIMO | CONCEPTO      | Vigencia   | OBSERVACIONES |
+| :-------------------------------------------- | :------ | :----- | :----- | :------------ | :--------- | :---------- |
+| 4 Transferencias al Exterior                  |         |        |        |               |            |             |
+| 4.1 Solicitudes Físicas en red de agencias y Carta Orden en Dólares. |         |        |        |               |            |             |
+| 4.1.1 Hasta US$ 3,000                         |         | $ 32   |        | Por operación | 01/04/2022 |             |
+| 4.1.2 Mayor a US$ 3,000 hasta US$ 10,000      |         | $ 42   |        | Por operación | 01/04/2022 |             |
+| 4.1.3 Mayor a US$ 10,000 hasta US$ 25,000     | 0.25%   | $ 42   | $ 150  | Por operación | 01/04/2022 |             |
+| 4.1.4 Mayor a US$ 25,000                      | 0.125 % | $ 64   |        | Por operación | 01/03/2024 |             |
+| 4.1.5 Swift (operaciones mayores a $10,000)   |         | $ 12   |        | Por operación | 01/04/2022 |             |
+| 4.2 Telecrédito, Financiamiento Electrónico de Compras (FEC), Home Banking y Carta orden (otras monedas) |  |  |  |  |  |  |
+| 4.2.1 Hasta US$ 3,000 |  | $ 29 |  | Por operación | 01/04/2022 |  |
+| 4.2.2 Mayor a US$ 3,000 hasta US$ 10,000 |  | $ 42 |  | Por operación | 01/04/2022 |  |
+| 4.2.3 Mayor a US$ 10,000 hasta US$ 25,000 | 0.25% | $ 42 |  | Por operación | 01/04/2022 |  |
+| 4.2.4 Mayor a US$ 25,000 | 0.125 % | $ 64 | $ 150 | Por operación | 01/03/2024 |  |
+| 4.2.5 Swift (operaciones mayores a $10,000) |  | $ 12 |  | por mensaje | 01/04/2022 |  |
+| 4.3 Mobile Banking |  |  |  |  |  |  |
+| 4.3.1 Hasta US$ 500 |  | $ 10 |  | por operación | 07/10/2025 | Incluye costos del banco corresponsal a nuestro cargo |
+| 4.3.2 Mayor a US$ 500 hasta US$ 3,000 |  | $ 15 |  | por operación | 07/10/2025 | Incluye costos del banco corresponsal a nuestro cargo |
+| 4.3.3 Mayor a US$ 3,000 hasta US$ 10,000 |  | $ 30 |  | por operación | 07/10/2025 | Incluye costos del banco corresponsal a nuestro cargo |
+| 4.3.4 Mayor a US$ 10,000 hasta US$ 50,000 |  | $ 60 |  | por operación | 07/10/2025 | Incluye costos del banco corresponsal a nuestro cargo y swift |
+| 4.4 Modificación Transferencia al Exterior |  |  |  |  |  |  |
+| 4.4.1 Por Modificación |  | $ 30 |  | por mensaje | 01/04/2022 |  |
+| 4.4.2 Swift |  | $ 12 |  | por mensaje | 01/04/2022 |  |
+| 4.5 Transferencias con Comisión del Banco Corresponsal a nuestro Cargo. |  |  |  |  |  |  |
+| 4.5.1 Costos del Banco Corresponsal a nuestro Cargo |  | $ 40 |  | por transacción | 01/04/2022 |  |
+| 5 Transferencias del exterior |  |  |  |  |  |  |
+| 5.1 Con Abono en Cuenta Corriente M.E, Ahorros y/o Plazo M.E. |  |  |  |  |  |  |
+| 5.1.1 Abono en Cuenta hasta US$ 5,000 Más de US$ 5,000 |  | $25 $30 |  | Por operación | 01/03/2024 |  |
+| 6 Devolución de Fondos al Exterior |  | $ 35 [S/ 138.25] |  | por mensaje | 14/07/2020 |  |
+| 7 Emisión de Cartas de Aporte de Capital |  | $ 11.5 [S/ 45.42] |  | Por carta | 01/01/1999 |  |
+| 8 Giros Internacionales |  |  |  |  |  |  |
+| 8.1 Emisión de Giros Internacionales |  |  |  |  |  |  |
+| 8.1.1 Hasta US$ 5,000 | 0.5% | $ 12 [S/ 47.40] |  | Por giro | 02/08/1999 |  |
+| 8.1.2 De US$ 5,000.01 hasta US$ 25,000 | 0.25% | $ 25 [S/ 98.75] |  | Por giro | 02/08/1999 |  |
+| 8.1.3 Más de US$ 25,000 | 0.125 % | $ 62.5 [S/ 246.88] | $ 100 [S/ 395.00] | Por giro | 02/08/1999 |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 9 Remesas Recibidas del Exterior |  |  |  |  |  |  |
+| 9.1 Empresas Remesadoras o Bancos de Convenio |  |  |  | Libre |  | Excepto en los siguientes casos: Desde España: Caixa, Ceca, Caja Madrid, Popular Español o Caja Galicia Mayor a US$ 3,000.00 --> Se aplica tarifa del producto Transferencias del Exterior. - Caixa Cataluña Mayor a US$ 2,000.00 --> Se aplica tarifa del producto Transferencias del Exterior. Desde Italia: - Cesare Ponti Mayor a US$ 5,000.00 --> Se aplica tarifa del producto Transferencias del Exterior. Desde Japón: - Do Brasil Mayor a US$ 3,000.00 --> Se aplica tarifa del producto Transferencias del Exterior. |
+| 10 Remesas Enviadas al Exterior |  |  |  |  |  | Pueden enviar Clientes BCP con cuenta o en efectivo hacia Colombia y billetera digital Nequl. |
+| 10.1 Enviadas desde el canal Agente BCP |  |  |  |  |  |  |
+| 10.1.1 De S/ 10 hasta S/ 300 | S/ 10.50 |  |  | Por operación | 15/09/2025 |  |
+| 10.1.2 De S/ 300.01 hasta S/ 500 | S/ 18.00 |  |  | Por operación | 15/09/2025 |  |
+| 10.1.3 De S/ 500.01 hasta S/ 650 | S/ 23.00 |  |  | Por operación | 15/09/2025 |  |
+| 10.1.4 De S/ 650.01 hasta S/ 1000 | S/ 33.00 |  |  | Por operación | 15/09/2025 |  |
+| Datos elaborados por BCP para uso Interno |  |  |  |  |  |  |
+| 11 Operaciones TIN de costoEspecial: |  |  |  |  |  | libres Campaña Hasta el 30 de junio de 2015 las Transferencias Interbancarias Ordinarias que sean originadas en ventanilla, Homebanking o Telecrédito y sean menores o iguales a S/ 350 o US$ 135 estarán libres de comisiones para el cliente*. Esto aplica únicamente para personas naturales. (*) Las entidades financieras participantes de la campaña son: BCP, Banco de Comercio, Banco Falabella, Banco Financiero, BBVA Continental, Citibank, Interbank, Scotiabank, Caja Cusco, Caja Arequipa, Caja Piura, Caja Sullana, Caja Trujillo, Financiera Crediscotia. Si la transferencia es enviada a otra entidad financiera el costo será el de una Transferencia Interbancaria Ordinaria. |
+| Datos elaborados por BCP para uso Interno |  |  |  |  |  |  |
+| --- | --- |
+| Tarifas denominadas en dólares reexpresadas en soles al tipo de cambio referencial 3.950 | |
+| Los servicios y operaciones comprendidos en el tarifario están afectos al ITF cuya tasa es de 0.005. Para mayor información consultar en www.viabcp.com/ Información de Productos/ Información sobre Impuesto a las transacciones financieras (ITF) | |
+| Datos elaborados por BCP para uso Interno | |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 7/10
+BANCO: BCP
+PRODUCTO: Cuentas_de_Ahorro_WardaditosAdobe_PDF
+FILENAME: Cuentas_de_Ahorro_WardaditosAdobe_PDF.md
+FILEPATH: BCP/Cuentas_de_Ahorro_WardaditosAdobe_PDF.md
+---CONTENT_START---
+| Categoria | TEA | OBSERVACIONES |
+|---|---|---|
+| 1 CUENTA WARDADITOS |  |  |
+| 1.1 CUENTAS WARDADITOS | 0.123% | - Solo para personas naturales. |
+| Datos elaborados por BCP para uso Interno |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 8/10
+BANCO: BCP
+PRODUCTO: Tasa_de_Interés_Moratorio_Créditos_Personales_Créditos_Hipotecarios_Créditos_Refinanciados_y_Crédito_Efectivo_NegociosAdobe_PDF
+FILENAME: Tasa_de_Interés_Moratorio_Créditos_Personales_Créditos_Hipotecarios_Créditos_Refinanciados_y_Crédito_Efectivo_NegociosAdobe_PDF.md
+FILEPATH: BCP/Tasa_de_Interés_Moratorio_Créditos_Personales_Créditos_Hipotecarios_Créditos_Refinanciados_y_Crédito_Efectivo_NegociosAdobe_PDF.md
+---CONTENT_START---
+| Categoría | TEA | OBSERVACIONES |
+|---|---|---|
+| 1 TASA DE INTERES MORATORIO CRÉDITOS PERSONALES, CRÉDITOS HIPOTECARIOS, CRÉDITOS REFINANCIADOS Y CRÉDITO EFECTIVO NEGOCIOS | 22% | Se aplica a créditos vencidos y en cobranza judicial. |
+| TEA expresada en 360 días |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 9/10
+BANCO: BCP
+PRODUCTO: Telecrédito_PYMEAdobe_PDF
+FILENAME: Telecrédito_PYMEAdobe_PDF.md
+FILEPATH: BCP/Telecrédito_PYMEAdobe_PDF.md
+---CONTENT_START---
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 Mantenimiento |  |  |  |  |  |  |
+| 1.1 PYME |  |  |  |  |  |  |
+| 1.1.1 Telecrédito Web PYME | $ 12 [S/ 47.40] |  |  | Mensual | 01/06/2017 | Telecrédito Web Pyme. Incluye las siguientes funcionalidades sin costo adicional: |
+|  |  |  |  |  |  | - Consulta de Saldos y últimos movimientos (180 días) |
+|  |  |  |  |  |  | - Transferencias entre cuentas propias y Terceros* |
+|  |  |  |  |  |  | - Transferencias a bancos del exterior |
+|  |  |  |  |  |  | - Transferencias a otros bancos locales |
+|  |  |  |  |  |  | - Consulta y Pago de Letras y Facturas |
+|  |  |  |  |  |  | - Web de Proveedores |
+|  |  |  |  |  |  | - Descarga diaria de movimientos |
+|  |  |  |  |  |  | - Pago de Servicios (Movistar, Luz del Sur,Edelnor) |
+|  |  |  |  |  |  | - Pago de Haberes (con transf. interbancaria) y CTS |
+|  |  |  |  |  |  | - Pago a proveedores* |
+|  |  |  |  |  |  | - 1 empresa afiliada, 2 cuentas afiliadas y 2 usuarios permitidos. |
+|  |  |  |  |  |  | *En el caso de Transferencias a terceros con cuentas BCP y Pago a proveedor con cuenta BCP, la comisión de mantenimiento incluye hasta 2000 operaciones de transferencia y pago a proveedor, siendo que a partir de la operación 2001 se cobrara S/. 0.50 (cincuenta céntimos) por cada operación adicional. |
+|  |  |  |  |  |  | Nota: No se considerarán dentro del límite de 2,000 operaciones mensuales incluidas a los Pagos de Haberes, Pagos Masivos de CTS, Transferencias y/o Pagos Interbancarios ni Pagos a través de Cheques. |
+| 2 Cheques de Gerencia | $ 3.5 [S/ 13.82] |  |  | Por cheque | 07/03/2018 | Cheques de Gerencia. Tarifa aplicable en caso de Pago a Proveedores mediante Telecrédito Web con cheque de gerencia. |
+| 3 Clave Digital Token | $ 10 [S/ 39.50] |  |  | Por Tarjeta | 07/03/2018 |  |
+| 4 Traslación de fondos |  |  |  |  |  |  |
+| 4.1 Moneda Nacional | 0.1% | S/ 3 | S/ 30 | Monto de operacion | 01/05/2006 | Aplica solo para Cajas Municipales, Cajas Rurales y Edpymes. |
+| 4.2 Moneda Extranjera | 0.1% | $ 1 [S/ 3.95] | $ 10 [S/ 39.50] | Monto de operacion | 01/05/2006 | Traslación de fondos. Aplica solo para Cajas Municipales, Cajas Rurales y Edpymes. |
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | VIGENCIA | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 5 Notas |  |  |  |  | 15/04/2011 | Incluye las siguientes funcionalidades sin costo adicional: - Consulta de Saldos y últimos movimientos (180 días) - Consulta de Créditos Comerciales - Transferencias entre cuentas propias y terceros* - Transferencias a BCP Miami - Transferencias a bancos del exterior - Transferencias a otros bancos locales Consulta y Pago de Letras y Facturas - Web de Proveedores Descarga diaria de movimientos - Consulta de inversiones (plazo fijo) - Importación masiva de transf. bancos del exterior Importación masiva de transf. otro bancos locales - Transferencias con tipo de cambio negociado - Pago de Servicios (Movistar, Luz del Sur, Edinor) - Administración de Remesas - Pago de Haberes (con transf. interbancaria), CTS y Proveedores* (con cheque de gerencia y con transf. interbancaria) - Pago de Dividendos - Factoring Electrónico *En el caso de Transferencias a Terceros con Cuentas BCP y Pago a proveedor con cuenta BCP, la comisión de mantenimiento incluye hasta 2000 operaciones de transferencia y pago a proveedor, siendo que a partir de la operación 2001 se cobrará S/. 0.50 (cincuenta céntimos) por cada operación adicional. Nota: No se considerarán dentro del límite de 2,000 operaciones mensuales incluidas a los Pagos de Haberes, Pagos Masivos de CTS, Transferencias y/o Pagos Interbancarios ni Pagos a través de Cheques. |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 10/10
+BANCO: BCP
+PRODUCTO: Cuentas_CorrientesAdobe_PDF
+FILENAME: Cuentas_CorrientesAdobe_PDF.md
+FILEPATH: BCP/Cuentas_CorrientesAdobe_PDF.md
+---CONTENT_START---
+| Categoría | TEA | OBSERVACIONES |
+|---|---|---|
+| 1 CUENTAS CORRIENTES |  | TEA expresada en 360 días |
+---CONTENT_END---
+

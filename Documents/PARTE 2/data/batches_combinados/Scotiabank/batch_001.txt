@@ -1,0 +1,471 @@
+---DOCUMENT_START---
+FILE_NUMBER: 1/10
+BANCO: Scotiabank
+PRODUCTO: 064
+FILENAME: 064.md
+FILEPATH: Scotiabank/064.md
+---CONTENT_START---
+
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 2/10
+BANCO: Scotiabank
+PRODUCTO: 005
+FILENAME: 005.md
+FILEPATH: Scotiabank/005.md
+---CONTENT_START---
+| Concepto | Tarifas | Forma de Aplicación | Observaciones |
+| --- | --- | --- | --- |
+|  | M. N. (S/.) | M. E. (US$) |  |
+| Comisiones |  |  |  |
+| Transferencias Interbancarias vía CCE por ventanilla(*) |  |  |  |
+| Pago de Haberes vía CCE |  |  |  |
+| Comisión Scotiabank | 0.10% Mín S/ 3.50 Máx S/ 20.00 | 0.10% Mín US$ 1.25 (S/ 4.13) Máx US$ 7.00 (S/ 23.10) | Al envío de la transferencia |
+| Empresas / Negocios |  |  |  |
+| Pago de Proveedores vía CCE |  |  |  |
+| Comisión Scotiabank | 0.10% Mín S/ 3.50 Máx S/ 20.00 | 0.10% Mín US$ 1.25 (S/ 4.13) Máx US$ 7.00 (S/ 23.10) | Al envío de la transferencia |
+| Empresas / Negocios |  |  |  |
+| Depósitos CTS Vía CCE |  |  |  |
+| Comisión Scotiabank | 0.10% Mín S/ 3.50 Máx S/ 20.00 | 0.10% Mín US$ 1.25 (S/ 4.13) Máx US$ 7.00 (S/ 23.10) | Al envío de la transferencia |
+| Empresas |  |  |  |
+| Transferencias Interbancarias vía CCE por medios virtuales (*) |  |  |  |
+| Pago de Haberes vía CCE |  |  |  |
+| Comisión Scotiabank | Sin costo | Sin costo |  |
+| Empresas |  |  |  |
+| Pago de Proveedores vía CCE |  |  |  |
+| Comisión Scotiabank | S/ 1.00 | US$ 0.40 (S/ 1.32) 0.10% | Al envío de la transferencia |
+| Misma Plaza |  |  |  |
+|  | 0.10% Mín S/ 2.50 Máx S/ 20.00 | Mín US$ 0.90 (S/ 2.97) Máx US$ 7.00 (S/ 23.10) |  |
+| Otra Plaza |  |  |  |
+|  | 0.10% Mín S/ 2.50 Máx S/ 20.00 | Mín US$ 0.90 (S/ 2.97) Máx US$ 7.00 (S/ 23.10) | Al envío de la transferencia |
+| Plaza Exclusiva |  |  |  |
+| Depósitos CTS Vía CCE |  |  |  |
+| Concepto | Tarifas | Forma de Aplicación | Observaciones |
+| --- | --- | --- | --- |
+| | M. N. (S/.) | M. E. (US$) | |
+| Comisión Scotiabank Empresas | Sin costo | Sin costo | |
+| Gastos | | | |
+| Transferencias Interbancarias vía CCE por ventanilla(*) | | | |
+| Pago de Haberes vía CCE | Este cobro realizado al cliente, se deriva a la CCE. | | |
+| Gasto CCE | | | |
+| Misma Plaza | S/ 1.00 | US$ 0.30 (S/ 0.99) | Al envío de la transferencia |
+| Otra Plaza | S/ 3.50 | US$ 1.20 (S/ 3.96) | Al envío de la transferencia |
+| Plaza Exclusiva | 1.50% Mín S/ 28.00 Máx S/ 210.00 | 1.50% Mín US$ 10.00 (S/ 33.00) Máx US$ 70.00 (S/ 231.00) | Al envío de la transferencia |
+| Pago de Proveedores vía CCE | Este cobro realizado al cliente, se deriva a la CCE. | | |
+| Gasto CCE | | | |
+| Misma Plaza | S/ 1.00 | US$ 0.30 (S/ 0.99) | Al envío de la transferencia |
+| Otra Plaza | 0.50% Mín S/ 14.00 Máx S/ 210.00 | 0.50% Mín US$ 5.00 (S/ 16.50) Máx US$ 70.00 (S/ 231.00) | Al envío de la transferencia |
+| Plaza Exclusiva | 1.50% Mín S/ 28.00 Máx S/ 210.00 | 1.50% Mín US$ 10.00 (S/ 33.00) Máx US$ 70.00 (S/ 231.00) | Al envío de la transferencia |
+| Depósitos CTS vía CCE | Este cobro realizado al cliente, se deriva a la CCE. | | |
+| Gasto CCE | | | |
+| Misma Plaza | S/ 1.00 | US$ 0.30 (S/ 0.99) | Al envío de la transferencia |
+| Otra Plaza | 0.50% Mín S/ 14.00 Máx S/ 210.00 | 0.50% Mín US$ 5.00 (S/ 16.50) Máx US$ 70.00 (S/ 231.00) | Al envío de la transferencia |
+| Plaza Exclusiva | 1.50% Mín S/ 28.00 Máx S/ 210.00 | 1.50% Mín US$ 10.00 (S/ 33.00) Máx US$ 70.00 (S/ 231.00) | Al envío de la transferencia |
+| Transferencias Interbancarias Vía CCE por medios virtuales(*) | | | |
+| Pago de Haberes vía CCE | Este cobro realizado al cliente, se deriva a la CCE. | | |
+| Otra Plaza | S/ 3.50 | US$ 1.20 (S/ 3.96) | Al envío de la transferencia |
+| Concepto | Tarifas M. N. (S/.) | Tarifas M. E. (US$) | Forma de Aplicación | Observaciones |
+|---|---|---|---|---|
+| Pago de Proveedores vía CCE | Este cobro realizado al cliente, se deriva a la CCE. |  |  |  |
+| Gasto CCE | S/ 1.00 | US$ 0.30 (S/ 0.99) | Al envío de la transferencia |  |
+| Misma Plaza | 0.50% Mín S/ 14.00 Máx S/ 210.00 | Mín US$5.00 (S/ 16.50) Máx US$ 70.00 (S/ 231.00) | Al envío de la transferencia |  |
+| Otra Plaza | 1.50% Mín S/ 28.00 Máx S/ 210.00 | 1.50% Mín US$ 10.00 (S/ 33.00) Máx US$ 70.00 (S/ 231.00) | Al envío de la transferencia |  |
+| Depósitos CTS Vía CCE | Este cobro realizado al cliente, se deriva a la CCE. |  |  |  |
+| Gasto CCE | S/ 1.00 | US$ 0.30 (S/ 0.99) | Al envío de la transferencia |  |
+| Misma Plaza | 0.50% Mín S/ 14.00 Máx S/ 210.00 | Mín US$5.00 (S/ 16.50) Máx US$ 70.00 (S/ 231.00) | Al envío de la transferencia |  |
+| Otra Plaza | 1.50% Mín S/ 28.00 Máx S/ 210.00 | 1.50% Mín US$ 10.00 (S/ 33.00) Máx US$ 70.00 (S/ 231.00) | Al envío de la transferencia |  |
+| Notas: | En caso de Transferencias Interbancarias Vía CCE recibidas en Cuenta Corriente, se enviará Nota de Operación. Este envío estará sujeto al cobro de la Comisión de Portes, el importe podrá ser consultado en el Tarifario N°04 de Cuentas Corrientes. |  |  |  |
+|  | El Cliente tiene conocimiento de que en caso ocurriera un inconveniente con una transferencia interbancaria CCE, ésta podría ser devuelta por la institución financiera o banco beneficiario en caso los fondos serían abonados en su cuenta en el transcurso de las siguientes 48 horas hábiles (los días sábados, domingos y feriados no son considerados días hábiles para este tipo de operaciones). En este sentido, el Cliente es responsable de confirmar con el destinatario la conformidad de la transferencia así como de revisar los movimientos de su cuenta en el transcurso de las 48 horas para verificar la restitución de los fondos en caso de rechazo de la operación. |  |  |  |
+|  | (*) Las tasas de interés son fijas durante su período de vigencia y están expresadas en términos anuales (TEA - Tasa Efectiva Anual) sobre una base de cálculo de 360 días, pudiendo variar de acuerdo a las condiciones del mercado. |  |  |  |
+|  | Tipo de Cambio Referencial: Dólar: S/ 3.30 y Euro: S/ 3.50. Se deberá tener en cuenta el tipo de cambio vigente del día que se efectúe la operación. |  |  |  |
+|  | La empresa tiene la obligación de difundir información de conformidad con la Ley N° 28587, sus modificatorias y el Reglamento de la Ley de ITF. |  |  |  |
+|  | Los servicios y operaciones comprendidos en el Tarifario están afectos al ITF, cuya tasa se encuentra establecida en "Tarifas Generales" (Cuadro N° 91) y en www.scotiabank.com.pe |  |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 3/10
+BANCO: Scotiabank
+PRODUCTO: 088
+FILENAME: 088.md
+FILEPATH: Scotiabank/088.md
+---CONTENT_START---
+
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 4/10
+BANCO: Scotiabank
+PRODUCTO: 093
+FILENAME: 093.md
+FILEPATH: Scotiabank/093.md
+---CONTENT_START---
+
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 5/10
+BANCO: Scotiabank
+PRODUCTO: 137TarjetadeCreditoSinMembresiaVisa
+FILENAME: 137TarjetadeCreditoSinMembresiaVisa.md
+FILEPATH: Scotiabank/137TarjetadeCreditoSinMembresiaVisa.md
+---CONTENT_START---
+| | | |
+| --- | --- | --- |
+| Tasas (*) | Concepto | M.N. (S/) | M.E. (US$) |
+|  | Tasa Compensatoria Efectiva Anual (TEA) - Compras en Rotativo (en 36 meses) y Compras en Cuotas (2 hasta 36 meses) | 19.99% - 112.98% | 19.99% - 93.86% |
+|  | Tasa Efectiva Anual (TEA) - Disposición de Efectivo y Consumos en Casinos (Rotativo y Cuotas) | 95.99% | 75.99% |
+|  | Tasa Efectiva Anual (TEA) - Traslado de Deuda de otros Bancos (Rotativo y Cuotas) (1) | 9.90% - 34.99% | 9.90% - 34.99% |
+|  | Tasa Efectiva Anual (TEA) - InstaCash (Cuotas) (2) |  | 12.55% - 62.99% |
+|  | Tasa de Interés Moratorio Nominal Anual (3) | 13.32% | 10.89% |
+| Comisiones |  |  |  |
+| Categoría: Membresía |  |  |  |
+| Denominación: Membresía anual |  |  |  |
+|  | Membresía anual | No aplica | No aplica |
+| Categoría: Servicios asociados a la tarjeta de crédito |  |  |  |
+| Denominación: Envío físico de estado de cuenta |  |  |  |
+|  | Envío físico de Estado de Cuenta (4) | S/ 20.00 | No aplica |
+| Denominación: Conversión de Moneda |  |  |  |
+|  | Servicio de Conversión de Moneda (5) | 3.00% | 3.00% |
+| Categoría: Uso de canales |  |  |  |
+| Denominación: Uso de canales complementarios |  |  |  |
+|  | Uso de Cajero Automático Local (6) | 4.5% Mín S/ 15.00 Máx S/ 50.00 | 4.5% Mín US$ 6.00 (S/ 24.00) Máx US$ 20.00 (S/ 80.00) |
+|  | Uso de Cajero Automático Internacional | 4.5% Mín S/ 20.00 Máx S/ 50.00 | 4.5% Mín US$ 8.00 (S/ 32.00) Máx US$ 20.00 (S/ 80.00) |
+| Denominación: Operación en ventanilla |  |  |  |
+|  | Por operación en ventanilla (6) | 4.5% Mín S/ 20.00 Máx S/ 50.00 | 4.5% Mín US$ 8.00 (S/ 32.00) Máx US$ 20.00 (S/ 80.00) |
+| Concepto | M.N. (S/) | M.E. (US$) |
+| --- | --- | --- |
+| Categoría: Entrega de tarjetas adicionales a solicitud |  |  |
+| Denominación: Reposición de tarjeta de crédito |  |  |
+| Reposición de Tarjeta de Crédito Plástica del Titular o Adicional (7) | S/ 20.00 | No aplica |
+| Servicios Transversales | Ver Tarifa N°110 Servicios Transversales |  |
+| Gastos |  |  |
+| Seguro de Desgravamen (8) | 0.35% Tope máximo mensual por deuda en soles: S/ 20.00 | 0.35% Tope máximo mensual por deuda en dólares: US$ 5.41 (S/ 21.64) |
+| Notas: |  |  |
+| El cobro de las comisiones de Tarjetas de Crédito Visa aplican en ambas monedas. Asimismo, la comisión de Envío de Estado de Cuenta y Reposición de Tarjeta de Crédito aplican en soles. |  |  |
+| (1) Sujeto a evaluación crediticia. |  |  |
+| (2) Financiamiento adicional sujeto a evaluación crediticia. InstaCash antes llamado Xtralínea. A partir del 01 de enero del 2021 no se realizan nuevas ventas de InstaCash. |  |  |
+| (3) En caso no se cubra el pago mínimo exigible hasta la fecha de vencimiento del estado de cuenta, se devengarán intereses moratorios a la tasa indicada. Conforme a lo estipulado en la Circular N° 0008-2021-BCRP, esta tasa está sujeta a una actualización semestral establecida por el Banco Central de Reserva del Perú, la cual será publicada en nuestra página web y tarifarios. Tasa expresada en términos anuales, se aplicará en función a los días en mora. |  |  |
+| (4) Aplica solo al titular y si el cliente escogió el envío físico siempre que la Tarjeta de Crédito y/o la cuenta InstaCash mantengan deudas en el mes. EL CLIENTE podrá solicitar el no envío del estado de cuenta por medio físico, con la correspondiente exoneración de la comisión respectiva. La solicitud debe realizarse a través de los canales definidos y comunicados oportunamente por EL BANCO. |  |  |
+| (5) En el caso de transacciones que requieran conversión de moneda se procederá de acuerdo al criterio y práctica bancaria usual, al tipo de cambio vigente en EL BANCO y/o tenga establecido el operador de la Tarjeta de Crédito a la fecha de proceso o actualización de la transacción u operación monetaria. La comisión de conversión de moneda aplica sobre las transacciones (compras y disposición de efectivo) efectuadas en el extranjero en moneda diferente a dólares americanos. |  |  |
+| (6) Los canales libres de costo para disposiciones de efectivo son los cajeros automáticos de la Red Unicard, la página web y la APP Scotiabank. Para mayor información sobre nuestros canales libres de costo puede ingresar a nuestra página web www.scotiabank.com.pe y en el menú Tarjetas, sección Productos Exclusivos, podrá encontrar la opción Disposición de Efectivo. |  |  |
+| (7) La comisión por Reposición de Tarjeta de Crédito aplicará en caso de robo, sustracción, pérdida o deterioro. |  |  |
+| (8) El seguro de desgravamen será calculado multiplicando la tasa de la prima por el saldo deudor promedio diario de la Tarjeta de Crédito durante el período de facturación. Además, será aplicado por la deuda en cada moneda y hasta por el tope máximo informado. |  |  |
+| (*) Las tasas de interés son fijas durante su período de vigencia y están expresadas en términos anuales (TEA: Tasa Efectiva Anual) sobre una base de cálculo de 360 días, pudiendo variar de acuerdo a las condiciones del mercado. |  |  |
+| Tipo de cambio referencial: Dólar: S/ 4.00 y Euro: S/ 3.50. Se deberá tener en cuenta el tipo de cambio vigente del día que se efectué la operación. |  |  |
+| Los servicios y operaciones comprendidos en el Tarifario están afectos al ITF, cuya tasa se encuentra establecida en "Tarifas Generales" (Cuadro N° 91) y en www.scotiabank.com.pe |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 6/10
+BANCO: Scotiabank
+PRODUCTO: 008
+FILENAME: 008.md
+FILEPATH: Scotiabank/008.md
+---CONTENT_START---
+| Concepto | M. N. (S/.) | M. E. (US$) | Forma de Aplicación | Observaciones |
+|---|---|---|---|---|
+| Tasas (*) |  |  |  |  |
+| Cobranza de Letras |  |  |  |  |
+| Tasa Efectiva Anual (T.E.A) Letras en renovación | 26.00% | 22.00% | En la renovación. | A cargo de Aceptante |
+| Tasa Efectiva Anual (T.E.A) Por documento vencido | 26.00% | 22.00% | En la renovación. | A cargo del Aceptante |
+| Descuento de Letras |  |  |  |  |
+| Microempresa | 24.00% | 19.00% | Al desembolso | A cargo del Cedente, interés adelantado |
+| Pequeña Empresa A /Medianas Empresas/Corporativo / Inst. Financieras / Sector Gobierno / Otras Instituciones | 24% Mín S/15.00 | 18% Mín US$ 5.35 (S/ 35.20 ) | Al desembolso | A cargo del Cedente, interés adelantado |
+| Tasa Efectiva Anual (T.E.A) Letras en renovación | 43.30% | 26.10% | En la renovación | A cargo de Aceptante |
+| Tasa Efectiva Anual (T.E.A) Por documento vencido | 32.00% | 25.00% | En la cancelación | A cargo del Aceptante |
+| Tasa de Interes Moratoria Nominal Anual |  |  |  |  |
+| Personas y Negocios | 11.82% | 9.62% | En la cancelación | A cargo del Aceptante |
+| Empresas | 13.98% | 9.62% | En la cancelación | A cargo del Aceptante |
+| Comisiones |  |  |  |  |
+| Comisiones que aplican en ambos casos (Cobranza y Descuento de Letras) |  |  |  |  |
+| Por devolución de valorados (1) | S/ 3.50 | US$ 1.25 (S/ 5.00 ) | Por cada envió de documento |  |
+| Portes (2) | S/ 6.50 | US$ 2.30 (S/ 9.20 ) |  |  |
+| Concepto | M. N. (S/.) | M. E. (US$) | Forma de Aplicación | Observaciones |
+|---|---|---|---|---|
+| Por pago de letras con cheques de otros bancos | Hasta S/2,500.00: S/ 3.50 | Hasta US$700: US$ 1.25 (S/ 5.00 ) | Por monto de cheques | Aplicable al pago de letras, en cancelaciones como en renovaciones al Aceptante. |
+|  | Más de S/ 2,500.00 a S/ 12,500.00 S/ 8.50 | Más de US$ 700 y hasta US$ 3,500: US$ 3.00 (S/ 12.00 ) |  |  |
+|  | Más S/ 12,500.00 S/ 14.00 | Más de US$ 3500: US$ 5.00 (S/ 20.00 ) |  |  |
+| Comisión por Traslación de Fondos (Interplaza) | 0.50% Mín S/ 7.00 Máx S/ 350.00 | 0.50% Mín US$ 3.00 (S/ 12.00) Máx US$ 132.00 (S/ 528.00) | Por cada letra | Se cobra al cedente en la cancelación y/o renovación, y en Descuento al desembolso |
+| Por gestión notarial |  |  |  |  |
+| Lima | S/ 17.70 | US$ 6.25 (S/ 25.00 ) |  | A cargo del Cedente en la devolución o a cargo del Aceptante en la liquidación de pago. |
+| Callao | S/ 17.70 | US$ 6.25 (S/ 25.00 ) |  |  |
+| Ica | S/ 15.34 | US$ 5.40 (S/ 21.60 ) |  |  |
+| Arequipa | S/ 11.00 | US$ 3.90 (S/ 15.60 ) |  |  |
+| Chiclayo | S/ 23.60 | US$ 8.30 (S/ 33.20 ) |  |  |
+| Piura/Sullana | S/ 35.40 | US$ 12.50 (S/ 50.00 ) |  |  |
+| Chimbote | S/ 25.00 | US$ 8.80 (S/ 35.20 ) |  |  |
+| Trujillo | S/ 17.70 | US$ 6.25 (S/ 25.00 ) |  |  |
+| Cusco | S/ 11.80 | US$ 4.15 (S/ 16.60 ) |  |  |
+| Concepto | Tarifas M. N. (S/.) | Tarifas M. E. (US$) | Forma de Aplicación | Observaciones |
+|---|---|---|---|---|
+| Comisiones para Cobranza de Letras |  |  |  |  |
+| Por cancelación / devolucion y/o de renovación de letras en Cobranza Libre y/o Garantía - al Cedente | Hasta S/ 3000.00 1.00% Min S/ 15.00 | Hasta US$ 1000: 1.00% Mín US$ 6.00 (S/ 24.00 ) | En la cancelación y/o renovación | Lima y provincias (3) |
+|  | Más de S/ 3000.00 a S/ 15000.00 0.70% Min S/ 45.00 | Más de US$ 1000 y hasta US$ 5000: 0.70% Mín US$ 16.00 (S/ 64.00 ) |  |  |
+|  | Más de S/ 15000.00 0.70% Min S/ 120.00 Max S/ 180.00 | Más de US$ 5000: 0.70% Mín US$ 42.10 (S/ 168.40 ) Máx US$ 63.20 (S/ 252.80) |  |  |
+| Por renovación (sobre el importe de la letra en cartera) - al Aceptante | Hasta S/ 2,000.00 1.50% Mín S/ 17.50 | Hasta US$ 1000: 1.50% Mín US$ 6.15 (S/ 24.60 ) |  | Cobranza Libre y/o Garantía (Lima y provincias) (3) |
+|  | Más de S/ 2,000.00 a S/ 10,000.00 1.00% Mín S/ 50.00 | Más de US$ 1000 y hasta US$ 5000: 1.00% Mín US$ 17.60 (S/ 70.40 ) |  |  |
+|  | Más de S/ 10,000.00 0.75% Mín S/ 110.00 Máx S/ 250.00 | Más de US$ 5000: 0.75% Mín US$ 38.60 (S/ 154.40 ) Máx US$ 87.80 (S/ 351.20) |  |  |
+| Retención o Protesto | 3.00% Min S/ 75.00 Max S/ 165.00 | 3.00% Mín US$ 30.00 (S/ 120.00) Máx US$ 58.00 (S/ 232.00) | Por cada letra retenida o protestada | A cargo del Cedente en la devolución o a cargo del Aceptante en la liquidación de pago. |
+| Concepto | M. N. (S/.) | M. E. (US$) | Forma de Aplicación | Observaciones |
+| Listado de letras a solicitud del cliente | S/ 10.00 | US$ 3.60 (S/ 14.40 ) |  | Por requerimiento del cliente. |
+| Por emisión de carta para levantar protesto (por documento) (4) | S/ 35.00 | US$ 12.30 (S/ 49.20 ) | Por documento |  |
+| Por cobranza virtual de documentos (letras, facturas, recibos, etc.) | S/ 10.00 | US$ 3.60 (S/ 14.40 ) |  | Se aplica al momento de registrar los documentos en cartera |
+| Comisiones para Descuento de Letras |  |  |  |  |
+| Por cobranza de letras en descuento |  |  |  |  |
+| Personas y Negocios | S/ 5.00 | US$ 1.42 (S/ 5.68 ) | En el desembolso por cada documento | A cargo del Cedente. |
+| Empresas | S/ 5.00 | US$ 2.00 (S/ 8.00 ) |  |  |
+| Por devolución |  |  |  |  |
+| Personas y Negocios | S/. 12.00 | US$ 3.50 (S/ 14.00 ) | Por cada doc. devuelto por rechazo o devuelto con cargo en la cuenta del Cedente | A cargo del Cedente. |
+| Empresas (6) | S/. 20.00 | US$ 3.50 (S/ 14.00 ) |  |  |
+| Por renovación |  |  |  |  |
+| Personas y Negocios | 1.00% Min S/ 20.00 Max S/ 350.00 | 1.00% Mín US$ 6.00 (S/ 24.00 ) Máx US$ 100.00 (S/ 400.00 ) | En la renovación | A cargo del Aceptante |
+| Empresas | 1.00% Min S/ 20.00 Max S/ 350.00 | 1.00% Mín US$ 6.00 (S/ 24.00 ) Máx US$ 123.00 (S/ 492.00 ) |  |  |
+| Por Gestión de Transferencia de crédito a vencido (5) |  |  |  |  |
+| Negocios | 0.50% Min S/ 100.00 Max S/ 4695.00 | 0.50% Min US$ 28.57 (S/ 114.28 ) Máx US$ 1,341.42 (S/ 5,365.68 ) | Desde el 15° día de vencido | A cargo del Aceptante o Girador en caso de devolución por falta de pago |
+| Empresas | 0.50% Min S/ 100.00 Max S/ 4695.00 | 0.50% Min US$ 35.00 (S/ 140.00 ) Máx US$ 1,675.00 (S/ 6,700.00 ) | Desde el 15° día de vencido | A cargo del Aceptante o Girador en caso de devolución por falta de pago |
+| Retención o Protesto |  |  |  |  |
+| Personas y Negocios | 2.00% Min S/ 58.00 Max S/ 165.00 | 2.00% Min US$ 25.00 (S/ 100.00) Máx US$ 57.90 (S/ 231.60) | Por cada letra retenida o protestada | A cargo del Cedente en la devolución o a cargo del Aceptante en la liquidación de pago. |
+| Empresas (6) | 2.00% Min S/ 75.00 Max S/ 165.00 | 2.00% Min US$ 30.00 (S/ 120.00) Máx US$ 57.90 (S/ 231.60) | Por cada letra retenida o protestada | A cargo del Cedente en la devolución o a cargo del Aceptante en la liquidación de pago. |
+| Por emisión de carta para levantar protesto (Por documento. No aplica portes) | S/ 35.00 | Equiv a S/ 35.00 | Por la emisión de la carta para levantar protesto. |  |
+| Por listado de letras | S/ 10.00 | Equiv a S/ 10.00 | A solicitud del cliente | A cargo de Cedente, por cada hoja listada |
+| Cobranza de Letras - Banco Agente (**) |  |  |  |  |
+| Cobranza libre y garantía sobre letras y otros documentos: |  |  |  |  |
+| Portes: |  | Se aplica la comisión vigente establecida por nuestro Banco Agente: BCP | Por documento | Cobro al cedente sobre el monto del documento. |
+| Transferencia de fondos |  |  |  |  |
+| Protesto de Documentos. Aplicable a documentos en cobranza y descontados |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Cobranzas se aplicará los portes generales a toda operación que genere una nota de aviso u operación. |  |  |  |  |
+| (1) Devolución de letras canceladas o renovadas a cargo del aceptante. Aplica solo en el caso que el pago se efectúe posterior al vencimiento. |  |  |  |  |
+| (2) Se aplica en la cancelación, renvoacion, devolucion de letras y facturas negociables, en descuento Cobranza y garantia. |  |  |  |  |
+| (3) Entiéndase por provincias a aquellas en las que el Banco tiene oficinas. |  |  |  |  |
+| (4) No aplicar portes |  |  |  |  |
+| (5) No aplica para Persona Natural con Negocio y Microempresa |  |  |  |  |
+| (6) No aplica para Microempresa o Pequeña Empresa |  |  |  |  |
+| Para el caso de Descuento de Letras: |  |  |  |  |
+| Todos los conceptos vertidos en el presente tarifario son comisiones, excepto aquellos donde se especifique el término "gasto". |  |  |  |  |
+| - En caso el Cliente sea una persona natural con negocio propio, se adicionará un seguro de desgravamen, cuyo detalle puede ser consultado en el Tarifario de "Seguros Obligatorios" (Tarifario N° 89 del Tarifario de Agencias y en Otras Tarifas en Medios Virtuales). |  |  |  |  |
+| - En caso las operaciones sean fijas durante su período de vigencia y están expresadas en términos anuales (TEA: Tasa Efectiva Anual) sobre una base de cálculo de 360 días, pudiendo variar de acuerdo a las condiciones del mercado. |  |  |  |  |
+| (**) Para mayor detalle acerca de las Comisiones del Banco Agente puede consulta el Tarifario del BCP. |  |  |  |  |
+| Gestión de Cobranza (llamadas, visitas, envío de carta notarial, etc), con la finalidad de lograr el pago por parte del cliente. |  |  |  |  |
+| (*) Las tasas de interés son fijas durante su período de vigencia y están expresadas en términos anuales (TEA: Tasa Efectiva Anual) sobre una base de cálculo de 360 días, pudiendo variar de acuerdo a las condiciones del mercado. |  |  |  |  |
+| Tipo de Cambio Referencial: Dólar: S/ 4.00 y Euro: S/ 4.50. Se deberá tener en cuenta el tipo de cambio vigente del día que se efectué la operación. |  |  |  |  |
+| La empresa tiene la obligación de difundir información de conformidad con la Ley N° 28587, sus modificatorias y el Reglamento correspondiente. |  |  |  |  |
+| Los servicios y operaciones comprendidos en el Tarifario están afectos al ITF, cuya tasa se encuentra establecida en "Tarifas Generales" (Cuadro N° 91) y en www.scotiabank.com.pe |  |  |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 7/10
+BANCO: Scotiabank
+PRODUCTO: 062
+FILENAME: 062.md
+FILEPATH: Scotiabank/062.md
+---CONTENT_START---
+| Concepto | M. N. (S/.) | M. E. (US$) | Forma de Aplicación | Observaciones |
+| --- | --- | --- | --- | --- |
+| **Tasas (*)** |  |  |  |  |
+| **Banca Empresa** |  |  |  |  |
+| DEPÓSITOS A PLAZO EN NUEVOS SOLES O EN DÓLARES AMERICANOS |  |  |  |  |
+| 7 días | 0.750% | 0.700% |  | Por cancelación anticipada se pagará la menor tasa de interés de las cuentas de ahorros según tarifario vigente- TREA 0% |
+| 30 días | 0.950% | 0.100% |  |  |
+| 60 días | 1.550% | 0.400% |  |  |
+| 90 días | 1.750% | 1.000% |  |  |
+| 180 días | 2.150% | 1.100% |  |  |
+| 365 días | 1.650% | 1.000% |  |  |
+| 720 días | 1.450% | 0.700% |  |  |
+| DEPÓSITOS A PLAZO EN EUROS |  |  |  |  |
+| 30 días | 0.000% |  |  | Por cancelación anticipada se pagará la menor tasa de interés de las cuentas de ahorros según tarifario vigente- TREA 0% |
+| 60 días | 0.000% |  |  |  |
+| 90 días | 0.000% |  |  |  |
+| 180 días | 0.000% |  |  |  |
+| 999 días | 0.000% |  |  |  |
+| **Banca Negocios** |  |  |  |  |
+| DEPÓSITOS A PLAZO EN NUEVOS SOLES O EN DÓLARES AMERICANOS |  |  |  |  |
+| 7 días | 0.750% | 0.700% |  | Por cancelación anticipada se pagará la menor tasa de interés de las cuentas de ahorros según tarifario vigente- TREA 0% |
+| 30 días | 0.950% | 0.100% |  |  |
+| 60 días | 1.550% | 0.400% |  |  |
+| 90 días | 1.750% | 1.000% |  |  |
+| 180 días | 2.150% | 1.100% |  |  |
+| 365 días | 1.650% | 1.000% |  |  |
+| 720 días | 1.450% | 0.700% |  |  |
+| DEPÓSITOS A PLAZO EN EUROS |  |  |  |  |
+| 30 días | 0.000% |  |  | Por cancelación anticipada se pagará la menor tasa de interés de las cuentas de ahorros según tarifario vigente- TREA 0% |
+| 60 días | 0.000% |  |  |  |
+| 90 días | 0.000% |  |  |  |
+| 180 días | 0.000% |  |  |  |
+| 999 días | 0.000% |  |  |  |
+| **Comisiones** |  |  |  |  |
+| Servicios Transversales |  |  | Ver Tarifa N°110 Servicios Transversales |  |
+| | | | | |
+| --- | --- | --- | --- | --- |
+| **Concepto** | **Tarifas** | **Forma de Aplicación** | **Observaciones** |  |
+|  | **M. N. (S/.)** | **M. E. (US$)** |  |  |
+| **Parámetros del Producto** |  |  |  |  |
+| Monto mínimo de apertura en Soles y Dólares |  | € 500.00 (S/. 2,250.00) | Equiv a US$500.00 |  |
+| Monto mínimo de apertura en Euros |  | 500.00 € |  |  |
+| Restricciones: Sólo se puede realizar operaciones en efectivo (retiros y abonos) en la moneda Euros en las siguientes agencias en Lima: Callao, Centro Histórico, Chacarilla 1, Conquistadores, C.C. Jockey Plaza 1, Larco P, Miguel Dasso y San Isidro, y en provincias: Cusco, Mercaderes y Trujillo. Para Banca Privada: Miguel Dasso, Camélias y Panorama |  |  |  |  |
+| (*) Las tasas de interés son fijas durante su período de vigencia y están expresadas en términos anuales (TEA: Tasa Efectiva Anual) sobre una base de cálculo de 360 días, pudiendo variar de acuerdo a las condiciones del mercado. |  |  |  |  |
+| Tipo de Cambio Referencial: Dólar: S/. 3.70 y Euro: S/. 4.50. Se deberá tener en cuenta el tipo de cambio vigente del día que se efectué la operación. |  |  |  |  |
+| La empresa tiene la obligación de difundir información de conformidad con la Ley N° 28587, sus modificatorias y el Reglamento correspondiente. |  |  |  |  |
+| Los servicios y operaciones comprendidos en el Tarifario están afectos al ITF, cuya tasa se encuentra establecida en "Tarifas Generales" (Cuadro N° 91 y en www.scotiabank.com.pe / Tarifario / Otras Tarifas / Tarifas Generales). |  |  |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 8/10
+BANCO: Scotiabank
+PRODUCTO: 118_Tarjeta_Credito_AAdvantage_Infinite_Visa
+FILENAME: 118_Tarjeta_Credito_AAdvantage_Infinite_Visa.md
+FILEPATH: Scotiabank/118_Tarjeta_Credito_AAdvantage_Infinite_Visa.md
+---CONTENT_START---
+| Concepto | M.N. (S/) | M.E. (US$) |
+|---|---|---|
+| Tasas Compensatoria Efectiva Anual (TEA.) - Compras Rotativo y Cuotas (2 hasta 36 meses). | 19.99% - 112.99% | 19.99% - 94.99% |
+| Tasa Efectiva Anual (TEA) - Disposición de Efectivo y Consumos en Casinos (Rotativo y Cuotas). | 112.99% | 94.99% |
+| Tasa Efectiva Anual (TEA) - Traslado de Deuda de otros Bancos (Rotativo y Cuotas) (1) | 9.90% - 59.99% | 9.90% - 59.99% |
+| Tasa Efectiva Anual (TEA) - InstaCash (Cuotas) (2) |  | 12.55% - 62.99% |
+| Tasa de Interés Moratorio Nominal Anual (3) | 11.78% | 9.45% |
+| Comisiones |  |  |
+| Categoría: Membresía |  |  |
+| Denominación: Membresía anual |  |  |
+| Membresía anual | No aplica | US$ 180.00 (S/ 720.00 ) |
+| Categoría: Servicios asociados a la tarjeta de crédito |  |  |
+| Denominación: Envío físico de estado de cuenta |  |  |
+| Envío físico de Estado de Cuenta (4) | S/ 20.00 | No aplica |
+| Denominación: Conversión de Moneda |  |  |
+| Servicio de Conversión de Moneda (5) | 3.00% | 3.00% |
+| Categoría: Uso de canales |  |  |
+| Denominación: Uso de canales complementarios |  |  |
+| Uso de Cajero Automático Local (6) | 4.5% Mín S/ 15.00 Máx S/ 50.00 | 4.5% Mín US$ 6.00 (S/ 24.00) Máx US$ 20.00 (S/ 80.00) |
+| Uso de Cajero Automático Internacional | No aplica | 4.5% Mín US$ 8.00 (S/ 32.00) Máx US$ 20.00 (S/ 80.00) |
+| Denominación: Operación en ventanilla |  |  |
+| Por operación en ventanilla (6) | 4.5% Mín S/ 20.00 Máx S/ 50.00 | 4.5% Mín US$ 8.00 (S/ 32.00) Máx US$ 20.00 (S/ 80.00) |
+| | | |
+|---|---|---|
+| Cambios vigentes desde: 23.10.2025 | Última actualización: 23.10.2025 |  |
+| Concepto | M.N. (S/) | M.E. (US$) |
+| Categoría: Entrega de tarjetas adicionales a solicitud |  |  |
+| Denominación: Reposición de tarjeta de crédito |  |  |
+| Reposición de Tarjeta de Crédito Plástica del Titular o Adicional (7) | S/ 20.00 | No aplica |
+| Servicios Transversales | Ver Tarifa N°110 Servicios Transversales |  |
+| Gastos |  |  |
+| Seguro de Desgravamen (9) | No aplica | 0.35% Tope máximo mensual: US$ 5.41 (S/ 21.64) |
+| Notas: |  |  |
+| El cobro de las comisiones de Tarjetas de Crédito aplica según las transacciones realizadas, a excepción del cobro de la comisión de Membresía Anual que sólo aplica en dólares. Asimismo, la comisión de Envío Físico de Estado de Cuenta y Reposición de Tarjeta de Crédito aplican en soles. |  |  |
+| (1) Sujeto a evaluación crediticia. |  |  |
+| (2) Financiamiento adicional sujeto a evaluación crediticia. InstaCash antes llamado Xtralinea. A partir del 01 de Enero del 2021 no se realizan nuevas ventas de InstaCash. |  |  |
+| (3) En caso no se cubra el pago mínimo exigible hasta la fecha de vencimiento del estado de cuenta, se devengarán intereses moratorios a la tasa indicada. Conforme a lo estipulado en la Circular N° 0008-2021-BCRP, esta tasa está sujeta a una actualización semestral establecida por el Banco Central de Reserva del Perú, la cual será publicada en nuestra página web y tarifarios. Tasa expresada en términos anuales, se aplicara en función a los días en mora. |  |  |
+| (4) Aplica solo al titular y si el cliente escogió el envío físico siempre que la Tarjeta de Crédito y/o la cuenta InstaCash mantengan deuda en el mes. EL CLIENTE podrá solicitar el no envío del estado de cuenta por medio físico, con la correspondiente exoneración de la comisión respectiva. La solicitud debe realizarse a través de los canales definidos y comunicados oportunamente por EL BANCO. |  |  |
+| (5) En el caso de transacciones que requieran conversión de moneda se procederá de acuerdo al criterio y práctica bancaria usual, al tipo de cambio vigente en EL BANCO y/o tenga establecido el operador de la Tarjeta de Crédito a la fecha de proceso o actualización de la transacción u operación monetaria. La comisión de conversión de moneda aplica sobre las transacciones (compras y disposición de efectivo) efectuadas en el extranjero en moneda diferente a dólares americanos. |  |  |
+| (6) Los canales libres de costo para disposiciones de efectivo son los cajeros automáticos de la Red Unicard, la página web y la APP Scotiabank. Para mayor información sobre nuestros canales libres de costo puede ingresar a nuestra página web www.scotiabank.com.pe y en el menú Tarjetas, sección Productos Exclusivos, podrá encontrar la opción Disposición de Efectivo. |  |  |
+| Concepto | M.N. (S/) | M.E. (US$) |
+|---|---|---|
+| (7) La comisión por Reposición de Tarjeta de Crédito aplicará en caso de robo, sustracción, pérdida o deterioro. |  |  |
+| (8) El cobro de la prima mensual del seguro de desgravamen se realiza en dólares americanos, considerando la deuda en soles y dólares. Para conocer la fórmula de cálculo aplicada, ingresa a nuestra página web, dirígete a la sección Tarjetas de Crédito, selecciona tu tarjeta y accede a la opción Documentos, donde encontrarás el archivo titulado Fórmulas. |  |  |
+| (*) Las tasas de interés son fijas durante su período de vigencia y están expresas en términos anuales (TEA: Tasa Efectiva Anual) sobre una base de cálculo de 360 días, pudiendo variar de acuerdo a las condiciones del mercado. |  |  |
+| Tipo de cambio referencial: Dólar: S/ 4.00 y Euro: S/ 3.50. Se deberá tener en cuenta el tipo de cambio vigente del día que se efectué la operación. |  |  |
+| Los servicios y operaciones comprendidos en el Tarifario están afectos al ITF, cuya tasa se encuentra establecida en "Tarifas Generales" (Cuadro N° 91) y en www.scotiabank.com.pe |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 9/10
+BANCO: Scotiabank
+PRODUCTO: 23-Prestamos-Hipotecarios-CAT
+FILENAME: 23-Prestamos-Hipotecarios-CAT.md
+FILEPATH: Scotiabank/23-Prestamos-Hipotecarios-CAT.md
+---CONTENT_START---
+| Concepto | M. N. (S/) | M. E. (US$) | Forma de Aplicación | Observaciones |
+| --- | --- | --- | --- | --- |
+| Hipotecario Tradicional |  |  |  |  |
+| Plazo menor a 15 años |  |  |  |  |
+| Montos hasta S/ 90,000 o equivalente en US$ | 11.00% a 12.50% | 10.50% a 11.70% |  |  |
+| Montos hasta S/ 210,000 o equivalente en US$ | 10.50% a 12.00% | 10.00% a 11.00% |  |  |
+| Montos hasta S/ 300,000 o equivalente en US$ | 10.00% a 11.50% | 9.00% a 10.50% |  |  |
+| Montos mayores a S/ 300,000.00 o equivalente en US$ | 9.50% a 11.00% | 8.70% a 9.70% |  | En función al monto y plazo solicitado. Tasa sujeta a variación de acuerdo a condiciones del mercado. Producto no vigente. |
+| Plazo mayor a 15 años |  |  |  |  |
+| Montos hasta S/ 90,000 o equivalente en US$ | 12.50% a 14.00% | 12.00% a 13.50% |  |  |
+| Montos hasta S/ 210,000 o equivalente en US$ | 12.00% a 13.50% | 11.00% a 12.50% |  |  |
+| Montos hasta S/ 300,000 o equivalente en US$ | 11.50% a 13.00% | 10.50% a 12.00% |  |  |
+| Montos mayores a S/ 300,000 o equivalente en US$ | 11.00% a 12.50% | 10.50% a 11.50% |  |  |
+| Hipotecario Tasa Mixta |  |  |  |  |
+| Tasa Fija 5 años | 10.60% a 11.90% | 11.10% a 12.20% |  | A partir del año 6: Tasa de Interés de Referencia (1) + 6.00%. En función al monto solicitado. Montos a partir de US$ 30,000 |
+| Tasa Fija 10 años | 10.80% a 12.10% | 11.30% a 12.40% |  | A partir del año 11: Tasa de Interés de Referencia BCRP (1) + 6.00%. En función al monto solicitado. Montos a partir de US$ 30,000 |
+| Tasa Fija 15 años | 11.00% a 12.50% | NA |  | A partir del año 16: Tasa de Interés de Referencia BCRP (1) + 6.00%. En función al monto solicitado. Montos a partir de US$ 30,000 |
+| Concepto | M. N. (S/) | M. E. (US$) | Forma de Aplicación | Observaciones |
+|---|---|---|---|---|
+| **Hipotecario Decreciente** |  |  |  |  |
+|  | 11.00% a 12.05% | 11.70% a 12.60% |  | Tasa Fija decreciente por 5 años. A partir del año 6 Limabor (1) + 5.00%. En función al monto solicitado. Reducción anual de 0.20% durante 5 años por buen comportamiento de pago. Montos a partir de US$ 40,000. Producto no vigente. |
+| **Hipotecario Cuota Gratis** |  |  |  |  |
+| Plazo Máximo 20 años | Hasta 14.15% | Hasta 14.15% |  | Importe máximo S/ 355,500 o US$ 139,138. Tasa fija durante todo el plazo del crédito. Beneficio de la cuota gratis al año por el plazo del crédito otorgado por el pago puntual de 11 cuotas consecutivas y siendo la cuota 12 gratis. El cliente no podrá presentar ni un solo día de retraso. |
+| **Hipotecario para Peruanos No Residentes** |  |  |  |  |
+| Hipotecario Tradicional | 15.00% | 15.00% |  |  |
+| Tasa Mixta Fija a 5 años | 15.00% | 15.00% |  | A partir del año 6: Tasa de Interés de Referencia BCRP (1) + 6.00% |
+| Tasa Mixta Fija a 10 años | 15.00% | 15.00% |  | A partir del año 11: Tasa de Interés de Referencia BCRP (1) + 6.00% |
+| **Hipotecario para Construcción** |  |  |  |  |
+| Hipotecario Tradicional | 11.95% a 13.80% | 12.45% a 14.05% |  |  |
+| Tasa Mixta Fija a 5 años | 11.60% a 12.90% | 12.10% a 13.20% |  | A partir del año 6: Tasa de Interés de Referencia BCRP (1) + 6.00% |
+| Tasa Mixta Fija a 10 años | 11.80% a 13.10% | 12.30% a 13.40% |  | A partir del año 11: Tasa de Interés de Referencia BCRP (1) + 6.00% |
+| Concepto | M. N. (S/) | M. E. (US$) | Forma de Aplicación | Observaciones |
+|---|---|---|---|---|
+| Tasa Mixta Fija a 15 años | 12.00% a 13.30% | NA |  | A partir del año 16: Tasa de Interés de Referencia BCRP (1) + 6.00% |
+| Hipotecario Tasa Fija Bien Terminado |  |  |  |  |
+| Plazo Hasta 25 años | 15.00% | 15.00% |  |  |
+| Hipotecario Tasa Fija Bien Futuro |  |  |  |  |
+| Plazo Hasta 25 años | 15.00% | 15.00% |  |  |
+| Tasa de Interés Moratoria Nominal Anual (2) | 11.78% | 9.45% |  |  |
+| Comisiones |  |  |  |  |
+| Categoría: Servicios asociados al crédito |  |  |  |  |
+| Denominación: Envío físico de estado de cuenta (3) |  |  |  |  |
+| Envío físico de Estado de Cuenta (3) | S/ 11.00 | US$ 4.00 (S/ 16.00 ) | Dentro de la Cuota Manual |  |
+| Denominación: Modificación de condiciones |  |  |  |  |
+| Modificación de condiciones | S/ 300.00 | US$ 95.00 (S/ 380.00 ) |  | Aplica para todas las modificaciones post desembolso del crédito excepto para las modificaciones por endoso de póliza de seguro. |
+| Denominación: Evaluación de póliza de seguro endosada para el bien |  |  |  |  |
+| Estudio de pólizas endosadas | - | US$ 50.00 (S/ 200.00 ) |  | Aplica solo para el seguro del bien (incendio). No aplica para el seguro de desgravamen. |
+| Servicios Transversales |  |  | Consultar Tarifario N°110 Servicios Transversales |  |
+| Gastos |  |  |  |  |
+| Gastos Notariales |  |  |  | Según tarifario de Notaría de la localidad correspondiente |
+| Gastos Registrales (4) | Según arancel de registros públicos |  | Antes del desembolso. Se cancela en Notaría. | Arancel que cobra registros públicos por inscripción de Bloqueo Registral, Compra-Venta e inscripción de hipoteca a favor del Banco. |
+|---|---|---|---|---|
+| Desglose de Gastos: |  |  |  |  |
+| Bloqueo | S/ 33.00 |  | por cada inmueble |  |
+| Gravamen | S/ 33.00 |  | por cada inmueble |  |
+| Registro | Precio Venta x Tipo cambio x (3/1000) + S/ 33.00 |  | por cada ficha |  |
+| Constitución | Importe del Gravamen x Tipo de cambio x (1.5/1000) + S/ 33.00 |  | por cada ficha |  |
+| Levantamiento | Importe del Gravamen x Tipo de cambio x (1.5/1000) + S/ 33.00 |  | por cada ficha |  |
+| Notas: |  |  |  |  |
+| (1) Tasa de Interés de Referencia BCRP: Tasa de Interés que el BCRP fija con la finalidad de establecer un nivel de tasa de interés de referencia para las operaciones interbancarias, la cual tiene efectos sobre las operaciones de las entidades financieras con el público. Esta tasa es publicada mensualmente en la página del BCRP (www.bcrp.gob.pe). TEA Mixta compuesta por un componente fijo y uno variable. Transcurrido el periodo de la TEA fija automáticamente la TEA será variable tomando como indicador la tasa de referencia del Banco Central de Reserva del Perú (BCRP) de acuerdo a la moneda en la que se otorga el crédito más el 6.00%. Esta tasa tendrá un reprecio anual durante el periodo de vigencia del plazo flotante del crédito. |  |  |  |  |
+| (2) En caso de retraso en el pago de la cuota correspondiente o de cualquier otro importe a su cargo, se devengarán intereses moratorios según la tasa de interés moratoria anual máxima publicada por el Banco Central de Reserva del Perú (BCRP), dichos intereses serán calculados sobre el monto impago durante todo el plazo en que el cliente se encuentre en incumplimiento y de forma adicional a la TEA pactada. Queda establecido que la tasa de interés moratoria pactada en ningún caso podrá exceder la tasa máxima de interés moratoria permitida, de acuerdo a las normas legales aplicables. Si así fuera, se aplicará esta última. |  |  |  |  |
+| (3) El CLIENTE tendrá la opción de solicitar el no Envío físico de Estados de Cuenta. Si opta por el Envío virtual de la información se le exonera de la comisión respectiva. La solicitud debe realizarse en cualquiera de las agencias de Scotiabank. |  |  |  |  |
+| (4) Los Gastos Registrales pueden variar según Tarifa de SUNARP. |  |  |  |  |
+| Todos los créditos hipotecarios deben contar con un Seguro de Desgravamen y un Seguro Todo Riesgo (Seguro del Bien) para más información sobre las tarifas aplicables a estos seguros puede consultarse nuestros Tarifarios de agencias (Tarifa N°089 Seguros Obligatorios) y en nuestros Tarifarios de la web del banco (Tarifas / Servicios Notariales / Otras Tarifas / Seguros Obligatorios). |  |  |  |  |
+| Además, todos los créditos hipotecarios necesitan una tasación, la cual es solicitada por Scotiabank a un tercero, este gasto es trasladado al cliente y la tarifa aplicable a este servicio puede consultarse en nuestros Tarifarios de agencias (Tarifa N° 87 Prendas y Valoraciones) y en nuestros Tarifarios publicados en la web del banco (Tarifas / Servicios Notariales / Otras Tarifas / Prendas y Valoraciones). |  |  |  |  |
+| (*) Las tasas de interés son fijas durante su período de vigencia y están expresadas en términos anuales (TEA: Tasa Efectiva Anual) sobre una base de cálculo de 360 días, pudiendo variar de acuerdo a las condiciones del mercado. |  |  |  |  |
+| Tipo de Cambio Referencial: Dólar: S/ 4.00 y Euro: S/ 4.50. Se deberá tener en cuenta el tipo de cambio vigente del día que se efectué la operación. |  |  |  |  |
+| Los servicios y operaciones comprendidos en el Tarifario están afectos al ITF, cuya tasa se encuentra establecida en "Tarifas Generales" (Cuadro N° 91) y en www.scotiabank.com.pe |  |  |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 10/10
+BANCO: Scotiabank
+PRODUCTO: 053
+FILENAME: 053.md
+FILEPATH: Scotiabank/053.md
+---CONTENT_START---
+| Concepto | M. N. (S/.) | M. E. (US$) | Forma de Aplicación | Observaciones |
+|---|---|---|---|---|
+| Corporativo / Inst. Financieras / Sector Gobierno / Otras Instituciones / Medianas Empresas | 26.00% | 22.00% | Al desembolso | A cargo del Cedente, interés adelantado. |
+| Pequeña Empresa / Micro Empresa / Pref. Premium / Preferente / Personal / Estándar / Polo Dirección Interés compensatorio por documento vencido (Medianas Empresas, Corporativo / Inst. Financieras / Sector Gobierno / Otras Instituciones) | 29.00% | 21.00% | Al desembolso | A cargo del Cedente, interés adelantado. |
+| Tasa Efectiva Anual (T.E.A) Interés Moratorio | 15.25% | 12.00% | En la cancelación | A cargo del Aceptante. |
+| Comisiones para Factoring de Letras y Facturas | | | | |
+| Portes | S/. 6.50 | Equiv a S/.6.50 | Al envío de información por cada documento | A cargo del Cedente, aplicable por cada documento |
+| Por Devolución de documentos en la calificación | S/. 5.00 | Equiv a S/.5.00 | Por cada documento rechazado | A cargo del Cedente. |
+| Transferencia de crédito a vencido | 0.50% Min S/. 100.00 Max S/. 4695.00 | 0.50% Min Equiv S/. 100.00 Max Equiv S/.4695.00 | Por cada documento | A cargo del Aceptante. |
+| Por pago de letras con cheque de otro banco | Hasta S/.2,000 S/.3.00 Más de S/.2,000 a S/.10,000 S/.7.50 | Hasta US$700.00 Equiv S/. 3.00 Más de US$700.00 a US$3,500 Equiv S/. 7.50 | Sobre el monto del cheque | A cargo del Aceptante. |
+| Concepto | Tarifas | Forma de Aplicación | Observaciones |
+|---|---|---|---|
+|  | M. N. (S/.) | M. E. (US$) |  |
+| (*) Las tasas de interés son fijas durante su período de vigencia y están expresadas en términos anuales (TEA: Tasa Efectiva Anual) sobre una base de cálculo de 360 días, pudiendo variar de acuerdo a las condiciones del mercado. |  |  |  |
+| Tipo de Cambio Referencial: Dólar: S/ 2.70 y Euro: S/ 3.50. Se deberá tener en cuenta el tipo de cambio vigente del día que se efectúe la operación. |  |  |  |
+| La empresa tiene la obligación de difundir información de conformidad con la Ley N° 28587, sus modificatorias y el Reglamento correspondiente. |  |  |  |
+| Los servicios y operaciones comprendidos en el Tarifario están afectos al ITF, cuya tasa se encuentra establecida en "Tarifas Generales" (Cuadro N° 91 y en www.scotiabank.com.pe / Tarifario / Otras Tarifas / Tarifas Generales). |  |  |  |
+---CONTENT_END---
+

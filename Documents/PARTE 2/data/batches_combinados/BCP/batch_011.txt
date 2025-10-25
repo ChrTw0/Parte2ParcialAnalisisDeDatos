@@ -1,0 +1,98 @@
+---DOCUMENT_START---
+FILE_NUMBER: 1/3
+BANCO: BCP
+PRODUCTO: Financiamiento_ElectrónicoAdobe_PDF
+FILENAME: Financiamiento_ElectrónicoAdobe_PDF.md
+FILEPATH: BCP/Financiamiento_ElectrónicoAdobe_PDF.md
+---CONTENT_START---
+| Categoria | TASA | CONCEPTO | Vigencia desde | OBSERVACIONES |
+|---|---|---|---|---|
+| Financiamientos Electrónicos - Productos Crediticios para Empresas |  |  |  | Esta comisión aplica para operaciones que cumplan con lo siguiente: Operaciones de más de 180 días y el plazo remanente de la operación es mayor a 45 días. |
+|  |  |  |  |  |
+|  |  | 1.1 Comisión de Prepago |  |  |
+|  | 1.5% | Por año o fracción con un máximo de 3% | 22/11/2024 |  |
+|  | 1.5% | Por año o fracción con un máximo de 5% | 22/11/2024 |  |
+|  |  | 1.1.1 Moneda Nacional/Extranjera para Banca Corporativa, Banca Empresa y Banca Institucional |  |  |
+|  |  | 1.1.2 Moneda Nacional/Extranjera para Banca de Negocios |  |  |
+| * Los servicios y operaciones comprendidos en el tarifario están afectos al ITF cuya tasa es de 0.005. Para mayor información consultar en www.viabcp.com/ Información de Productos/ Información sobre Impuesto a las Transacciones Financieras (ITF) |  |  |  |  |
+Datos elaborados por BCP para uso Interno
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 2/3
+BANCO: BCP
+PRODUCTO: Tarjeta_de_Credito_American_Express_BlackAdobe_PDF
+FILENAME: Tarjeta_de_Credito_American_Express_BlackAdobe_PDF.md
+FILEPATH: BCP/Tarjeta_de_Credito_American_Express_BlackAdobe_PDF.md
+---CONTENT_START---
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 1 Comisiones por: Membresía |  |  |  |  |  |  |
+| 1.1 Membresía anual |  |  |  |  |  |  |
+| 1.1.1 Tarjeta American Express Black LATAM Pass |  | S/ 400 |  | Anual | 01/01/2021 | Si utilizó su tarjeta en cada uno de los doce meses previos al aniversario y el consumo promedio en ese periodo fue mayor a S/ 3,500 mensuales, le exoneraremos del pago de comisión de membresía. Para el cálculo del consumo promedio se tomarán en cuenta las compras, disposición de efectivo, efectivo preferente, compra de deuda, pago de servicios y/o débitos automáticos. *Aplica para tarjetas de crédito solicitadas a partir del 01/01/2021. Para las tarjetas de crédito solicitadas antes del 01/01/2021, el monto de exoneración será de S/ 5,000. |
+| 2 Comisiones por: Servicios asociados al crédito |  |  |  |  |  |  |
+| 2.1 Envío físico de estado de cuenta |  | S/ 10 |  | Mensual | 01/01/2021 |  |
+| 3 Comisiones por: Uso de canales |  |  |  |  |  |  |
+| 3.1 Uso de cajeros automáticos BCP |  |  |  |  |  |  |
+| 3.1.1 Moneda nacional | 4% | S/ 15 | S/ 50 | Por operación | 01/01/2021 |  |
+| 3.1.2 Moneda extranjera | 4% | $ 6 [S/ 23.70] | $ 20 [S/ 79.00] | Por operación | 01/01/2021 |  |
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 3.2 Operaciones en ventanilla |  |  |  |  |  | Aplica solo si retiras efectivo con tu tarjeta de crédito en ventanilla ya que la comisión corresponde al uso del canal físico. Recuerda que en Agentes BCP y en nuestra página web no se cobra esta comisión. |
+| 3.2.1 Moneda nacional | 4% | S/ 20 | S/ 50 | Por operación | 01/01/2021 |  |
+| 3.2.2 Moneda extranjera | 4% | $ 8 [S/ 31.60] | $ 20 [S/ 79.00] | Por operación | 01/01/2021 |  |
+| 3.3 Uso de otros cajeros automáticos |  |  |  |  |  |  |
+| 3.3.1 Moneda nacional | 4% | S/ 20 | S/ 50 | Por operación | 01/01/2021 |  |
+| 3.3.2 Moneda extranjera | 4% | $ 8 [S/ 31.60] | $ 20 [S/ 79.00] | Por operación | 01/01/2021 |  |
+| 4 Comisiones por entrega de tarjetas adicionales a solicitud |  |  |  |  |  |  |
+| 4.1 Reposición de tarjeta de crédito |  |  |  |  |  |  |
+| 4.1.1 Moneda nacional |  | S/ 25 |  | Por operación | 26/09/2023 |  |
+| 5 Seguros, Gastos y Penalidad |  |  |  |  |  |  |
+| 5.1 Seguro de Desgravamen Individual | 0.285% | S/ 20 | Mensual | 01/04/2023 | Aplica sobre el saldo deudor promedio (suma de los saldos deudores diarios de tu ciclo de facturación, dividido entre la cantidad de días del ciclo). La prima incluye las comisiones por comercialización del seguro equivalente a 0.1596% del saldo deudor. La prima no incluye IGV |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 3/3
+BANCO: BCP
+PRODUCTO: Legal_Persona_JurídicaAdobe_PDF
+FILENAME: Legal_Persona_JurídicaAdobe_PDF.md
+FILEPATH: BCP/Legal_Persona_JurídicaAdobe_PDF.md
+---CONTENT_START---
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | VIGENCIA | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 1 Mantenimiento |  |  |  |  |  |  |
+| 1.1 Negocios |  |  |  |  |  |  |
+| 1.1.1 Versión 1 |  | $ 35 [S/ 138.25] |  | Mensual | 05/10/2011 | Incluye las siguientes funcionalidades sin costo adicional: - Consulta de Saldos y últimos movimientos (180 días) - Consulta de Créditos Comerciales - Transferencias entre cuentas propias y terceros* - Transferencias a BCP Miami - Transferencias a bancos del exterior - Transferencias a otros bancos locales - Consulta y Pago de Letras y Facturas - Web de Proveedores - Descarga diaria de movimientos - Consulta de inversiones (plazo fijo) - Importación masiva de transf. bancos del exterior - Importación masiva de transf. otros bancos locales - Transferencias con tipo de cambio negociado - Pago de Servicios (Movistar, Luz del Sur, Edelnor) - Pago de Haberes (con transf. interbancaria), CTS y Proveedores* (con cheque de gerencia y con transf. interbancaria) - 1 empresa afiliada, 4 cuentas afiliadas y 4 usuarios permitidos - *En el caso de Transferencias a Terceros con cuentas BCP y Pago a proveedor con cuenta BCP, la comisión de mantenimiento incluye hasta 2000 operaciones de transferencia y pago a proveedor, siendo que a partir de la operación 2001 se cobrará S/. 0.50 (cincuenta céntimos) por cada operación adicional. |
+| Categoria | TASA | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+|---|---|---|---|---|---|
+| 1.1.2 Versión 3 | $ 50 [S/ 197.50] |  | Mensual | 05/10/2011 | Incluye las siguientes funcionalidades sin costo adicional: - Consulta de Saldos y últimos movimientos (180 días) - Consulta de Créditos Comerciales - Transferencias entre cuentas propias y terceros* - Transferencias a BCP Miami - Transferencias a bancos del exterior - Transferencias a otros bancos locales - Consulta y Pago de Letras y Facturas - Web de Proveedores - Descarga diaria de movimientos - Consulta de inversiones (plazo fijo) - Importación masiva de transf. bancos del exterior - Importación masiva de transf. otro bancos locales - Transferencias con tipo de cambio negociado - Pago de Servicios (Movistar, Luz del Sur, Edelnor) - Administración de remesas - Pago de Haberes (con transf. interbancaria), CTS y Proveedores* (con cheque de gerencia y con transf. interbancaria) - Pago de Dividendos - 3 empresas afiliadas, 10 cuentas afiliadas y 6 usuarios permitidos - *En el caso de Transferencias a Terceros con cuentas BCP y Pago a proveedor con cuenta BCP, la comisión de mantenimiento incluye hasta 2000 operaciones de transferencia y pago a proveedor, siendo que a partir de la operación 2001 se cobrará S/. 0.50 (cincuenta céntimos) por cada operación adicional. |
+| 1.2 Institucional y Empresa |  |  |  |  |  |
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 1.2.1 Institucional y Empresa |  | S/ 70 [S/ 276.50] |  | Mensual | 07/03/2018 | Especial Empresas Incluye las siguientes funcionalidades sin costo adicional: - Consulta de Saldos y últimos movimientos (180 días) - Consulta de Créditos Comerciales - Transferencias entre cuentas propias y terceros* - Transferencias a BCP Miami - Transferencias a bancos del exterior - Transferencias a otros bancos locales - Consulta y Pago de Letras y Facturas - Web de Proveedores - Descarga diaria de movimientos - Consulta de inversiones (plazo fijo) - Importación masiva de transf. bancos del exterior - Importación masiva de transf. otro bancos locales - Transferencias con tipo de cambio negociado- Pago de Servicios (Movistar, Luz del Sur, Edelfnor) - Administración de Remesas - Pago de Haberes (con transf. interbancaria), CTS y Proveedores* (con cheque de gerencia y con transf. interbancaria) - Pago de Dividendos - Empresas afiliadas: ilimitado, cuentas afiliadas: 20 y usuarios permitidos: ilimitado *En el caso de Transferencias a Terceros con cuentas BCP y Pago a proveedor con cuenta BCP, la comisión de mantenimiento incluye hasta 2000 operaciones de transferencia y pago a proveedor, siendo que a partir de la operación 2001 se cobrará S/. 0.50 (cincuenta céntimos) por cada operación adicional. |
+| 1.3 Corporativa |  |  |  |  |  |  |
+| Categoria | TASA | MINIMO | MAXIMO | CONCEPTO | Vigencia | OBSERVACIONES |
+|---|---|---|---|---|---|---|
+| 1.3.1 Avanzada |  | S/ 100 [S/ 395.00] |  | Mensual | 07/03/2018 | Avanzada Incluye las siguientes funcionalidades sin costo adicional: - Consulta de Saldos y últimos movimientos (180 días) - Consulta de Créditos Comerciales - Transferencias entre cuentas propias y terceros* - Transferencias a BCP Miami - Transferencias a bancos del exterior - Transferencias a otros bancos locales - Consulta y Pago de Letras y Facturas - Web de Proveedores - Descarga diaria de movimientos - Consulta de inversiones (plazo fijo) - Importación masiva de transf. bancos del exterior - Importación masiva de transf. otro bancos locales - Transferencias con tipo de cambio negociado- Pago de Servicios (Movistar, Luz del Sur, Edelnorte) - Administración de Remesas - Pago de Haberes (con transf. interbancaria), CTS y Proveedores* (con cheque de gerencia y con transf. interbancaria) - Pago de Dividendos - Factoring Electrónico - Empresas afiliadas: ilimitado, cuentas afiliadas: 20 y usuarios permitidos: ilimitado *En el caso de Transferencias a Terceros con cuentas BCP y Pago a proveedor con cuenta BCP, la comisión de mantenimiento incluye hasta 2000 operaciones de transferencia y pago a proveedor, siendo que a partir de la operación 2001 se cobrará S/. 0.50 (cincuenta céntimos) por cada operación adicional. |
+| | | | |
+| --- | --- | --- | --- |
+| Tarifas / Persona Jurídica |  |  |  |
+| Telecrédito Persona Jurídica |  |  |  |
+| 1.3.2 Host to Host | S/ 175 [S/ 691.25] | Mensual | 07/03/2018 | Host to Host Incluye las siguientes funcionalidades sin costo adicional: Host to Host Incluye las siguientes funcionalidades sin costo adicional: - Consulta de Saldos y últimos movimientos (180 días) - Consulta de Créditos Comerciales - Transferencias entre cuentas propias y terceros* - Transferencias a BCP Miami - Transferencias a bancos del exterior - Transferencias a otros bancos locales - Consulta y Pago de Letras y Facturas - Web de Proveedores - Descarga diaria de movimientos - Consulta de inversiones (plazo fijo) - Importación masiva de transf. bancos del exterior - Importación masiva de transf. otro bancos locales - Transferencias con tipo de cambio negociado- Pago de Servicios (Movistar, Luz del Sur, Edelnorte) - Administración de Remesas - Pago de Haberes (con transf. interbancaria), CTS y Proveedores* (con cheque de gerencia y con transf. interbancaria) - Pago de Dividendos - Factoring Electrónico - Procesamiento Host to Host Factoring y Pagos Masivos - Empresas afiliadas: ilimitado, cuentas afiliadas: 20 y usuarios *En el caso de Transferencias a Terceros con cuentas BCP y Pago a proveedor con cuenta BCP, la comisión de mantenimiento incluye hasta 2000 operaciones de transferencia y pago a proveedor, siendo que a partir de la operación 2001 se cobrará S/. 0.50 (cincuenta céntimos) por cada operación adicional. |
+| | | | |
+|---|---|---|---|
+| Telecrédito Persona Jurídica |  |  |  |
+| 1.3.2 Host to Host | $ 175 | Mensual | 07/03/2018 | Host to Host Incluye las siguientes funcionalidades sin costo adicional: - Consulta de Saldos y últimos movimientos (180 días) - Consulta de Créditos Comerciales - Transferencias entre cuentas propias y terceros - Transferencias a BCP Miami - Transferencias a bancos del exterior - Transferencias a otros bancos locales- Consulta y Pago de Letras y Facturas - Web de Proveedores - Descarga diaria de movimientos - Consulta de inversiones (plazo fijo) - Importación masiva de transf. bancos del exterior - Importación masiva de transf. otro bancos locales - Transferencias con tipo de cambio negociado- Pago de Servicios (Movistar, Luz del Sur, Edelnor) - Administración de Remesas - Pago de Haberes (con transf. interbancaria), CTS y Proveedores (con cheque de gerencia y con transf. interbancaria) - Pago de Dividendos- Factoring Electrónico |
+| 1.4 Por Operaciones Avanzadas |  |  |  |
+| 1.4.1 De 1 a 20 cuentas | $ 100 [S/ 395.00] | Mensual | 26/10/2012 |  |
+| 1.4.2 De 21 a 50 cuentas | $ 110 [S/ 434.50] | Mensual | 26/10/2012 |  |
+| 1.4.3 De 51 a 100 cuentas |  | S/ 120 [S/ 474.00] |  | Mensual | 26/10/2012 |  |
+| 1.4.4 Más de 100 cuentas |  | S/ 130 [S/ 513.50] |  | Mensual | 26/10/2012 |  |
+| 2 Cheques de Gerencia |  | S/ 3.5 [S/ 13.82] |  | Por cheque | 16/01/2017 | Tarifa aplicable en caso de Pago a proveedores mediante telecrédito con cheque de gerencia. |
+| 3 Clave Digital Token |  | S/ 40 [S/ 158.00] |  | Por Tarjeta | 01/01/2008 | Aplica sólo para Cajas Municipales, Cajas Rurales y Edpymes. |
+| 4 Traslación de fondos |  |  |  |  |  |  |
+| 4.1 Moneda Nacional | 0.1% | S/ 3 | S/ 30 | Monto de operacion | 01/05/2006 |  |
+| 4.2 Moneda Extranjera | 0.1% | S/ 1 [S/ 3.95] | S/ 10 [S/ 39.50] | Monto de operacion | 01/05/2006 | La plataforma de Telecrédito Web está segmentada según las necesidades del cliente, para mayor información contacte a su Ejecutivo Comercial al teléfono 242-5951 / 242-9674 o al email serviciosparaempresas @bcp.com.pe, también puede contactar a su Funcionario de Negocios. |
+| 5 Nota 1 | Libre |  |  |  |  |  |
+---CONTENT_END---
+

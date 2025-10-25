@@ -1,0 +1,156 @@
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.conda/
+
+# Build and distribution
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ============================================
+# IDEs y Editores
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ============================================
+# Environment variables (IMPORTANTE - API Keys)
+# ============================================
+.env
+.env.local
+.env.*.local
+
+# ============================================
+# Data y archivos pesados (NO subir PDFs, PNGs, logs)
+# ============================================
+# PDFs originales (499 archivos - ~500MB)
+data/pdfs/**/*.pdf
+data/raw/**/*.pdf
+TARIFARIOS/**/*.pdf
+
+# Imágenes PNG convertidas (~2GB)
+data/pngs/**/*.png
+data/images/**/*.png
+
+# Archivos OCR Markdown (~100MB)
+data/ocr/**/*.md
+data/ocr_combined/**/*.md
+
+# JSONs normalizados intermedios (~50MB)
+data/normalized_json/**/*.json
+
+# Logs (variables según ejecución)
+logs/
+*.log
+
+# Archivos de progreso (regenerables)
+**/ocr_progress.json
+**/progress.json
+
+# Archivos temporales
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+
+# ============================================
+# Outputs generados (CSV/Excel finales - pueden regenerarse)
+# ============================================
+# Descomentar si NO quieres subir los datasets finales:
+# data/output/**/*.csv
+# data/output/**/*.xlsx
+
+# ============================================
+# Testing
+# ============================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.coverage.*
+coverage.xml
+*.cover
+
+# ============================================
+# Jupyter Notebooks
+# ============================================
+.ipynb_checkpoints/
+# Descomentar si NO quieres subir notebooks:
+# *.ipynb
+
+# ============================================
+# OS específicos
+# ============================================
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# ============================================
+# Archivos de compresión (NO subir zips/rars)
+# ============================================
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# ============================================
+# Drivers y binarios externos
+# ============================================
+*.exe
+*.dll
+chromedriver
+geckodriver
+msedgedriver
+
+# ============================================
+# Keep directory structure (archivos vacíos para git)
+# ============================================
+!data/pdfs/.gitkeep
+!data/pngs/.gitkeep
+!data/ocr/.gitkeep
+!data/ocr_combined/.gitkeep
+!data/normalized_json/.gitkeep
+!data/output/.gitkeep
+!logs/.gitkeep

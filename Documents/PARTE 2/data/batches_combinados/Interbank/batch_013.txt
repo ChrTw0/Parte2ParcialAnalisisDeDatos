@@ -1,0 +1,574 @@
+---DOCUMENT_START---
+FILE_NUMBER: 1/10
+BANCO: Interbank
+PRODUCTO: TAR_0008t1696348229524
+FILENAME: TAR_0008t1696348229524.md
+FILEPATH: Interbank/TAR_0008t1696348229524.md
+---CONTENT_START---
+| Concepto | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo | Oportunidad de Cobro |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| TASAS |  |  |  |  |  |  |  |
+| 1.Tasa de interés compensatoria efectiva anual (TEA)⁽¹⁾ | 0.05% |  |  | 0.03% |  |  |  |
+| NÚMERO DE TRANSACCIONES LIBRES DE COSTOS⁽²⁾ |  |  |  |  |  |  |  |
+| 2. Depósitos libres en ventanilla red de tiendas |  |  | 6 |  |  | 6 |  |
+| 3. Retiros libres en ventanilla red de tiendas ⁽³⁾ |  |  | 1 |  |  | 1 |  |
+| 4. Retiros en cajeros Global Net, Plus Global Net, e Interbank Agente ⁽³⁾⁽⁴⁾ | Ilimitado |  |  | Ilimitado |  |  |  |
+| 5. Depósitos en Interbank Agente y cajeros Plus Global Net ⁽⁴⁾ | Ilimitado |  |  | Ilimitado |  |  |  |
+| CATEGORÍA Y DENOMINACIONES DE COMISIONES |  |  |  |  |  |  |  |
+| Operaciones en otra localidad |  |  |  |  |  |  |  |
+| 6.Retiro interplaza en ventanilla red de tiendas y Cajeros Global Net ⁽⁵⁾⁽⁶⁾ |  |  |  |  |  |  | Sin costo |
+| 7.Transferencia interplaza en ventanilla red de tiendas y Cajeros Global Net ⁽⁵⁾⁽⁶⁾ | 0.50% | S/ 2.50 | S/ 700.00 | 0.50% | US$ 1.50 | US$ 350.00 | Al efectuar la transacción. |
+| 8. Depósito interplaza en ventanilla red de tiendas y Cajeros Global Net ⁽⁵⁾⁽⁶⁾ | 0.50% | S/ 2.50 | S/ 100.00 | 0.50% | US$ 1.00 | US$ 70.00 | Al procesar la transacción. |
+| Uso de cajero automático |  |  |  |  |  |  |  |
+| 9. Retiro en cajero de otro banco local |  |  | S/ 15.00 |  |  | US$ 5.00 | Al efectuar la transacción. |
+| 10. Retiro en cajero de otro banco en el extranjero |  |  | S/ 15.00 |  |  | US$ 5.00 | Al efectuar la transacción. |
+| Operaciones en ventanilla |  |  |  |  |  |  |  |
+| Concepto | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo | Oportunidad de Cobro |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 11. Consulta de saldos y movimientos en ventanilla red de tiendas(7) |  |  | S/ 2.00 |  | US$ 0.70 |  | Al efectuar la transacción |
+| 12. Exceso de depósitos y/o retiros en ventanilla red de tiendas (c/u) (3) |  |  | S/ 7.00 |  | US$ 2.50 |  | Al efectuar la transacción |
+| 13. Mantenimiento de cuenta (8) |  |  |  |  |  |  |  |
+| Para saldo promedio mensual (S/.) : |  |  |  |  |  |  |  |
+| Hasta S/ 499.99 |  | No cobra |  |  |  |  | Mensual |
+| Desde S/ 500.00 |  |  | S/ 7.00 |  |  |  | Mensual |
+| Para saldo promedio mensual (US$): |  |  |  |  |  |  |  |
+| Hasta US$ 199.99 |  |  |  |  |  |  | Mensual |
+| Desde US$ 200.00 |  | No cobra |  |  | US$ 2.50 |  | Mensual |
+| 14. Envío físico de estado de cuenta (a solicitud del cliente) |  |  | S/ 3.50 |  | US$ 1.25 |  | Mensual |
+| Tarjetas de Débito adicionales a solicitud |  |  |  |  |  |  |  |
+| 15. Reposición de tarjeta Interbank Visa Débito Clásica(9) |  |  | S/ 20.00 |  | US$ 7.00 |  | Al procesar la transacción |
+| 16. Reposición de tarjeta Interbank Visa Débito Oro(9) |  |  | S/ 20.00 |  | US$ 7.00 |  | Al procesar la transacción |
+| 17. Reposición de Tarjeta Interbank Visa Débito Joven(9) |  |  | S/ 20.00 |  | US$ 7.00 |  | Al procesar la transacción |
+| Tarjeta de Débito adicional y/u opcional |  |  |  |  |  |  |  |
+| 18. Emisión de tarjeta Interbank Visa Débito Oro (10) |  | Sin costo por apertura |  |  | Sin costo por apertura |  | Al procesar la transacción. |
+| 19. Emisión de Tarjeta Interbank Visa Débito Joven (10) |  | Sin costo por apertura |  |  | Sin costo por apertura |  | Al procesar la transacción. |
+| Mantenimiento de Tarjeta de Débito adicional y/u opcional |  |  |  |  |  |  |  |
+| Concepto | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo | Oportunidad de Cobro |
+|---|---|---|---|---|---|---|---|
+| 20. Administración de beneficios oro de Tarjeta Interbank Visa Débito Oro (10)(11) |  |  | S/ 4.90 |  | US$ 2.00 |  | Mensual |
+| 21. Administración de beneficios de Tarjeta Interbank Visa Débito Joven (11) |  |  | S/ 4.90 |  | US$ 2.00 |  | Mensual |
+|---|---|---|---|---|---|---|---|
+| 22. Impuesto a las transacciones financieras (ITF) | (12) |  |  | (12) |  |  | Al efectuar acreditación o débito. |
+Notas:
+(1) Se aplica al saldo diario en la cuenta, usa un año base de 360 días. La capitalización y el abono de intereses es mensual y las tasas de interés están sujetas a variación de acuerdo a las condiciones del mercado.
+(2) Por cada mes calendario. Se considera hasta el último día útil del mes y no se permite un número de depósitos mayor al indicado.
+(3) El número de retiros en la red de tiendas e Interbank Agente se contabiliza de manera independiente.
+(4) Interbank Agente: son los cajeros corresponsales de Interbank ubicado en bodegas, farmacias, minimarkets y otros lugares.
+(5) Porcentaje aplicado al importe de la operación.
+(6) Los depósitos y retiros interplaza son transacciones realizadas en una ciudad distinta a la provincia donde se abrió la cuenta (destino de los fondos). Las transferencias interplaza se refieren a transferencias realizadas entre cuentas abiertas en distintas provincias (el cobro se realiza en la cuenta de origen de los fondos).
+(7) Consulta de saldos y movimientos son gratis libres de costo en cajeros Global Net, Plus Global Net, Interbank Agente, Banca por Internet, Banca Telefónica y Banca celular.
+(8) El cobro de las comisiones se realizará sobre el saldo disponible de la cuenta. Si la cuenta no tiene saldo disponible la(s) comisión(es) quedará(n) pendiente(s) de pago hasta que ésta cuente con saldo disponible y se efectúe el cobro.
+(9) En caso de robo, pérdida o deterioro, la reposición y entrega de la nueva Tarjeta Interbank Visa Débito está sujeta al cobro de la comisión, el mismo que se realizará al momento de la operación ya sea con cargo en cuenta o en efectivo en caso no tuviera saldo disponible. El cliente debe firmar la nueva Tarjeta de Débito y cambiar la clave original asignada en cualquier cajero Global Net a nivel nacional antes de utilizarla.
+(10) La emisión de la Tarjeta Interbank Visa Débito Oro y Visa Débito Joven es opcional a solicitud del cliente.
+(11) La Tarjeta Interbank Visa Débito Oro tiene un seguro cuyas condiciones se encuentran en el Certificado del Seguro de Protección que el cliente recibirá en el Kit de Bienvenida.
+(12) El cobro se realizará por el monto de la operación, según tasa vigente en el tarifario Servicios Varios PN para dicho concepto.
+(13) Para los casos de terminación o resolución del contrato por parte del cliente, podrá realizarlo a través de los canales que Interbank ponga a su disposición. El detalle de las comisiones cobradas por servicios transversales, tales como: transferencias interbancarias, retención judicial, emisión de chequera, cobro de documentos, copia de documentos, entre otros, podrás ubicarlos en nuestros los tarifarios publicados en nuestra página web www.interbank.com.pe o en la red de Tiendas Interbank.
+La empresa tiene la obligación de difundir información de conformidad con la Ley N° 28587 y el Reglamento de Gestión de Conducta de Mercado del Sistema Financiero, aprobado mediante Resolución SBS N° 3274-2017
+Información actualizada a Julio 2021
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 2/10
+BANCO: Interbank
+PRODUCTO: TAR_0010t1696348229524
+FILENAME: TAR_0010t1696348229524.md
+FILEPATH: Interbank/TAR_0010t1696348229524.md
+---CONTENT_START---
+| Concepto | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo | Oportunidad de Cobro |
+|---|---|---|---|---|---|---|---|
+| **TASAS** |  |  |  |  |  |  |  |
+| 1. Tasa de interés efectiva anual (T.E.A) (1) |  |  |  |  |  |  |  |
+| Saldo diario en cuenta (S/): |  |  |  |  |  |  |  |
+| De S/ 500.00 a más | 0.50% |  |  |  |  |  |  |
+| Saldo diario en cuenta (US$): |  |  |  |  |  |  |  |
+| De US$ 220.00 a más |  |  |  | 0.20% |  |  |  |
+| **NÚMERO DE TRANSACCIONES LIBRES DE COSTOS** (3) |  |  |  |  |  |  |  |
+| 2. Depósitos y retiros en ventanilla red de tiendas |  |  |  |  |  |  |  |
+| Para saldo promedio mensual (S/): |  |  |  |  |  |  |  |
+| Hasta S/ 2,999.99 |  |  | 2 |  |  |  |  |
+| De S/ 3,000.00 a S/ 24,999.99 |  |  | 6 |  |  |  |  |
+| - De S/ 25,000.00 a más |  |  | 12 |  |  |  |  |
+| Para saldo promedio mensual (US$): |  |  |  |  |  |  |  |
+| - Hasta US$ 999.99 |  |  |  |  |  | 2 |  |
+| - De US$ 1,000.00 a US$ 11,999.99 |  |  |  |  |  | 6 |  |
+| - De US$ 12,000.00 a más |  |  |  |  |  | 12 |  |
+| 3. Depósitos y retiros en Interbank Agente (4) | Ilimitado |  |  | Ilimitado |  |  |  |
+| 4. Depósitos y retiros en cajeros Global Net y Plus Global Net |  |  |  |  |  |  |  |
+| Depósitos | Ilimitado |  |  | Ilimitado |  |  |  |
+| Retiros | 6 |  |  | 6 |  |  |  |
+| **CATEGORÍA Y DENOMINACIONES DE COMISIONES** (2) |  |  |  |  |  |  |  |
+|  | **Uso de Canales** |  |  |  |  |  |  |
+| Uso del cajero Automático |  |  |  |  |  |  |  |
+| 5. Exceso de operaciones en cajeros Global Net y Plus Global Net (c/u) | S/ 2.00 |  |  | US$ 0.70 |  | Mensual |  |
+| 6. Consulta de saldos y movimientos en cajeros Global Net y Plus Global Net (5) | S/ 1.00 |  |  | US$ 0.35 |  | Al efectuar la transac- ción. |  |
+| 7. Retiro en cajero de otro banco local | S/ 10.00 |  |  | US$ 4.00 |  | Al efectuar la transac- ción. |  |
+| Concepto | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo | Oportunidad de Cobro |
+|---|---|---|---|---|---|---|---|
+| 8. Retiro en cajero de otro banco en el extranjero |  |  | S/ 15.00 |  | US$ 5.00 |  | Al efectuar la transacción. |
+| 9. Consulta de saldos y movimientos en ventanilla red de tiendas |  |  |  |  | US$ 0.70 |  | Al efectuar la transacción. |
+| 10. Exceso de operaciones en ventanilla red de tiendas (c/u) |  |  |  |  | US$ 2.50 |  | Mensual |
+| 11. Depósito con cheque otro banco otra plaza <sup>(6)</sup> | 1.00% | S/ 25.00 | S/ 425.00 | 1.00% | US$ 10.00 | US$ 152.00 | Al procesar la transacción. |
+| 11.1 Emisión nota abono/débito |  |  | S/ 3.50 |  |  | US$ 1.25 |  |
+| 12. Gasto de no representación |  | Tarifa del banco girado |  |  | Tarifa del banco girado |  |  |
+| 13. Cheque mismo banco depositado en cuenta y rechazado |  |  |  |  |  |  | Al procesar la transacción. |
+| 13.1 Al girador <sup>(6)</sup> | 1.00% | S/ 36.00 | S/ 100.00 | 1.00% | US$ 14.00 | US$ 30.00 |  |
+| 13.2 Emisión nota abono/débito |  |  | S/ 3.50 |  |  | US$ 1.25 |  |
+| 14. Cheque otro banco depositado en cuenta y rechazado |  |  |  |  |  |  | Al procesar la transacción. |
+| 14.1 Al depositante |  |  | S/ 36.00 |  |  | US$ 14.00 |  |
+| 14.2 Emisión nota abono/débito |  |  | S/ 3.50 |  |  | US$ 1.25 |  |
+| 15. Depósito con cheque del exterior (EE.UU.) <sup>(6) (7)</sup> |  | No aplica |  | 0.45% | US$ 12.00 | US$ 180.00 | Al procesar la transacción. |
+| 15.1 Emisión nota abono/débito |  | No aplica |  |  |  | US$ 1.25 | Al procesar la transacción. |
+| 16. Devolución de cheque del exterior depositado en cuenta |  | No aplica |  |  |  | US$ 10.00 | Al procesar la transacción. |
+| 16.1 Emisión nota abono/débito |  | No aplica |  |  |  | US$ 5.00 | Al procesar la transacción. |
+| 17. Cobro de cheques en la red de tiendas con horario extendido <sup>(8)</sup> |  |  | S/ 2.00 |  |  | US$ 0.70 |  |
+| Concepto | Moneda Nacional (MN) | Moneda Extranjera (ME) | Oportunidad de Cobro |
+|---|---|---|---|
+| | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo |
+| Servicios Asociados a la Cuenta |  |  |  |  |  |  |  |
+| Mantenimiento de cuenta (3) |  |  |  |  |  |  | Mensual |
+| 18. Para saldo promedio mensual (S/): |  |  |  |  |  |  |  |
+| Hasta S/ 1,499.99 |  | S/ 6.80 |  |  |  |  |  |
+| De S/ 1,500.00 a más |  | S/ 3.00 |  |  |  |  |  |
+| 19. Para saldo promedio mensual (US$): |  |  |  |  |  |  |  |
+| Hasta US$ 499.99 |  |  |  |  | US$ 2.80 |  |  |
+| De US$ 500.00 a más |  |  |  |  | US$ 1.10 |  |  |
+| 20. Envío físico de estado de cuenta (a solicitud del cliente) |  | S/ 3.50 |  |  | US$ 1.25 |  | Mensual |
+| Tarjetas de débito adicionales a solicitud |  |  |  |  |  |  |  |
+| Reposición de tarjetas |  |  |  |  |  |  |  |
+| 21. Reposición de tarjeta Interbank Visa Débito Clásica |  | S/ 10.00 |  |  | US$ 4.00 |  | Al procesar la transacción. |
+| 22. Reposición de tarjeta Interbank Visa Débito Oro |  | S/ 10.00 |  |  | US$ 4.00 |  | Al procesar la transacción. |
+| 23. Reposición de Tarjeta Interbank Visa Débito Joven |  | S/ 10.00 |  |  | US$ 4.00 |  | Al procesar la transacción. |
+| Tarjeta de débito adicional y/u opcional |  |  |  |  |  |  |  |
+| 24. Emisión de tarjeta Interbank Visa Débito Clásica |  | Sin costo |  |  | Sin costo |  |  |
+| 25. Emisión de tarjeta Interbank Visa Débito Oro (10) |  | Sin costo |  |  | Sin costo |  |  |
+| 26. Emisión de Tarjeta Interbank Visa Débito Joven (10) |  | Sin costo |  |  | Sin costo |  | Al procesar la transacción. |
+| Mantenimiento de tarjeta de débito adicional y/u opcional |  |  |  |  |  |  |  |
+| 27. Administración de beneficios oro de tarjeta Interbank Visa Débito Oro (10)(11) |  | S/ 4.90 |  |  | US$ 2.00 |  | Mensual |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 3/10
+BANCO: Interbank
+PRODUCTO: TAR_0062Ct1662583032918
+FILENAME: TAR_0062Ct1662583032918.md
+FILEPATH: Interbank/TAR_0062Ct1662583032918.md
+---CONTENT_START---
+| Concepto | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo | Oportunidad de Cobro |
+|---|---|---|---|---|---|---|---|
+| TASAS |  |  |  |  |  |  |  |
+| 1. Tasa de interés compensatorio efectiva anual (TEA) (1) |  |  |  |  |  |  | Mensual |
+| 1.1 Moneda nacional |  |  |  |  |  |  |  |
+| - De S/ 25,000.00 a S/ 44,999.99 | 32.00% |  |  |  |  |  |  |
+| - De S/ 45,000.00 a S/ 119,999.99 | 28.00% |  |  |  |  |  |  |
+| - De S/ 120,000.00 a S/ 239,999.99 | 25.00% |  |  |  |  |  |  |
+| - De S/ 240,000.00 a S/ 319,999.99 | 23.00% |  |  |  |  |  |  |
+| - De S/ 320,000.00 a S/ 479,999.99 | 21.00% |  |  |  |  |  |  |
+| - De S/ 480,000.00 a más | 20.00% |  |  |  |  |  |  |
+| 1.2 Moneda extranjera |  |  |  |  |  |  |  |
+| - De US$ 8,000.00 a US$ 14,999.99 |  |  |  | 30.00% |  |  |  |
+| - De US$ 15,000.00 a US$ 39,999.99 |  |  |  | 26.00% |  |  |  |
+| - De US$ 40,000.00 a US$ 79,999.99 |  |  |  | 23.00% |  |  |  |
+| - De US$ 80,000.00 a US$ 119,999.99 |  |  |  | 21.00% |  |  |  |
+| - De US$ 120,000.00 a US$ 159,999.99 |  |  |  | 20.00% |  |  |  |
+| - De US$ 160,000.00 a más |  |  |  | 18.00% |  |  |  |
+| PENALIDADES Y GASTOS (3) |  |  |  |  |  |  |  |
+| 2. Penalidad por incumplimiento de pago (2) | 80.00% |  |  | 80.00% |  |  |  |
+| 3. Comisión de Estructuración (12) |  | S/ 300.00 | 1.00% |  | US$ 100.00 | 1.00% | Por evento. |
+| 4. Comisión por modificación de contrato (4) |  | S/ 900.00 | S/ 1,500.00 |  | US$ 300.00 | US$ 500.00 | A la firma de la modifica- ción. |
+| 5. Comisión por envío de comprobante de pago (4)(5) |  | S/ 3.50 |  |  | US$ 1.00 |  | Por evento. |
+| Concepto | Moneda Nacional (MN) | Moneda Extranjera (ME) | Oportunidad de Cobro |
+|---|---|---|---|
+| | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo | |
+| 6. Comisión por gestión de transferencia de bienes de activo fijo (4)(6)(11) |  | S/ 150.00 | S/ 420.00 |  | US$ 50.00 | US$ 140.00 | Por cada bien. |
+| 7. Gasto por seguro del bien (4)(6)(7) |  |  |  |  |  |  |  |
+| 7.1 Bienes inmuebles (8) |  |  |  |  |  |  |  |
+| 7.2 Bienes muebles (8) |  |  | 25.00% |  |  | 25.00% | Al encargarse la cobranza. |
+| 8. Penalidad por crédito en Cobranza pre judicial o judicial (9) |  |  |  |  |  |  | Según tarifario del tasador o inspector. |
+| 9. Tasaciones |  |  |  |  |  |  |  |
+| 9.1 Vehículos en general |  | S/ 270.00 | S/ 1,080.00 |  | US$ 100.00 |  |  |
+| 9.2 Otros bienes | 0.04% (10) | S/ 270.00 | S/ 1,080.00 | 0.04% (10) | US$ 100.00 | US$400.00 |  |
+| 10. Impuesto a las transacciones financieras (ITF) |  |  |  |  |  |  | Al efectuarse el pago de las cuotas de leasing. |
+| Concepto | Moneda Nacional (MN) | Moneda Extranjera (ME) | Oportunidad de Cobro |
+|---|---|---|---|
+| | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo | |
+| La empresa tiene la obligación de difundir información de conformidad con la Ley N° 28587 y el Reglamento de Transparencia de Información y Contratación con Usuarios del Sistema Financiero, aprobado mediante Resolución SBS N° 8181-2012 | | | | | | | |
+Información actualizada a Octubre de 2016 | | | | | | | |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 4/10
+BANCO: Interbank
+PRODUCTO: TAR-0110B
+FILENAME: TAR-0110B.md
+FILEPATH: Interbank/TAR-0110B.md
+---CONTENT_START---
+| Concepto | Moneda Nacional (MN) | Moneda Extranjera (ME) | Oportunidad de Cobro |
+| --- | --- | --- | --- |
+|  | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo |  |
+| CATEGORÍA Y DENOMINACIÓN DE COMISIONES |  |  |  |  |  |  |  |
+| Categoría: Transferencias |  |  |  |  |  |  |  |
+| Denominaciones: Transferencia a terceros |  |  |  |  |  |  |  |
+| 1.TRANSFERENCIAS AL EXTERIOR |  |  |  |  |  |  |  |
+| 1.1 Comisión por procesamiento y traslado de fondos (4)(11) |  |  |  |  |  |  | Al momento del procesamiento |
+| Clientes |  |  |  |  |  |  |  |
+| - Hasta US$ 500.00 |  |  |  |  | US$ 30.00 |  |  |
+| - De US$ 501.00 a 2,000.00 |  |  |  |  | US$ 30.00 |  |  |
+| - De US$ 2,001.00 a US$ 3,000.00 |  |  |  |  | US$ 30.00 |  |  |
+| - De US$ 3,001.00 a US$ 5,000.00 |  |  |  |  | US$ 42.00 |  |  |
+| - De US$ 5,001.00 a US$ 10,000.00 |  |  |  |  | US$ 42.00 |  |  |
+| - De US$ 10,001.00 a US$ 25,000.00 (1) |  |  |  | 0.25% + US$ 15.00(swift) | US$ 42.00 |  |  |
+| - Mayor a US$ 25,000.00 (1) |  |  |  | 0.13% + US$ 15.00(swift) | US$ 62.50 |  | US$ 185.00 |
+| No clientes (1)(2) |  |  |  |  |  |  |  |
+| - Hasta US$ 500.00 |  |  |  |  |  | USD 25.00 |  |
+| -De US$ 501.00 a 2,000.00 |  |  |  |  |  | US$ 28.00 |  |
+| -De US$ 2,001.00 a US$ 3,000.00 |  |  |  |  |  | US$ 30.00 |  |
+| -De US$ 3,001.00 a US$ 5,000.00 |  |  |  |  |  | US$ 35.00 |  |
+| 1.2 Comisión por trámite ante banco corresponsal (DEBT/ OUR) (5)(11) |  |  |  |  |  |  | Al momento del procesamiento |
+| Si la operación es en dólares americanos |  |  |  |  |  | US$ 45.00 |  |
+| Si la operación es diferente a dólares americanos |  |  |  |  |  | US$ 50.00 / EUR 50.00(la operación es en moneda EUR) |  |
+| 1.3 Por investigaciones |  |  |  |  |  |  |  |
+| Gasto por investigación, reparación o anulación. (3),(6) |  |  |  |  | US$ 25.00 / EUR 25.00 (si la operación es en moneda EUR) + US$15 Swift |  | Si el banco de destino es Bank of China, se cobrarán US$ 20.00 adicionales |
+| 1.4 Envío de mensajes swift (10) |  |  |  |  |  | US$ 25.00 |  |
+| Concepto | Moneda Nacional (MN) | Moneda Extranjera (ME) | Oportunidad de Cobro |
+|---|---|---|---|
+| | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo |
+| **2. TRANSFERENCIAS DEL EXTERIOR** | | | | | | |
+| **2.1 Comisión por procesamiento** | | | | | | | Al momento del procesamiento. |
+| Cliente: Abono en cuenta corriente / ahorros (7)(12) | | | | 20.00% | US$ 2.00 | |
+| - Hasta US$10.00 | | | | 20.00% | US$ 5.00 | |
+| - De US$ 10.01 a US$25.00 | | | | | US$ 25.00 | |
+| - De US$ 25.01 a US$ 10,000.00 | | | | 0.50% | US$ 50.00 | US$ 100.00 |
+| - De US$ 10,001.00 a más | | | | 0.50% | US$ 50.00 | US$ 250.00 |
+| No cliente: Pago en ventanilla (1) | | | | | | |
+| **2.2 Comisión por reparación** | | | | | | | Al cierre de la investigación |
+| Comisión cobrada por investigación y/o corrección de la transferencia(8) | | | | | US$ 25.00 | |
+| **2.3 Comisión devolución de fondos al exterior** | | | | | US$ 50.00 | |
+| **2.4 Envío de mensajes swift (10)** | | | | | US$ 25.00 | |
+| **Notas:** | | | | | | |
+| (1) Porcentaje aplicado al importe de la operación. | | | | | | |
+| (2) No clientes solo pueden realizar operaciones hasta US$ 5,000.00 o su equivalente en soles. | | | | | | |
+| (3) Más gastos del corresponsal, si lo hubiera. | | | | | | |
+| (4) La comisión cobrada no incluye los gastos del exterior. El / los banco(s) pagador(es) y/o intermediario(s) y/o corresponsal(es) podrá(n) descontar sus comisiones del monto transferido al beneficiario. | | | | | | |
+| (5) El banco corresponsal transfiere el íntegro del dinero solicitado por el ordenante sin aplicar deducciones. Esta comisión se aplicará sólo cuando el cliente lo solicite. | | | | | | |
+| (6) Incluye los costos asumidos por Interbank por la investigación en relación a enmiendas, rectificaciones, solicitud de devoluciones, confirmación de abono, estatus de la transferencia al exterior. | | | | | | |
+| (7) La comisión se cobrará en la cuenta de destino de los fondos y de ser esta en moneda nacional aplicará el tipo de cambio del día, pudiendo ser distinto al aplicado al monto abonado. | | | | | | |
+| (8) Comisión aplicada solo cuando se tenga que realizar alguna validación/cambio manual de la transferencia recibida | | | | | | |
+| (9) Comisión que se cobra cuando se tenga que devolver a origen los fondos recibidos del exterior | | | | | | |
+| (10) Esta comisión se cobra cuando se tenga que enviar algún mensaje SWIFT al exterior | | | | | | |
+| (11) Importe sujeto a variación por el tipo de cambio, cuando se trate de moneda distinta a la cuenta de cargo. | | | | | | |
+| (12) Para transferencias menores a US$ 25, se cobrará una comisión del 20% del importe recibido (mínimo US$ 2 máximo US$ 5). | | | | | | |
+| La empresa tiene la obligación de difundir información de conformidad con la Ley N° 28587 y el Reglamento de gestión de conducta de mercado del sistema financiero, aprobado mediante resolución SBS N° 3274-2017 | | | | | | |
+| Información actualizada a Setiembre 2025 | | | | | | |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 5/10
+BANCO: Interbank
+PRODUCTO: TAR_0108t1689868492830
+FILENAME: TAR_0108t1689868492830.md
+FILEPATH: Interbank/TAR_0108t1689868492830.md
+---CONTENT_START---
+| Concepto | Tasa | Mínimo | Máximo | Oportunidad de Cobro |
+| --- | --- | --- | --- | --- |
+| **COMISIONES Y GASTOS** |  |  |  |  |
+| **1. Cobranzas documentarias** |  |  |  |  |
+| Comisiones usuales |  |  |  |  |
+| 1.1 Comisión de gestión de cobranza (1)(5) |  |  |  |  |
+| 1.2 Gestión de courier (2) |  |  |  |  |
+| - USA y Latinoamérica |  |  | US$ 35.40 | Al ingreso |
+| - Europa |  |  | US$ 47.20 | Al ingreso |
+| - Asia y Oceanía |  |  | US$ 60.18 | Al ingreso |
+| 1.3 Comisión de pago y/o amortización (5) |  |  |  |  |
+| Comisiones eventuales |  |  |  |  |
+| 1.4 Comisión de enmienda y/o modificación (5) |  |  | US$ 70.00 | A solicitud del cliente |
+| 1.5 Remesa complementaria (5) |  |  | US$ 35.00 | Al momento de la transacción |
+| 1.6 Comisión emisión de carta compromiso (5) |  |  | US$ 35.00 | Al momento de la transacción |
+| 1.7 Devolución y/o descargo (5) |  |  | US$ 35.00 | Al momento de la transacción |
+| 1.8 Comisión de emisión de cheque o giro (3) |  |  | US$ 30.00 | A la cancelación |
+| 1.9 Comisión de registro ALADI |  |  | US$ 30.00 | Al momento de la transacción |
+| 1.9.1 Pago BCR ALADI | 0.20% |  |  | A la cancelación |
+| 2. Impuesto a las transacciones financieras (ITF) | (4) |  | (4) | Al efectuar el débito de las cuentas corrientes del cliente para el pago de comisiones aplicables |
+| 3. Comisión por gestión de portes |  |  | US$ 10.00 | Al momento de la transacción |
+| 4. Comisión por mensajes SWIFT(6) |  |  | US$ 25.00 | Al enviar el mensaje |
+| Notas: |  |  |  |  |
+| (1) Se cobra sobre el monto de la cobranza. |  |  |  |  |
+| (2) Dependiendo del país de destino. |  |  |  |  |
+| (3) Costo de emisión de cheque o giro. |  |  |  |  |
+| (4) Exoneradas transacciones que pasan por cuentas internas. El cobro se realizará según tasa vigente en el tarifario |  |  |  |  |
+| (5) Se debe adicionar la comisión por gestión de portes descrita en el ítem 3, la cual incluye gestiones administrativas, fotocopias y trámites BCR |  |  |  |  |
+| (6) Se cobra la comisión por mensaje de seguimiento enviado al banco del exterior |  |  |  |  |
+| La empresa tiene la obligación de difundir información de conformidad con la Ley N° 28587 y el Reglamento de Transparencia de Información y Disposiciones Aplicables a la Contratación con Usuarios del Sistema Financiero, aprobado mediante Resolución SBS N° 8181-2012 |  |  |  |  |
+| Información actualizada a Octubre de 2017 |  |  |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 6/10
+BANCO: Interbank
+PRODUCTO: TAR_0146At1696610001089
+FILENAME: TAR_0146At1696610001089.md
+FILEPATH: Interbank/TAR_0146At1696610001089.md
+---CONTENT_START---
+| Concepto | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo | Oportunidad de Cobro |
+|---|---|---|---|---|---|---|---|
+| TASAS |  |  |  |  |  |  |  |
+| 1. Tasa de interés compensatoria efectiva anual (TEA) |  |  |  |  |  |  |  |
+| 1.1 Por consumo |  |  |  |  |  |  |  |
+| 1.1.1 Interés compensatorio para consumos revolventes y cuotas fijas(1) |  |  |  |  |  |  |  |
+| - Clásica / Oro |  | 19.42% | 83.31% | 19.42% | 65.92% |  |  |
+| 1.1.2 Interés compensatorio para disposición de efectivo/ casinos/ sobregiro (2) |  |  |  |  |  |  |  |
+| - Clásica / Oro |  |  | 83.31% |  | 65.92% |  |  |
+| 1.1.3 Electrodomésticos en cajas registradoras de Plaza Vea(1) |  |  |  |  |  |  |  |
+| - Clásica / Oro |  |  | 42.41% |  |  |  |  |
+| BENEFICIOS |  |  |  |  |  |  |  |
+| 2. Disposición de efectivo |  |  |  |  |  |  |  |
+| 2.1 Límite máximo de disposición de efectivo (3) |  |  |  |  |  |  |  |
+| - Clásica / Oro |  |  |  |  | Hasta el 100% de la línea de |  | Hasta el 100% de la línea de crédito. |
+| CATEGORÍAS Y DENOMINACIONES DE COMISIONES(4) |  |  |  |  |  |  |  |
+| 3. Membresía(5) |  |  |  |  |  |  |  |
+| Membresía Anual al titular |  |  |  |  |  |  |  |
+| Normal Lima |  |  | S/ 50.00 |  |  |  |  |
+| - Clásica |  |  |  |  |  |  |  |
+| Normal Provincia |  |  | S/ 10.00 |  |  |  |  |
+| - Clásica |  |  |  |  |  |  |  |
+| Normal Lima |  |  | S/ 85.00 |  |  |  |  |
+| - Oro |  |  |  |  |  |  |  |
+| Normal Provincia |  |  | S/ 35.00 |  |  |  |  |
+| - Oro |  |  |  |  |  |  |  |
+| Especial (6) |  |  |  |  |  |  |  |
+| - Clásica / Oro |  | Sin costo |  | Sin costo |  |  |  |
+| Membresía Anual por cada adicional |  | Sin costo |  | Sin costo |  |  |  |
+| Concepto | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo | Oportunidad de Cobro |
+|---|---|---|---|---|---|---|---|
+| 4. Servicios asociados a la tarjeta de crédito |  |  | S/10.00 |  |  |  |  |
+| 4.1 Envío físico de estado de cuenta (7) |  |  |  |  |  |  |  |
+| 4.2 Conversión moneda extranjera distinta a dólares americanos (13) | 3% del importe de cargo |  |  | 3% del importe de cargo |  |  | Al momento en que se realiza la conversión. |
+| 5. Uso de canales (8) |  |  |  |  |  |  |  |
+| 5.1 Comisión por uso de cajeros automáticos |  |  |  |  |  |  |  |
+| 5.1.1 Cajeros Global Net (9) | 4.99% | S/ 15 |  | 4.99% | US$ 5 |  |  |
+| 5.1.2 Cajeros de otras redes en Perú y el extranjero (10) | 3.50% | S/20.00 |  | 3.50% | US$ 6 |  |  |
+| 5.2 Operaciones en Ventanilla (11) |  |  |  |  |  |  |  |
+| 5.2.1 Tiendas Interbank | 4.99% | S/20.00 |  | 4.99% | US$ 6 |  |  |
+| 6. Entrega de Tarjetas adicionales a solicitud |  |  |  |  |  |  |  |
+| 6.1 Reposición de tarjeta de crédito (12) |  |  | S/ 25 |  |  |  |  |
+| OTROS COBROS |  |  |  |  |  |  |  |
+| 7. Por seguro de desgravamen (14) |  |  |  |  |  |  |  |
+| - Clásica | 0.39% |  |  | S/ 14.90 |  | US$4.50 |  |
+| - Oro | 0.39% |  |  | S/ 14.90 |  | US$4.50 |  |
+| CONCEPTOS QUE SE APLICARÁN POR INCUMPLIMIENTO (15) |  |  |  |  |  |  |  |
+| 8. Interés Moratorio (16) | 12.42% |  |  | 9.90% |  |  |  |
+| 9. Impuesto a las transacciones financieras (ITF) (17) | 0.005% |  |  | 0.005% |  |  | Al efectuarse los pagos. |
+| Concepto | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo | Oportunidad de Cobro |
+|---|---|---|---|---|---|---|---|
+| **Notas:** |  |  |  |  |  |  |  |
+| (1) La tasa se determina de acuerdo a la evaluación crediticia del cliente. Año base 360 días. |  |  |  |  |  |  |  |
+| (2) La tasa se determina de acuerdo a la evaluación crediticia del cliente. Año base 360 días. |  |  |  |  |  |  |  |
+| (3) Sujeto a evaluación crediticia del cliente, el porcentaje de disposición de efectivo se informará al cliente cuando se le entregue la tarjeta. El límite de retiro diario en cajeros Global Net en horario diurno (6:00 a.m. - 23:59p.m.) es de S/ 2,500 y además US$ 800 y en horario nocturno (00:00 a.m. - 5:59 a.m.) es S/ 850 y además US$ 480. Adicionalmente podrá realizar retiros en otros canales que Interbank ponga a su disposición. |  |  |  |  |  |  |  |
+| (4) Para clientes con facturación tanto en soles como en dólares, aplican las comisiones, gastos y penalidades indicadas en soles, mientras que para clientes con facturación exclusiva en dólares aplican las comisiones indicadas en soles al tipo de cambio de la fecha de cargo, excepto para las comisiones por uso de cajeros en otras redes en Perú y el extranjero. |  |  |  |  |  |  |  |
+| (5) Se carga en la tarjeta de crédito- una vez al año, según contrato. |  |  |  |  |  |  |  |
+| (6) Se aplica cuando el cliente consume en cada una de las facturaciones (12/12) desde que se le activó su tarjeta. |  |  |  |  |  |  |  |
+| (7) Por el envío físico del estado de cuenta a la dirección de correspondencia a solicitud del cliente. |  |  |  |  |  |  |  |
+| (8) Para conocer los canales libres de costo para disposición de efectivo ingresa a www.interbank.pe |  |  |  |  |  |  |  |
+| (9) La comisión corresponde al uso del cajero automático para disposición de efectivo; no hay cobro de comisión por consulta de saldos, movimientos y pago de servicios. |  |  |  |  |  |  |  |
+| (10) Se carga por cada operación con su tarjeta de crédito en cajeros automáticos que no sean de la red Global Net. |  |  |  |  |  |  |  |
+| (11) Se carga por cada operación de retiro realizada en nuestras Tiendas Interbank. |  |  |  |  |  |  |  |
+| (12) Se cobra por cada vez que el cliente solicite la emisión de un nuevo plástico (titular y/o adicional) y/o la emisión de una tarjeta por pérdida, robo, deterioro u olvido de clave secreta, sobre la base de los procedimientos que establezca Interbank. |  |  |  |  |  |  |  |
+| (13) Porcentaje aplicado al importe de la transacción. La conversión es realizada por la empresa operadora de la tarjeta. |  |  |  |  |  |  |  |
+| (14) Se carga mensualmente el último día de cada período de facturación. El monto a pagar por el Seguro de Desgravamen se calcula multiplicando la tasa asignada por el promedio de los saldos diarios. |  |  |  |  |  |  |  |
+| (15) Ante el incumplimiento del pago según las condiciones pactadas, se procederá a realizar el reporte correspondiente a la Central de Riesgos con la calificación que corresponda de conformidad con el Reglamento para la evaluación y clasificación del deudor y la exigencia de provisiones vigente. |  |  |  |  |  |  |  |
+| (16) Se aplica sobre el saldo pendiente de pago, a partir del día siguiente del vencimiento de tu fecha de pago, siempre y cuando no se haya cumplido con el pago mínimo del mes. El interés moratorio es equivalente al 15% de la tasa máxima de interés convencional compensatorio publicado por el BCR, y varía cada 6 meses (mayo y noviembre). Se aplica de forma adicional a la tasa de interés convencional compensatorio de la tarjeta de crédito en la moneda correspondiente: MN (Moneda Nacional) y ME (Moneda Extranjera). |  |  |  |  |  |  |  |
+| (17) El cobro se realizará por el monto de la operación, según tasa vigente en el tarifario Servicios Varios PN para dicho concepto. |  |  |  |  |  |  |  |
+| La empresa tiene la obligación de difundir información de conformidad con la Ley N° 28587 y el Reglamento de Gestión de Conducta de Mercado del Sistema Financiero, aprobado mediante Resolución SBS N° 3274-2017 |  |  |  |  |  |  |  |
+| Información actualizada a Julio 2022 |  |  |  |  |  |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 7/10
+BANCO: Interbank
+PRODUCTO: TAR_0212t1698330105636
+FILENAME: TAR_0212t1698330105636.md
+FILEPATH: Interbank/TAR_0212t1698330105636.md
+---CONTENT_START---
+| Concepto | Tasa | Mínimo | Máximo | Oportunidad de Cobro |
+| --- | --- | --- | --- | --- |
+| 1. Poner Plata |  |  |  |  |
+| Por transacción |  | No cobra |  |  |
+| 2. Sacar plata - Reconversión (1) |  |  |  |  |
+| Por transacción |  |  | 1.00 |  |
+| Hasta S/100 |  |  |  |  |
+| Más de S/ 100 y hasta S/500 (2) | 1.00% |  |  |  |
+| Más de S/ 500 y hasta S/999 |  |  | 5.00 |  |
+| 3. Mandar plata a otro BIM (Transferencia)(1) |  |  |  |  |
+| Por transacción |  | No cobra |  |  |
+| 4. Paga Servicios desde tu BIM (1) |  |  |  |  |
+| Por transacción |  | Variable (3) |  |  |
+| 5. Recarga tu celular (1) |  |  |  |  |
+| Por transacción |  | No cobra |  |  |
+| 6. Compra con tu BIM (1) |  |  |  |  |
+| 7. Afiliación y Activación de tu BIM |  |  |  |  |
+Notas:
+(1) Se cobrará sobre el saldo disponible de la cuenta. Su cobro e información al usuario BIM se realizará al momento de efectuada la transacción.
+(2) Si retiras más de S/ 100 y hasta S/500, pagarás 1% del monto que retires
+(3) Variable según empresa recaudadora
+Los límites transaccionales son : Monto máximo por transacción S/ 999 ;Saldo máximo en Bim: S/ 10,000
+Máximo en "Poner plata ": S/ 10,000 por mes ; Monto máximo de movimientos por mes : S/ 15,000 (poner, mandar, recibir, sacar, recargar, pagar, comprar, entro otros).
+La empresa tiene la obligación de difundir información de conformidad con la Ley N° 28587 y el Reglamento de Gestión de Conducta de Mercado del Sistema Financiero, aprobado mediante Resolución SBS N° 3274-2017
+Información actualizada agosto 2021
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 8/10
+BANCO: Interbank
+PRODUCTO: TAR_0244t1752688540
+FILENAME: TAR_0244t1752688540.md
+FILEPATH: Interbank/TAR_0244t1752688540.md
+---CONTENT_START---
+| Concepto | Moneda Nacional (MN) | Moneda Extranjera (ME) | Oportunidad de Cobro |
+|---|---|---|---|
+| | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo |
+| TASAS (1) | | | | | | |
+| 1. Tasa de interés compensatoria nominal anual fija | 26.252% | 44.636% | 24.942% | 37.738% | Mensual |
+| COMISIONES Y GASTOS (2)(4) | | | | | | |
+| 2. Tasa de interés moratorio nominal anual(2)(4) | 12.51% | | | 9.912% | | Desde el primer día de atraso. |
+| 3. Gasto por seguro del inmueble (3) | 0.45% | | | | | Anual |
+| 4. Gastos por seguro contra incendios | 0.06654% | | | 0.06654% | | Mensual |
+| 5. Gastos por tasación (5) | | | | | Según Tarifario de Garantías | | Antes de la tasación del inmueble. |
+| 6. Gasto por seguro de desgravamen individua (6)(7) | 0.049% | | | 0.049% | | Mensual |
+| 7. Gasto por seguro de desgravamen mancomunado (6)(7) | 0.091% | | | 0.091% | | Mensual |
+| 8. Gastos por CRI (8) | | S/ 86.10 | | | | Por cada partida |
+| 9. Gastos notariales y/o registrales (9)(10)(11)(12) | | | | | | Antes del desembolso. (12) |
+| 9.1 Gastos notariales (13) | | | | | | Antes del desembolso. |
+| 9.2 Gastos registrales (14) | | | | | | Antes del desembolso. |
+| 10.-Comisión por Emisión de Segunda Constancia de No Adeudo | | S/ 35.00 | | | | |
+| 11.- Comisión por duplicado de cronograma o HR | | S/ 15.00 | | | | |
+| 12. Comisión por confirmación de saldos y firmas autorizadas (22) | | | | | | Al realizar la operación |
+| Correo electrónico | | S/ 90.00 | | | | |
+| Físico | | S/ 110.00 | | | | |
+| 13.- Comisión por cambio de fecha o de tasa | | S/ 80.00 | | US$ 30.00 | | |
+| 14.- Comisión por estudio de títulos | | S/ 200.00 | | | | |
+| 15.- Comisión por validación de poderes | | S/ 75.00 | | | | |
+| 16.- Comisión por Pre-pago(15) | 5.00% | | | 5.00% | | |
+| Concepto | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo | Oportunidad de Cobro |
+|---|---|---|---|---|---|---|---|
+| 17.- Comisión de estructuración (16) (17) | (18) |  | 1.00% | (18) |  | 1.00% |  |
+| 18.- Comisión de honorarios de cancelación (17) | (18) |  | 1.00% | (18) |  | 1.00% | Al efectuarse el desembolso y los pagos. |
+| 19.- Impuesto a las transacciones financieras - ITF | (19) |  |  | (19) |  |  |  |
+| 20.- Gasto de Reactiva Perú (20) (21) |  |  |  |  |  |  |  |
+| Crédito Banca Negocios PJ y PN | Moneda Nacional (MN) | Moneda Extranjera (ME) | Oportunidad de Cobro |
+|---|---|---|---|
+| Concepto | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo |
+| Notas: |  |  |  |  |  |  |
+| (1) Año Base de 360 días. Durante la vigencia del contrato las tasas de interés podrán variar de acuerdo a lo establecido en la legislación aplicable. |  |  |  |  |  |  |
+| (2) Se calcula sobre el importe de cuota vencida desde el primer día de atraso. No incluye costos o gastos notariales o judiciales que estarán a cargo del cliente en caso incurra en cobranza judicial o prejudicial. Si el cliente se atrasa en pagar la deuda, será reportado a la Central de Riesgo, sobre la base de lo establecido por las disposiciones legales vigentes al momento del incumplimiento. |  |  |  |  |  |  |
+| El interés moratorio es equivalente al 15% de la tasa máxima de interés convencional compensatorio publicado por el BCR, y varía cada 6 meses. Aplica solo cuando se constituyan garantías hipotecarias. La prima se calcula sobre la suma asegurada del inmueble, ésta es igual al valor de reconstrucción del inmueble. |  |  |  |  |  |  |
+| (4) Tasa anual. Para préstamos con período de gracia no mayor a 30 días. La prima se calcula sobre el importe total del crédito desembolsado o el importe de línea de crédito. La tasa incluye derecho de emisión e IGV. |  |  |  |  |  |  |
+| (5) Se rige según evaluación del inmueble y por el Tarifario de Garantías. |  |  |  |  |  |  |
+| (6) No aplica el seguro de desgravamen para clientes que hayan accedido al crédito a través del Programa Reactiva Perú. |  |  |  |  |  |  |
+| (7) El Seguro de Desgravamen tiene un costo según tarifario aplicado sobre el Saldo, el cual es otorgado por Interseguro o, si desea podrá endosar su seguro de vida antes del desembolso o durante la vigencia de su crédito. En este último caso, los términos y condiciones de los seguros contratados deberán ser iguales o superiores, cualitativa y cuantitativamente a los seguros ofrecidos por INTERBANK. |  |  |  |  |  |  |
+| (8) Aplica solo para clientes que han sido beneficiado con el crédito con garantía y/o clientes que solicitarán evaluación del crédito en mención. |  |  |  |  |  |  |
+| (9) La moneda de los conceptos de gasto/comisión indicados es soles, independientemente de la moneda en que el crédito fue contratado. |  |  |  |  |  |  |
+| (10) Las notarías son establecidas por el banco (Lima y provincias). |  |  |  |  |  |  |
+| (11) Cobrado por la notaría correspondiente según su tarifa. |  |  |  |  |  |  |
+| (12) Asolicitud del cliente y si la calificación crediticia lo permite, puede ser financiada en las mismas condiciones del crédito con garantía. |  |  |  |  |  |  |
+| (13) Las notarías son establecidas por el banco. Los gastos serán cobrados según su tarifa. |  |  |  |  |  |  |
+| (14) Tarifa establecida por la oficina de registros públicos de la ciudad donde se localiza el inmueble. |  |  |  |  |  |  |
+| (15) Esta comisión se aplicará a los financiamientos que sean cancelados totalmente hasta un día útil antes de su fecha de pago. La comisión a aplicar es 5% FLAT sobre el capital amortizado. |  |  |  |  |  |  |
+| (16) Corresponde al diseño de la estructura financiera que soportará el crédito con garantía quedando Interbank autorizado para debitar dicha suma de la cuenta corriente o ahorros que el cliente tiene en el banco. |  |  |  |  |  |  |
+| (17) Aplica solo para clientes que han sido beneficiado con el crédito con garantía y sujeto a evaluación. |  |  |  |  |  |  |
+| (18) El % es variable y es sobre el monto de del crédito total y en la moneda en que se refleje la operación. |  |  |  |  |  |  |
+| (19) El cobro se realizará por el monto de la operación, según tasa vigente en el tarifario Servicios Varios PJ para dicho concepto. |  |  |  |  |  |  |
+| (20) Aplica solo para clientes que hayan accedido al crédito a través del Programa Reactiva Perú. Este cargo es por la garantía otorgada por el Gobierno Nacional e incluye los costos de administración de COFIDE. En ningún caso puede ser una comisión de Interbank. Dicho cargo no está incluido en las cuotas del crédito y será cancelado por el cliente previamente al realizar el pago de la cuota doce (12), veinticuatro (24) y treinta y seis (36) o podrá ser debitado de la cuenta que el cliente autorice en el Acuerdo y solicitud del Crédito. |  |  |  |  |  |  |
+| (21) El cargo de la garantía otorgada por el Gobierno Nacional se componen y será cobrado de la siguiente manera: Si el plazo de vigencia remanente del Crédito Elegible o la Cartera de Créditos Elegibles es superior o igual a un (01) año, se calcula [0.50%] x [(monto pendiente de pago correspondiente a intereses del Banco Central de Reserva del Perú - BCRP) + (porcentaje de cobertura x Saldo insoluto del Crédito Elegible o la Cartera de Créditos Elegibles es inferior a un (01) año, se calcula [0.50%] x [(monto pendiente de pago correspondiente a intereses del Banco Central de Reserva del Perú - BCRP) + (porcentaje de cobertura x saldo insoluto del Crédito Elegible del período)] x [(número de meses cubiertos que incluyen los 90 días señalados en el numeral 11.3 del Reglamento Operativo aprobado por Resolución Ministerial N° 134 – 2020- EF/15) [12] |  |  |  |  |  |  |
+| (22) El servicio incluye información de saldos de productos y firmas de los representantes de la empresa. El cobro se aplicará por solicitud presentada. La tarifa de S/ 90.00 implica exclusivamente el envío del documento de saldos y firmas por vía electrónica. En caso requiera que el envío se realice en físico, el costo requiere el envío físico, se considerará como una nueva solicitud, por lo que corresponderá realizar el pago de la tarifa correspondiente de S/ 110.00 |  |  |  |  |  |  |
+| Información actualizada a Julio 2025 |  |  |  |  |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 9/10
+BANCO: Interbank
+PRODUCTO: TAR_0179t1662582945765
+FILENAME: TAR_0179t1662582945765.md
+FILEPATH: Interbank/TAR_0179t1662582945765.md
+---CONTENT_START---
+| Concepto | Tasa | Mínimo | Máximo | Tasa | Mínimo | Oportunidad de Cobro |
+| --- | --- | --- | --- | --- | --- | --- |
+| COMISIONES Y GASTOS |  |  |  |  |  |  |
+| 1. Cobranza documentaria de importación |  |  |  |  |  |  |
+| Comisiones usuales |  |  |  |  |  |  |
+| 1.1 Comisión de ingreso / registro / descargo |  |  |  | 0.50% | US$ 50.00 | Cobro al ingreso. |
+| Hasta US$ 50,000.00 (1) |  |  |  |  |  |  |
+| De US$ 50,001.00 a US$ 150,000.00 (1) |  |  |  | 0.25% | US$ 150.00 |  |
+| Más de US$ 150,001.00 (1) |  |  |  | 0.125% | US$ 250.00 | US$ 1500.00 |
+| 1.1.1 Comisión de gestión de swift |  |  |  |  | US$ 25.00 |  |
+| 1.2 Comisión de pago / reembolso al exterior (2) |  |  |  | 0.25% | US$ 50.00 | A la cancelación. |
+| 1.3 Comisión de aceptación (3) |  |  |  |  | US$ 80.00 | Se cobra al momento de recibir la letra aceptada por el girador. |
+| Comisiones eventuales |  |  |  |  |  |  |
+| 1.4 Comisión de aval (4) |  |  |  | 3.00% | US$ 150.00 | Cobro al momento que se otorga el aval. |
+| Comisión de gestión de swift |  |  |  |  | US$ 25.00 |  |
+| 1.5 Comisión de aval a futuro |  |  |  |  | US$ 50.00 | A solicitud del cliente. |
+| Comisión de gestión de swift |  |  |  |  | US$ 25.00 | A solicitud del cliente. |
+| 1.6 Comisión de modificación |  |  |  |  | US$ 50.00 | A la modificación. |
+| 1.6.1 Comisión de gestión de swift |  |  |  |  | US$ 25.00 | A la cancelación. |
+| Concepto | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo | Oportunidad de Cobro |
+|---|---|---|---|---|---|---|---|
+| 1.6.2 Comisión de gestión de courier (5) |  |  |  |  |  |  | A la modifica-ción. |
+| - USA y Latinoamérica |  |  |  |  |  | US$ 35.40 |  |
+| - Europa |  |  |  |  |  | US$ 47.20 |  |
+| - Asia y Oceanía |  |  |  |  |  | US$ 60.18 |  |
+| 1.7 Comisión de gestión de protesto (6) |  |  |  |  | US$ 50.00 |  | Al momento del protesto. |
+| 1.8 Comisión por gestión de levantamiento de protesto |  |  |  |  |  | US$ 10.00 | A solicitud del cliente. |
+| 1.9 Comisión por amortización |  |  |  | 0.25% | US$ 30.00 |  | A la amortiza-ción. |
+| 1.10 Comisión de endose |  |  |  |  | US$ 25.00 |  | A solicitud del cliente. |
+| 1.11 Comisión por gestión de portes |  |  |  |  | US$ 10.00 |  | Al ingreso. |
+| 2. Cobranza simple (cheques recibidos en cobranza) |  |  |  |  |  |  |  |
+| 2.1 Comisión de gestión de cheque del propio banco |  |  |  |  | US$ 50.00 |  | A la cance-lación. |
+| 2.2 Comisión de gestión de cheque de otros bancos locales |  |  |  |  | US$ 50.00 |  | A la cance-lación. |
+| 2.3 Comisión por gestión de portes |  |  |  |  | US$ 10.00 |  | Al ingreso. |
+| 3. Impuesto a las transacciones financieras (ITF) | (7) |  |  | (7) |  |  | Al efectuar el débito de las cuentas corrientes del cliente para el pago de comisiones aplicables. |
+| Notas: |  |  |  |  |  |  |  |
+| (1) Se cobra sobre el monto de la cobranza. |  |  |  |  |  |  |  |
+| (2) Se cobra sobre el monto del pago. |  |  |  |  |  |  |  |
+| Concepto | Moneda Nacional (MN) | Moneda Extranjera (ME) | Oportunidad de Cobro |
+|---|---|---|---|
+| | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo |
+| (3) Se aplica si la cobranza es a plazo. |  |  |  |  |  |  |  |
+| (4) Tasa nominal anual (TNA). |  |  |  |  |  |  |  |
+| (5) Dependiendo del país de destino. |  |  |  |  |  |  |  |
+| (6) Por documento. |  |  |  |  |  |  |  |
+| (7) Exoneradas transacciones que pasan por cuentas internas. El cobro se realizará según tasa vigente en el tarifario Servicios Varios PJ para dicho concepto. |  |  |  |  |  |  |  |
+| La empresa tiene la obligación de difundir información de conformidad con la Ley N° 28587 y el Reglamento de Transparencia de Información y Disposiciones Aplicables a la Contratación con Usuarios del Sistema Financiero, aprobado mediante Resolución SBS N° 8181-2012 |  |  |  |  |  |  |  |
+| Información actualizada a Marzo de 2016 |  |  |  |  |  |  |  |
+---CONTENT_END---
+
+---DOCUMENT_START---
+FILE_NUMBER: 10/10
+BANCO: Interbank
+PRODUCTO: TAR_0203t1668179822295
+FILENAME: TAR_0203t1668179822295.md
+FILEPATH: Interbank/TAR_0203t1668179822295.md
+---CONTENT_START---
+| Concepto | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo | Oportunidad de Cobro |
+|---|---|---|---|---|---|---|---|
+| COMISIONES Y GASTOS |  |  |  |  |  |  |  |
+| 1. Comisión de emisión o renovación (1)(2) | 4.50% | S/ 100.00 |  | 4.50% | US$ 30.00 |  | Según modalidad (adelanta- do / venci- miento). |
+| 2. Comisión de modificación (3) |  | S/ 100.00 |  |  | US$ 30.00 |  | Cada vez que se solicite la modifica- ción. |
+| 3. Comisión por requerimiento (1) | 4.50% | S/ 100.00 |  | 4.50% | US$ 30.00 |  | Por periodo mensual adelantado. |
+| 4. Comisión de ejecución (1) | 0.50% | S/ 75.00 |  | 0.50% | US$ 25.00 |  | Cada vez que honra / ejecuta la fianza. Flat. |
+| 5. Comisión por descargo (1) | 4.50% | S/ 100.00 |  | 4.50% | $30.00 |  | Por cada día transcurrido desde el vencimiento hasta los 15 días de vigencia posteriores. |
+| 6. Comisión de cancelación con fondos del cliente (1) | 0.25% | S/ 75.00 |  | 0.25% | US$ 25.00 |  | Cada vez que honra / ejecuta la fianza. Flat. |
+| Emisión de nota débito (3) |  | S/ 3.50 |  |  | US$ 1.00 |  | Al momento de realizar el cargo en la cuenta para ejecutar la fianza. |
+| Concepto | Moneda Nacional (MN) | Moneda Extranjera (ME) | Oportunidad de Cobro |
+|---|---|---|---|
+| | Tasa | Mínimo | Máximo | Tasa | Mínimo | Máximo | |
+| 7. Comisión por gestiones notariales (3) |  |  | S/ 30.00 |  |  | US$ 30.00 | Cada vez que el beneficiario solicite la renovación y esta se entregue vía notarial al beneficiario. |
+| 8. Impuesto a las transacciones financieras (ITF) | (4) |  |  | (4) |  |  | Al efectuar el pago de las comisiones aplicables. |
+| * Clientes Consolidados : Clientes con ventas anuales declaradas mayores a S/1MM. |
+| Notas: |
+| (1) La tasa se aplica sobre el importe de la Carta Fianza. La comisión máxima se cobra de acuerdo a la aplicación de la tasa. |
+| (2) Tasa Nominal Anual (TNA) aplicada al plazo de emisión o renovación solicitado por el cliente. |
+| (3) La comisión se cobra en la moneda de la Carta Fianza emitida. En caso la moneda de la cuenta relacionada sea distinta a la del importe de la Carta Fianza, aplicará el tipo de cambio vigente. |
+| (4) Exoneradas aquellas transacciones que pasan por cuentas internas. El cobro se realizará según tasa vigente en el tarifario Servicios Varios Persona Jurídica para dicho concepto. |
+| (5) La comisión se cobra en base al saldo a pagar. |
+| La empresa tiene la obligación de difundir información de conformidad con la Ley N° 28587 y el Reglamento de Transparencia de Información y Disposiciones Aplicables a la Contratación con Usuarios del Sistema Financiero, aprobado mediante Resolución SBS N° 8181-2012 |
+| Información actualizada a Diciembre de 2016 |
+---CONTENT_END---
+
