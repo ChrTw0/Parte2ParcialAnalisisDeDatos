@@ -62,6 +62,7 @@ TARIFARIOS/**/*.pdf
 # Imágenes PNG convertidas (~2GB)
 data/pngs/**/*.png
 data/images/**/*.png
+data/images_processed/**/*.png
 
 # Archivos OCR Markdown (~100MB)
 data/ocr/**/*.md
@@ -76,7 +77,9 @@ logs/
 
 # Archivos de progreso (regenerables)
 **/ocr_progress.json
-**/progress.json
+**/progress*.json
+data/processed/**/*.json
+data/batches_combinados/
 
 # Archivos temporales
 tmp/
